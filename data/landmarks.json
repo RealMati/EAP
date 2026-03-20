@@ -889,7 +889,7 @@
     {
       "id": 59,
       "name": "Amist Kilo",
-      "amharic": "",
+      "amharic": "አምስት ኪሎ",
       "aliases": [],
       "category": "other",
       "subcity": "",
@@ -899,7 +899,7 @@
     {
       "id": 60,
       "name": "የካ",
-      "amharic": "",
+      "amharic": "የካ",
       "aliases": [
         "Yeka"
       ],
@@ -923,7 +923,7 @@
     {
       "id": 62,
       "name": "ንፋስ ስልክ ላፍቶ",
-      "amharic": "",
+      "amharic": "ንፋስ ስልክ ላፍቶ",
       "aliases": [
         "Nefas Silk-Lafto"
       ],
