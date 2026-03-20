@@ -167,24 +167,37 @@ class TransformerNER:
     def is_available(self) -> bool:
         return self._loaded and self.pipeline is not None
 
-    def extract(self, text: str) -> list[Entity]:
-        """Run transformer NER on text. Returns location entities."""
+    def extract(self, text: str, known_subcities: set[str] | None = None) -> list[Entity]:
+        """Run transformer NER on text. Returns location entities.
+
+        Filters out entities that match known subcity names to avoid
+        polluting landmark search with subcity tokens.
+        """
         if not self.is_available:
             return []
+
+        known = {s.lower() for s in (known_subcities or set())}
 
         results = self.pipeline(text)
         entities = []
         for r in results:
-            # MasakhaNER labels: B-LOC, I-LOC, B-PER, etc.
             label = r.get("entity_group", "")
-            if "LOC" in label:
-                entities.append(Entity(
-                    text=r["word"].strip(),
-                    label="LANDMARK",
-                    start=r["start"],
-                    end=r["end"],
-                    confidence=r["score"],
-                ))
+            if "LOC" not in label:
+                continue
+            word = r["word"].strip()
+            # Skip if this is a known subcity, direction keyword, or too short
+            if word.lower() in known or len(word) < 2:
+                continue
+            # Skip low-confidence extractions
+            if r["score"] < 0.5:
+                continue
+            entities.append(Entity(
+                text=word,
+                label="LANDMARK",
+                start=r["start"],
+                end=r["end"],
+                confidence=r["score"],
+            ))
         return entities
 
 
@@ -210,9 +223,16 @@ class CombinedNER:
         # Rule-based gets subcities, directions, woredas
         result = self.rule_ner.extract(text)
 
-        # Transformer gets landmark names
+        # Build set of known subcity names + aliases + direction words to filter
+        filter_words = set()
+        for key in self.rule_ner.subcity_lookup:
+            filter_words.add(key)
+        for key in self.rule_ner.direction_lookup:
+            filter_words.add(key)
+
+        # Transformer gets landmark names (filtered)
         if self.transformer_ner and self.transformer_ner.is_available:
-            ml_entities = self.transformer_ner.extract(text)
+            ml_entities = self.transformer_ner.extract(text, known_subcities=filter_words)
             for ent in ml_entities:
                 # Avoid duplicating entities that rule-based already found
                 overlap = False

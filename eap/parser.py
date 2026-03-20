@@ -107,35 +107,40 @@ class EthiopianAddressParser:
             result.direction = ner_result.directions[0]
 
         # Step 2: Build landmark queries
-        # Use NER-extracted landmarks first, then fall back to full text minus known entities
         landmark_queries = self._build_landmark_queries(address, ner_result)
 
         # Step 3: Match against landmark database
-        best_match = None
+        # Run ALL queries, collect ALL candidates, then pick the best
         all_candidates = []
         for query in landmark_queries:
-            matches = self.landmark_index.match(query, top_k=5, threshold=50.0)
+            matches = self.landmark_index.match(query, top_k=5, threshold=45.0)
             all_candidates.extend(matches)
-            if matches and (best_match is None or matches[0].score > best_match.score):
-                best_match = matches[0]
 
-        # If we have a subcity, boost matches in that subcity
-        if result.subcity and all_candidates:
+        # Penalize semantic matches that score lower than the best fuzzy match
+        # This prevents semantic false positives from overriding correct fuzzy hits
+        best_fuzzy = max(
+            (c.score for c in all_candidates if c.method in ("exact", "fuzzy")),
+            default=0.0,
+        )
+        for c in all_candidates:
+            if c.method == "semantic" and c.score < best_fuzzy:
+                c.score *= 0.8  # Penalize semantic when fuzzy found something better
+
+        # Boost matches in the correct subcity
+        if result.subcity:
             for candidate in all_candidates:
                 if candidate.landmark.subcity and \
                    candidate.landmark.subcity.lower() == result.subcity.lower():
                     candidate.score = min(100.0, candidate.score + 10.0)
-            all_candidates.sort(key=lambda c: c.score, reverse=True)
-            best_match = all_candidates[0]
 
-        # Deduplicate candidates
-        seen = set()
-        unique_candidates = []
+        # Deduplicate — keep highest score per landmark
+        seen: dict[str, MatchResult] = {}
         for c in all_candidates:
-            if c.landmark.name not in seen:
-                seen.add(c.landmark.name)
-                unique_candidates.append(c)
+            if c.landmark.name not in seen or c.score > seen[c.landmark.name].score:
+                seen[c.landmark.name] = c
+        unique_candidates = sorted(seen.values(), key=lambda c: c.score, reverse=True)
         result.candidates = unique_candidates[:5]
+        best_match = unique_candidates[0] if unique_candidates else None
 
         # Step 4: Populate result
         if best_match and best_match.score >= 50.0:
