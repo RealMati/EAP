@@ -1,0 +1,17 @@
+# Real-World Ethiopian Addresses
+# Format: address | expected_subcity | expected_landmark
+
+# 1. Nefas Silk Lafto
+Nefas silk lafto / Feresula cafe, ሙለጌ ህንፃ ground floor ቡና ቦርድ አካባቢ/ Buna board | nifas silk | feresula
+
+# 2. Kirkos
+Kirkos sub city / Dembel commercial city center ኦሎምፒያ አደባባይ አካባቢ/ Olompia Square | kirkos | dembel
+
+# 3. Arada
+Arada sub city /Romina cafe & restaurant ምኒልክ ትምህርት ቤት ፊት ለፊት /Minelik preparatory school | arada | romina
+
+# 4. Bole
+Bole subcity / Addis Ababa international airport ቦሌ ድልድይ አካባቢ / Bole Bridge | bole | airport
+
+# 5. Yeka
+Yeka sub city / British council ኬንያ ኤምባሲ አጠገብ፣ ቀበና አካባቢ/ Kenya embassy | yeka | british

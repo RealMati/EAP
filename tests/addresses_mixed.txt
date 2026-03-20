@@ -1,0 +1,46 @@
+# Mixed Amharic-English Addresses
+# Format: address | expected_subcity | expected_landmark
+# Most common in real-world usage
+
+# Amharic place names + English directions
+Bole Edna Mall ጀርባ | bole | edna
+ቦሌ subcity behind Edna Mall | bole | edna
+Kirkos woreda 5 ሂልተን ሆቴል አጠገብ | kirkos | hilton
+ሂልተን ሆቴል near Meskel Square | kirkos | hilton
+Yeka CMC ሚካኤል church አካባቢ | yeka | michael
+
+# English subcity + Amharic landmarks
+Bole ኤድና ሞል behind | bole | edna
+Kirkos መስቀል አደባባይ near | kirkos | meskel
+Yeka ሚካኤል church area | yeka | michael
+Lideta መርካቶ ገበያ ጀርባ | lideta | mercato
+Arada ፒያሳ አካባቢ | arada | piassa
+
+# Amharic keywords + English places
+Edna Mall ጀርባ blue building | bole | edna
+Hilton Hotel አጠገብ white house | kirkos | hilton
+Meskel Square ቅርብ yellow building | kirkos | meskel
+Stadium አካባቢ 2nd floor | kirkos | stadium
+Airport ጀርባ green house | bole | airport
+
+# Mixed directions and landmarks
+ቦሌ Edna Mall ጀርባ blue building | bole | edna
+Kirkos ሂልተን ሆቴል opposite white building | kirkos | hilton
+Yeka CMC Michael ቤተክርስቲያን አካባቢ | yeka | michael
+መስቀል square near the stadium | kirkos | meskel
+ኦሊምፒያ mall Kolfe behind | kolfe | olympia
+
+# Woreda + mixed
+Bole ወሬዳ 3 Edna Mall ጀርባ | bole | edna
+ኪርቆስ woreda 5 Hilton ሆቴል | kirkos | hilton
+Yeka woreda 7 ሚካኤል church | yeka | michael
+
+# Complex mixed
+Bole subcity ኤድና ሞል ጀርባ blue building 2nd floor | bole | edna
+ቦሌ ክፍለ ከተማ behind Edna Mall yellow house | bole | edna
+Kirkos woreda 5 near ሂልተን ሆቴል white building | kirkos | hilton
+
+# Building descriptions mixed
+ቦሌ Edna Mall አጠገብ ሰማያዊ building | bole | edna
+Hilton ሆቴል ጀርባ white ቤት | kirkos | hilton
+መስቀል square ቅርብ yellow ህንጻ | kirkos | meskel

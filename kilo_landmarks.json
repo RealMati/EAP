@@ -1,0 +1,4592 @@
+[
+  {
+    "id": 1,
+    "name": "አዲስ አበባ ኪሎ ኢንጅነሪንግ ካምፓስ / 5 AA University 5 kilo Campus",
+    "amharic": "አዲስ አበባ ኪሎ ኢንጅነሪንግ ካምፓስ",
+    "aliases": [],
+    "category": "University",
+    "subcity": "",
+    "lat": 9.040360399999999,
+    "lng": 38.7626182
+  },
+  {
+    "id": 2,
+    "name": "5 kilo Student Cafe",
+    "amharic": "",
+    "aliases": [],
+    "category": "Cafeteria",
+    "subcity": "",
+    "lat": 9.0401534,
+    "lng": 38.7614686
+  },
+  {
+    "id": 3,
+    "name": "ኪሎ ላውንጅ እና ሬስቶራንት / 5 5kilo Lounge and Restaurant",
+    "amharic": "ኪሎ ላውንጅ እና ሬስቶራንት",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Arada",
+    "lat": 9.034235599999999,
+    "lng": 38.7616292
+  },
+  {
+    "id": 4,
+    "name": "5 Kilo Male Dormitory A Block",
+    "amharic": "",
+    "aliases": [],
+    "category": "Student dormitory",
+    "subcity": "",
+    "lat": 9.0395922,
+    "lng": 38.7618189
+  },
+  {
+    "id": 5,
+    "name": "4 kilo",
+    "amharic": "",
+    "aliases": [],
+    "category": "Transportation service",
+    "subcity": "",
+    "lat": 9.006219399999999,
+    "lng": 38.8231602
+  },
+  {
+    "id": 6,
+    "name": "አራት ኪሎ አደባባይ / 4 kilo square",
+    "amharic": "አራት ኪሎ አደባባይ",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "Kebena",
+    "lat": 9.032874999999999,
+    "lng": 38.763376
+  },
+  {
+    "id": 7,
+    "name": "4 Kilo batmngsat",
+    "amharic": "",
+    "aliases": [],
+    "category": "Park",
+    "subcity": "Arada",
+    "lat": 9.0344907,
+    "lng": 38.760556199999996
+  },
+  {
+    "id": 8,
+    "name": "ሸበታ ላውንጅ / Shebeta ( Freetown) Lounge",
+    "amharic": "ሸበታ ላውንጅ",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Arada",
+    "lat": 9.0349344,
+    "lng": 38.7626048
+  },
+  {
+    "id": 9,
+    "name": "6 kilo",
+    "amharic": "",
+    "aliases": [],
+    "category": "Store",
+    "subcity": "Yeka",
+    "lat": 9.042681499999999,
+    "lng": 38.764878599999996
+  },
+  {
+    "id": 10,
+    "name": "4 Kilo National Palace",
+    "amharic": "",
+    "aliases": [],
+    "category": "Government office",
+    "subcity": "Arada",
+    "lat": 9.026425,
+    "lng": 38.7649271
+  },
+  {
+    "id": 11,
+    "name": "ማሚ እርጥብ አራት ኪሎ / Mami Ertib 4 Kilo",
+    "amharic": "ማሚ እርጥብ አራት ኪሎ",
+    "aliases": [],
+    "category": "Small plates restaurant",
+    "subcity": "Arada",
+    "lat": 9.034457699999999,
+    "lng": 38.7591396
+  },
+  {
+    "id": 12,
+    "name": "ማማ ኪችን ኪሎ / Mama's Kitchen 4Kilo 4",
+    "amharic": "ማማ ኪችን ኪሎ",
+    "aliases": [],
+    "category": "Family restaurant",
+    "subcity": "Arada",
+    "lat": 9.035101,
+    "lng": 38.7627774
+  },
+  {
+    "id": 13,
+    "name": "4kilo",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Arada",
+    "lat": 9.0315172,
+    "lng": 38.759672699999996
+  },
+  {
+    "id": 14,
+    "name": "Sahiis Cafe 4kilo Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Juice shop",
+    "subcity": "Arada",
+    "lat": 9.0314064,
+    "lng": 38.7628968
+  },
+  {
+    "id": 15,
+    "name": "ሮዛ ሆቴል ኪሎ / Roza Hotel 4 Kilo 4",
+    "amharic": "ሮዛ ሆቴል ኪሎ",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Arada",
+    "lat": 9.0336343,
+    "lng": 38.7611254
+  },
+  {
+    "id": 16,
+    "name": "Mamsha Grocery & Restaurant 2 | 4 Kilo",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Arada",
+    "lat": 9.0317411,
+    "lng": 38.7618113
+  },
+  {
+    "id": 17,
+    "name": "ጠጠር ሕንፃ ኪሎ / xexer building 4 kilo 4",
+    "amharic": "ጠጠር ሕንፃ ኪሎ",
+    "aliases": [],
+    "category": "Shopping mall",
+    "subcity": "Arada",
+    "lat": 9.0345079,
+    "lng": 38.762761
+  },
+  {
+    "id": 18,
+    "name": "4kilo,urael,hayahulet taxi",
+    "amharic": "",
+    "aliases": [],
+    "category": "Transportation service",
+    "subcity": "",
+    "lat": 9.030984499999999,
+    "lng": 38.7543623
+  },
+  {
+    "id": 19,
+    "name": "ኢክላስ ህንጻ ኪሎ / IKHLAS BUILDING 4 Kilo 4",
+    "amharic": "ኢክላስ ህንጻ ኪሎ",
+    "aliases": [],
+    "category": "Shopping mall",
+    "subcity": "Arada",
+    "lat": 9.031524899999999,
+    "lng": 38.7618175
+  },
+  {
+    "id": 20,
+    "name": "4 Kilo Guesthouse",
+    "amharic": "",
+    "aliases": [],
+    "category": "Guest house",
+    "subcity": "Kebena",
+    "lat": 9.0380072,
+    "lng": 38.7659795
+  },
+  {
+    "id": 21,
+    "name": "Abraham Fast Food 4kilo",
+    "amharic": "",
+    "aliases": [],
+    "category": "Fast food restaurant",
+    "subcity": "Arada",
+    "lat": 9.0306872,
+    "lng": 38.761392199999996
+  },
+  {
+    "id": 22,
+    "name": "አራት ኪሎ አርበኞች ሃውልት / Arat Kilo Patriots Monument",
+    "amharic": "አራት ኪሎ አርበኞች ሃውልት",
+    "aliases": [],
+    "category": "Educational institution",
+    "subcity": "Arada",
+    "lat": 9.032836099999999,
+    "lng": 38.763336699999996
+  },
+  {
+    "id": 23,
+    "name": "4 Kilo Pharmacy",
+    "amharic": "",
+    "aliases": [],
+    "category": "Pharmacy",
+    "subcity": "",
+    "lat": 9.0331379,
+    "lng": 38.761707099999995
+  },
+  {
+    "id": 24,
+    "name": "Cozy Restaurant 4 kilo",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Arada",
+    "lat": 9.030636699999999,
+    "lng": 38.7611231
+  },
+  {
+    "id": 25,
+    "name": "መሠረት ካፌ ኪሎ / Meseret Cafe 4 Kilo 4",
+    "amharic": "መሠረት ካፌ ኪሎ",
+    "aliases": [],
+    "category": "Cafe",
+    "subcity": "Arada",
+    "lat": 9.033428299999999,
+    "lng": 38.762642899999996
+  },
+  {
+    "id": 26,
+    "name": "4 kilo",
+    "amharic": "",
+    "aliases": [],
+    "category": "Laboratory",
+    "subcity": "",
+    "lat": 9.0410498,
+    "lng": 38.7639747
+  },
+  {
+    "id": 27,
+    "name": "Yardstick International College 4kilo Campus",
+    "amharic": "",
+    "aliases": [],
+    "category": "University",
+    "subcity": "",
+    "lat": 9.036010899999999,
+    "lng": 38.7602062
+  },
+  {
+    "id": 28,
+    "name": "Ethio bonda 4Kilo",
+    "amharic": "",
+    "aliases": [],
+    "category": "Clothes market",
+    "subcity": "Arada",
+    "lat": 9.0333282,
+    "lng": 38.7613025
+  },
+  {
+    "id": 29,
+    "name": "Pizza Hut 4kilo",
+    "amharic": "",
+    "aliases": [],
+    "category": "Pizza restaurant",
+    "subcity": "Arada",
+    "lat": 9.0314375,
+    "lng": 38.7631875
+  },
+  {
+    "id": 30,
+    "name": "ዋዉ በርገር አራት ኪሎ / Wow Burger🍔 4kilo 🍔",
+    "amharic": "ዋዉ በርገር አራት ኪሎ",
+    "aliases": [],
+    "category": "Fast food restaurant",
+    "subcity": "Arada",
+    "lat": 9.0346914,
+    "lng": 38.7600844
+  },
+  {
+    "id": 31,
+    "name": "ኪሎ ፖሊስ ጣቢያ / 4 Kilo Police Station 4",
+    "amharic": "ኪሎ ፖሊስ ጣቢያ",
+    "aliases": [],
+    "category": "Federal police",
+    "subcity": "Arada",
+    "lat": 9.033464,
+    "lng": 38.7599167
+  },
+  {
+    "id": 32,
+    "name": "ወወክማ ኪሎ / Wewekima 4 kilo 4",
+    "amharic": "ወወክማ ኪሎ",
+    "aliases": [],
+    "category": "Youth center",
+    "subcity": "",
+    "lat": 9.0325819,
+    "lng": 38.7665055
+  },
+  {
+    "id": 33,
+    "name": "Romina Restaurant | 4 Kilo",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bar",
+    "subcity": "Arada",
+    "lat": 9.036024399999999,
+    "lng": 38.762558999999996
+  },
+  {
+    "id": 34,
+    "name": "ቅዱስ ፕላዛ ኪሎ / Kidus Plaza 4 Kilo 4",
+    "amharic": "ቅዱስ ፕላዛ ኪሎ",
+    "aliases": [],
+    "category": "Plaza",
+    "subcity": "Arada",
+    "lat": 9.034120699999999,
+    "lng": 38.759968799999996
+  },
+  {
+    "id": 35,
+    "name": "ኪሎ ፕላዛ / 4 Kilo Plaza 4",
+    "amharic": "ኪሎ ፕላዛ",
+    "aliases": [],
+    "category": "Shopping mall",
+    "subcity": "Kebena",
+    "lat": 9.0332206,
+    "lng": 38.7637283
+  },
+  {
+    "id": 36,
+    "name": "Meskott Culinary Experience",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Arada",
+    "lat": 9.0354516,
+    "lng": 38.7626815
+  },
+  {
+    "id": 37,
+    "name": "ሰብለ አሳና ሬስቶራንት ኪሎ / Seble Fish and Restaurant 4 Kilo 4",
+    "amharic": "ሰብለ አሳና ሬስቶራንት ኪሎ",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Arada",
+    "lat": 9.0338234,
+    "lng": 38.7616963
+  },
+  {
+    "id": 38,
+    "name": "Mesi Gebeta Arat kilo",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Arada",
+    "lat": 9.033893599999999,
+    "lng": 38.762165499999995
+  },
+  {
+    "id": 39,
+    "name": "ሳላይሽ ቪሌጅ / salayesh village 4 kilo",
+    "amharic": "ሳላይሽ ቪሌጅ",
+    "aliases": [],
+    "category": "Country food restaurant",
+    "subcity": "Arada",
+    "lat": 9.0351998,
+    "lng": 38.7593581
+  },
+  {
+    "id": 40,
+    "name": "Verres en Vers",
+    "amharic": "",
+    "aliases": [],
+    "category": "French restaurant",
+    "subcity": "Kirkos",
+    "lat": 9.0162443,
+    "lng": 38.7677787
+  },
+  {
+    "id": 41,
+    "name": "ማቻ ኑድልስ ኪሎ / 4 Macha Noodles 4 Kilo",
+    "amharic": "ማቻ ኑድልስ ኪሎ",
+    "aliases": [],
+    "category": "Noodle shop",
+    "subcity": "Arada",
+    "lat": 9.0351013,
+    "lng": 38.7587578
+  },
+  {
+    "id": 42,
+    "name": "ሮሚታ ካፌና ሬስቶራንት ኪሎ / Romita Cafe & Restaurant 4 Kilo 4",
+    "amharic": "ሮሚታ ካፌና ሬስቶራንት ኪሎ",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Kebena",
+    "lat": 9.031984099999999,
+    "lng": 38.7654344
+  },
+  {
+    "id": 43,
+    "name": "Reboot Coffee",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Arada",
+    "lat": 9.032834,
+    "lng": 38.7615596
+  },
+  {
+    "id": 44,
+    "name": "Five Loaves Bistro and Bakery",
+    "amharic": "",
+    "aliases": [],
+    "category": "Western restaurant",
+    "subcity": "Kebena",
+    "lat": 9.0354871,
+    "lng": 38.7741584
+  },
+  {
+    "id": 45,
+    "name": "Marcus Addis Restaurant & Sky Bar",
+    "amharic": "",
+    "aliases": [],
+    "category": "Fine dining restaurant",
+    "subcity": "Kirkos",
+    "lat": 9.016458199999999,
+    "lng": 38.7543669
+  },
+  {
+    "id": 46,
+    "name": "Nonna's Italian kitchen",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Arada",
+    "lat": 9.0313591,
+    "lng": 38.763356099999996
+  },
+  {
+    "id": 47,
+    "name": "አምሮኝ ቺክን / Amrogn Chicken 4 kilo",
+    "amharic": "አምሮኝ ቺክን",
+    "aliases": [],
+    "category": "Chicken restaurant",
+    "subcity": "Arada",
+    "lat": 9.0349761,
+    "lng": 38.758741799999996
+  },
+  {
+    "id": 48,
+    "name": "Romina Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Takeout Restaurant",
+    "subcity": "Yeka",
+    "lat": 9.0293546,
+    "lng": 38.7850744
+  },
+  {
+    "id": 49,
+    "name": "Mags Café",
+    "amharic": "",
+    "aliases": [],
+    "category": "Cafe",
+    "subcity": "Arada",
+    "lat": 9.030791299999999,
+    "lng": 38.760899699999996
+  },
+  {
+    "id": 50,
+    "name": "Maleda Cafe and Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Cafe",
+    "subcity": "Arada",
+    "lat": 9.0355791,
+    "lng": 38.7627282
+  },
+  {
+    "id": 51,
+    "name": "ADORSI COFFEE",
+    "amharic": "",
+    "aliases": [],
+    "category": "Coffee shop",
+    "subcity": "Arada",
+    "lat": 9.0315139,
+    "lng": 38.7621628
+  },
+  {
+    "id": 52,
+    "name": "Addis Ababa Restaurant | Piassa |",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Arada",
+    "lat": 9.0408971,
+    "lng": 38.7526601
+  },
+  {
+    "id": 53,
+    "name": "ቁ ታደሰ ዐሳ ቤት / .2 Tadesse Asa Beth 4 kilo",
+    "amharic": "ቁ ታደሰ ዐሳ ቤት",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Arada",
+    "lat": 9.035943099999999,
+    "lng": 38.7576678
+  },
+  {
+    "id": 54,
+    "name": "KOBA Patisserie & Bakery - 4 Kilo Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bakery",
+    "subcity": "Arada",
+    "lat": 9.0363739,
+    "lng": 38.7626166
+  },
+  {
+    "id": 55,
+    "name": "ካልዶ በርገር ቤት / Caldo Burger House -",
+    "amharic": "ካልዶ በርገር ቤት",
+    "aliases": [],
+    "category": "Fast food restaurant",
+    "subcity": "Arada",
+    "lat": 9.033104999999999,
+    "lng": 38.761693099999995
+  },
+  {
+    "id": 56,
+    "name": "La Mandoline French Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "French restaurant",
+    "subcity": "Yeka",
+    "lat": 9.028414399999999,
+    "lng": 38.787269699999996
+  },
+  {
+    "id": 57,
+    "name": "ዳሽን ተራራ ባህላዊ ምግብ ቤት / Dashen Terara Traditional Restaurant",
+    "amharic": "ዳሽን ተራራ ባህላዊ ምግብ ቤት",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Yeka",
+    "lat": 9.0170444,
+    "lng": 38.786275599999996
+  },
+  {
+    "id": 58,
+    "name": "ኢን ጆይ በርገር ኪሎ / IN-JOY Burger - 4 Kilo Branch - - 4",
+    "amharic": "ኢን ጆይ በርገር ኪሎ",
+    "aliases": [],
+    "category": "Fast food restaurant",
+    "subcity": "Arada",
+    "lat": 9.031748,
+    "lng": 38.7618121
+  },
+  {
+    "id": 59,
+    "name": "Brhan shiro",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Arada",
+    "lat": 9.031502699999999,
+    "lng": 38.7620958
+  },
+  {
+    "id": 60,
+    "name": "Addis Ababa University 6 Kilo",
+    "amharic": "",
+    "aliases": [],
+    "category": "Public university",
+    "subcity": "Gulele",
+    "lat": 9.0465725,
+    "lng": 38.7612848
+  },
+  {
+    "id": 61,
+    "name": "Yekatit 12 Square",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical place",
+    "subcity": "Gulele",
+    "lat": 9.043907599999999,
+    "lng": 38.7611634
+  },
+  {
+    "id": 62,
+    "name": "6 kilo digital library",
+    "amharic": "",
+    "aliases": [],
+    "category": "Library",
+    "subcity": "",
+    "lat": 9.0476418,
+    "lng": 38.759942099999996
+  },
+  {
+    "id": 63,
+    "name": "ኪሎ ሙሉወንጌል ቤተክርስቲያን / 6 Kilo Mulu Wengel 6",
+    "amharic": "ኪሎ ሙሉወንጌል ቤተክርስቲያን",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "",
+    "lat": 9.0404617,
+    "lng": 38.759743199999996
+  },
+  {
+    "id": 64,
+    "name": "ሰንደይ ማርኬት ኪሎ / Sunday Market 6 Kilo 6",
+    "amharic": "ሰንደይ ማርኬት ኪሎ",
+    "aliases": [],
+    "category": "Market",
+    "subcity": "Yeka",
+    "lat": 9.0415639,
+    "lng": 38.7668253
+  },
+  {
+    "id": 65,
+    "name": "Yekatit 12 Square Sidist Kilo",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "Gulele",
+    "lat": 9.0438872,
+    "lng": 38.7611956
+  },
+  {
+    "id": 66,
+    "name": "አ አ ዩኒቨርሲቲ ኪሎ ካምፓስ / AA University 6 Kilo Campus . 6",
+    "amharic": "አ አ ዩኒቨርሲቲ ኪሎ ካምፓስ",
+    "aliases": [],
+    "category": "University",
+    "subcity": "Gulele",
+    "lat": 9.0468804,
+    "lng": 38.7598621
+  },
+  {
+    "id": 67,
+    "name": "6 Kilo Properties",
+    "amharic": "",
+    "aliases": [],
+    "category": "Real estate rental agency",
+    "subcity": "",
+    "lat": 9.04093,
+    "lng": 38.7583103
+  },
+  {
+    "id": 68,
+    "name": "Arat Killo Monument",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.032890499999999,
+    "lng": 38.7633728
+  },
+  {
+    "id": 69,
+    "name": "Aware Arat Kilo Square",
+    "amharic": "",
+    "aliases": [],
+    "category": "Park",
+    "subcity": "Arada",
+    "lat": 9.0328378,
+    "lng": 38.763369499999996
+  },
+  {
+    "id": 70,
+    "name": "Arat kilo",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "",
+    "lat": 9.0191936,
+    "lng": 38.7524635
+  },
+  {
+    "id": 71,
+    "name": "Arat Kilo police Station",
+    "amharic": "",
+    "aliases": [],
+    "category": "State police",
+    "subcity": "Arada",
+    "lat": 9.0336857,
+    "lng": 38.7587662
+  },
+  {
+    "id": 72,
+    "name": "Amist Kilo Square",
+    "amharic": "",
+    "aliases": [],
+    "category": "Park",
+    "subcity": "Kebena",
+    "lat": 9.0377479,
+    "lng": 38.7626936
+  },
+  {
+    "id": 73,
+    "name": "Arat Kilo Child Care And Communit Development",
+    "amharic": "",
+    "aliases": [],
+    "category": "Exporter",
+    "subcity": "Arada",
+    "lat": 9.034505,
+    "lng": 38.747189
+  },
+  {
+    "id": 74,
+    "name": "Arat Kilo Police Station",
+    "amharic": "",
+    "aliases": [],
+    "category": "State police",
+    "subcity": "Kebena",
+    "lat": 9.029349,
+    "lng": 38.768662
+  },
+  {
+    "id": 75,
+    "name": "Amist Kilo Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Arada",
+    "lat": 9.0395047,
+    "lng": 38.761119
+  },
+  {
+    "id": 76,
+    "name": "ቤሎስ ኪሎ / Bilos Pastry 4 kilo 4",
+    "amharic": "ቤሎስ ኪሎ",
+    "aliases": [],
+    "category": "Cafe",
+    "subcity": "Arada",
+    "lat": 9.0340752,
+    "lng": 38.760025399999996
+  },
+  {
+    "id": 77,
+    "name": "Tomoca Coffee",
+    "amharic": "",
+    "aliases": [],
+    "category": "Coffee roasters",
+    "subcity": "Arada",
+    "lat": 9.0309084,
+    "lng": 38.750701899999996
+  },
+  {
+    "id": 78,
+    "name": "Qeda Coffee - 4 Kilo 3rd branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Coffee shop",
+    "subcity": "Arada",
+    "lat": 9.0333732,
+    "lng": 38.763074499999995
+  },
+  {
+    "id": 79,
+    "name": "ቶሞካ ቡና አብረሆት ቤተ መፃህፍት / Tomoca coffee Abrehot Library",
+    "amharic": "ቶሞካ ቡና አብረሆት ቤተ መፃህፍት",
+    "aliases": [],
+    "category": "Coffee shop",
+    "subcity": "Arada",
+    "lat": 9.0307358,
+    "lng": 38.762640999999995
+  },
+  {
+    "id": 80,
+    "name": "Green Gold Cafe and Roastery",
+    "amharic": "",
+    "aliases": [],
+    "category": "Coffee shop",
+    "subcity": "Kebena",
+    "lat": 9.010696099999999,
+    "lng": 38.7697174
+  },
+  {
+    "id": 81,
+    "name": "DOLS COFFEE",
+    "amharic": "",
+    "aliases": [],
+    "category": "Coffee shop",
+    "subcity": "Arada",
+    "lat": 9.0326098,
+    "lng": 38.7603182
+  },
+  {
+    "id": 82,
+    "name": "ሳሌም ሽሮ",
+    "amharic": "ሳሌም ሽሮ",
+    "aliases": [],
+    "category": "Coffee shop",
+    "subcity": "Arada",
+    "lat": 9.0304748,
+    "lng": 38.7606823
+  },
+  {
+    "id": 83,
+    "name": "Habesha Coffee",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Kebena",
+    "lat": 9.0317031,
+    "lng": 38.7647723
+  },
+  {
+    "id": 84,
+    "name": "Chito Cafe at Ambassador Mall",
+    "amharic": "",
+    "aliases": [],
+    "category": "Coffee shop",
+    "subcity": "Arada",
+    "lat": 9.0314474,
+    "lng": 38.7630453
+  },
+  {
+    "id": 85,
+    "name": "ኮባ መጋገሪያ እና ዳቦ ቤት ቀበና / KOBA Patisserie & Bakery Kebena",
+    "amharic": "ኮባ መጋገሪያ እና ዳቦ ቤት ቀበና",
+    "aliases": [],
+    "category": "Bakery",
+    "subcity": "Kebena",
+    "lat": 9.0350278,
+    "lng": 38.7722778
+  },
+  {
+    "id": 86,
+    "name": "Enrico Pastry",
+    "amharic": "",
+    "aliases": [],
+    "category": "Pastry shop",
+    "subcity": "Arada",
+    "lat": 9.0297272,
+    "lng": 38.7529411
+  },
+  {
+    "id": 87,
+    "name": "ሶሻ / Sosha",
+    "amharic": "ሶሻ",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Arada",
+    "lat": 9.0314997,
+    "lng": 38.7632535
+  },
+  {
+    "id": 88,
+    "name": "Ithiopica Coffee & Eatery",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Nefassilk Lafto",
+    "lat": 8.988843899999999,
+    "lng": 38.738473
+  },
+  {
+    "id": 89,
+    "name": "Galani Coffee",
+    "amharic": "",
+    "aliases": [],
+    "category": "Coffee shop",
+    "subcity": "Bole",
+    "lat": 9.006802799999999,
+    "lng": 38.8177877
+  },
+  {
+    "id": 90,
+    "name": "Ambassador Mall",
+    "amharic": "",
+    "aliases": [],
+    "category": "Shopping mall",
+    "subcity": "Arada",
+    "lat": 9.031393099999999,
+    "lng": 38.763231999999995
+  },
+  {
+    "id": 91,
+    "name": "Sheger Lounge",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Arada",
+    "lat": 9.0397603,
+    "lng": 38.752513799999996
+  },
+  {
+    "id": 92,
+    "name": "EroShake Juice🍹",
+    "amharic": "",
+    "aliases": [],
+    "category": "Juice shop",
+    "subcity": "Arada",
+    "lat": 9.0345344,
+    "lng": 38.759255499999995
+  },
+  {
+    "id": 93,
+    "name": "Karavan Coffee",
+    "amharic": "",
+    "aliases": [],
+    "category": "Cafe",
+    "subcity": "Bole",
+    "lat": 8.9972696,
+    "lng": 38.7862982
+  },
+  {
+    "id": 94,
+    "name": "ጓንሳ ማዕድ / Guansa Ma'ed -",
+    "amharic": "ጓንሳ ማዕድ",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Arada",
+    "lat": 9.0333732,
+    "lng": 38.7618674
+  },
+  {
+    "id": 95,
+    "name": "Kaffa House",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Kirkos",
+    "lat": 9.018572599999999,
+    "lng": 38.7650499
+  },
+  {
+    "id": 96,
+    "name": "SoSiDa Gelateria Ambassador Mall 4 kilo",
+    "amharic": "",
+    "aliases": [],
+    "category": "Ice cream shop",
+    "subcity": "Arada",
+    "lat": 9.031428499999999,
+    "lng": 38.7631425
+  },
+  {
+    "id": 97,
+    "name": "Armenian Club",
+    "amharic": "",
+    "aliases": [],
+    "category": "Armenian restaurant",
+    "subcity": "Arada",
+    "lat": 9.0402981,
+    "lng": 38.758097299999996
+  },
+  {
+    "id": 98,
+    "name": "TOMOCA Coffee",
+    "amharic": "",
+    "aliases": [],
+    "category": "Coffee shop",
+    "subcity": "Kirkos",
+    "lat": 8.9935595,
+    "lng": 38.7767841
+  },
+  {
+    "id": 99,
+    "name": "የቤት ሽሮ",
+    "amharic": "የቤት ሽሮ",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Arada",
+    "lat": 9.0355714,
+    "lng": 38.759147899999995
+  },
+  {
+    "id": 100,
+    "name": "አዋዜ ባርና ሬስቶራንት ፒያሳ / Awaze bar and restaurant Piazza",
+    "amharic": "አዋዜ ባርና ሬስቶራንት ፒያሳ",
+    "aliases": [],
+    "category": "Bar & grill",
+    "subcity": "Arada",
+    "lat": 9.0341659,
+    "lng": 38.7612047
+  },
+  {
+    "id": 101,
+    "name": "primo coffee house",
+    "amharic": "",
+    "aliases": [],
+    "category": "Coffee shop",
+    "subcity": "Bole",
+    "lat": 8.9994464,
+    "lng": 38.7843119
+  },
+  {
+    "id": 102,
+    "name": "Youth Cafe And Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Cafe",
+    "subcity": "Kebena",
+    "lat": 9.039603999999999,
+    "lng": 38.7635394
+  },
+  {
+    "id": 103,
+    "name": "Fevo coffee",
+    "amharic": "",
+    "aliases": [],
+    "category": "Cafe",
+    "subcity": "Kirkos",
+    "lat": 9.0100904,
+    "lng": 38.769640599999995
+  },
+  {
+    "id": 104,
+    "name": "ሀበሻ የባህል ሬስቶራንት ቦሌ አትላስ / 2000 Habesha cultural restaurant Bole Atlas 2000",
+    "amharic": "ሀበሻ የባህል ሬስቶራንት ቦሌ አትላስ",
+    "aliases": [],
+    "category": "Ethiopian restaurant",
+    "subcity": "Bole",
+    "lat": 9.0013808,
+    "lng": 38.7815004
+  },
+  {
+    "id": 105,
+    "name": "Lantika 1960",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Kebena",
+    "lat": 9.0318498,
+    "lng": 38.7648937
+  },
+  {
+    "id": 106,
+    "name": "Center Point Addis 360° Revolving Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Kirkos",
+    "lat": 9.0155166,
+    "lng": 38.769671599999995
+  },
+  {
+    "id": 107,
+    "name": "Kategna Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Ethiopian restaurant",
+    "subcity": "Bole",
+    "lat": 8.9946488,
+    "lng": 38.7907665
+  },
+  {
+    "id": 108,
+    "name": "HOTTO",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 9.001814999999999,
+    "lng": 38.7795913
+  },
+  {
+    "id": 109,
+    "name": "ቀኃሥ / Kehas Burger & Restaurant",
+    "amharic": "ቀኃሥ",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Gulele",
+    "lat": 9.0490906,
+    "lng": 38.7624886
+  },
+  {
+    "id": 110,
+    "name": "Trattoria Gusto",
+    "amharic": "",
+    "aliases": [],
+    "category": "Italian restaurant",
+    "subcity": "Kirkos",
+    "lat": 9.0140962,
+    "lng": 38.769390099999995
+  },
+  {
+    "id": 111,
+    "name": "Yod Abyssinia Traditional Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Ethiopian restaurant",
+    "subcity": "Bole",
+    "lat": 8.99114,
+    "lng": 38.793392499999996
+  },
+  {
+    "id": 112,
+    "name": "Louvre Grand Hotel & Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Yeka",
+    "lat": 9.025013699999999,
+    "lng": 38.7870312
+  },
+  {
+    "id": 113,
+    "name": "Bait Al Mandi",
+    "amharic": "",
+    "aliases": [],
+    "category": "Yemeni restaurant",
+    "subcity": "Bole",
+    "lat": 9.0061447,
+    "lng": 38.7816438
+  },
+  {
+    "id": 114,
+    "name": "Cravings Restaurant & Bar",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 8.9832185,
+    "lng": 38.7971949
+  },
+  {
+    "id": 115,
+    "name": "FB Addis Hotel | 6 Kilo",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "",
+    "lat": 9.0423463,
+    "lng": 38.7568851
+  },
+  {
+    "id": 116,
+    "name": "Toro Grill and Lounge",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Kirkos",
+    "lat": 8.9990776,
+    "lng": 38.7737926
+  },
+  {
+    "id": 117,
+    "name": "Moyos Cafe",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 9.005644199999999,
+    "lng": 38.7812148
+  },
+  {
+    "id": 118,
+    "name": "Temsalet Kitchen | sarbet |Iconic kitchen",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Kirkos",
+    "lat": 8.9940094,
+    "lng": 38.739879099999996
+  },
+  {
+    "id": 119,
+    "name": "Akkoo Coffee | Addis Ababa University 6 Kilo",
+    "amharic": "",
+    "aliases": [],
+    "category": "Coffee shop",
+    "subcity": "Gulele",
+    "lat": 9.047166299999999,
+    "lng": 38.7575706
+  },
+  {
+    "id": 120,
+    "name": "Join burger",
+    "amharic": "",
+    "aliases": [],
+    "category": "Fast food restaurant",
+    "subcity": "Gulele",
+    "lat": 9.049089,
+    "lng": 38.762587599999996
+  },
+  {
+    "id": 121,
+    "name": "Kategna Restaurant Unity Park",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Arada",
+    "lat": 9.0249727,
+    "lng": 38.7634517
+  },
+  {
+    "id": 122,
+    "name": "ጋምቤላ ሆቴል ኪሎ / Gambela Hotel 6 Kilo 6",
+    "amharic": "ጋምቤላ ሆቴል ኪሎ",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "",
+    "lat": 9.0401733,
+    "lng": 38.7568913
+  },
+  {
+    "id": 123,
+    "name": "Allebnany Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Lebanese restaurant",
+    "subcity": "Bole",
+    "lat": 9.0111943,
+    "lng": 38.7978835
+  },
+  {
+    "id": 124,
+    "name": "ሸራተን አዲስ ሆቴል",
+    "amharic": "ሸራተን አዲስ ሆቴል",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Kirkos",
+    "lat": 9.0203037,
+    "lng": 38.7600027
+  },
+  {
+    "id": 125,
+    "name": "Aladdin Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Armenian restaurant",
+    "subcity": "Nefassilk Lafto",
+    "lat": 8.9896995,
+    "lng": 38.7272506
+  },
+  {
+    "id": 126,
+    "name": "Angla Burger",
+    "amharic": "",
+    "aliases": [],
+    "category": "Fast food restaurant",
+    "subcity": "Bole",
+    "lat": 8.990447399999999,
+    "lng": 38.7833944
+  },
+  {
+    "id": 127,
+    "name": "ማማስ ኪችን ቦሌ መድሐኒአለም / Mama's Kitchen Bole Medhanialm",
+    "amharic": "ማማስ ኪችን ቦሌ መድሐኒአለም",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 8.9957205,
+    "lng": 38.7875188
+  },
+  {
+    "id": 128,
+    "name": "Beta Burger",
+    "amharic": "",
+    "aliases": [],
+    "category": "Fast food restaurant",
+    "subcity": "Gulele",
+    "lat": 9.0524875,
+    "lng": 38.7587514
+  },
+  {
+    "id": 129,
+    "name": "ቶቶት ገርጂ / Totot Traditional Food Hall Gerji",
+    "amharic": "ቶቶት ገርጂ",
+    "aliases": [],
+    "category": "Ethiopian restaurant",
+    "subcity": "Bole",
+    "lat": 9.0072312,
+    "lng": 38.806217499999995
+  },
+  {
+    "id": 130,
+    "name": "The Exclusive Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 8.9944837,
+    "lng": 38.7852396
+  },
+  {
+    "id": 131,
+    "name": "dok restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Italian restaurant",
+    "subcity": "Yeka",
+    "lat": 9.0225633,
+    "lng": 38.80349
+  },
+  {
+    "id": 132,
+    "name": "Deluxe Catering & Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 8.9948435,
+    "lng": 38.812530599999995
+  },
+  {
+    "id": 133,
+    "name": "OM Indian Bistro | Bole Rwanda",
+    "amharic": "",
+    "aliases": [],
+    "category": "Indian restaurant",
+    "subcity": "Bole",
+    "lat": 8.986557999999999,
+    "lng": 38.7810189
+  },
+  {
+    "id": 134,
+    "name": "Entoto Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 8.9916518,
+    "lng": 38.781492199999995
+  },
+  {
+    "id": 135,
+    "name": "Fogo No Chao",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 8.9919487,
+    "lng": 38.7829584
+  },
+  {
+    "id": 136,
+    "name": "ቶፕ ቪው ሬስቶራንት / Top View Restaurant",
+    "amharic": "ቶፕ ቪው ሬስቶራንት",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Yeka",
+    "lat": 9.0225894,
+    "lng": 38.803418
+  },
+  {
+    "id": 137,
+    "name": "Mamma Mia Italian Restaurant & Bar",
+    "amharic": "",
+    "aliases": [],
+    "category": "Italian restaurant",
+    "subcity": "Lideta",
+    "lat": 9.003092299999999,
+    "lng": 38.740161199999996
+  },
+  {
+    "id": 138,
+    "name": "Hilton Addis Ababa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Kirkos",
+    "lat": 9.0186873,
+    "lng": 38.764673699999996
+  },
+  {
+    "id": 139,
+    "name": "ግራብ ኦን በርገር ቦሌ / Grub On burger Bole",
+    "amharic": "ግራብ ኦን በርገር ቦሌ",
+    "aliases": [],
+    "category": "Fast food restaurant",
+    "subcity": "Bole",
+    "lat": 8.999758199999999,
+    "lng": 38.788193
+  },
+  {
+    "id": 140,
+    "name": "Inter Luxury Hotel",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Kirkos",
+    "lat": 9.015415899999999,
+    "lng": 38.7697827
+  },
+  {
+    "id": 141,
+    "name": "ሲምፕል ቢስትሮ ቦሌ / Simple Bistro Bole",
+    "amharic": "ሲምፕል ቢስትሮ ቦሌ",
+    "aliases": [],
+    "category": "Bistro",
+    "subcity": "Bole",
+    "lat": 8.9938605,
+    "lng": 38.790754
+  },
+  {
+    "id": 142,
+    "name": "SMASH BURGERS",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hamburger restaurant",
+    "subcity": "Bole",
+    "lat": 9.0002479,
+    "lng": 38.7839168
+  },
+  {
+    "id": 143,
+    "name": "ካስትል ሬስቶራንት ፒያሳ / Castelli's Restaurant piasa",
+    "amharic": "ካስትል ሬስቶራንት ፒያሳ",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Arada",
+    "lat": 9.0321889,
+    "lng": 38.752846
+  },
+  {
+    "id": 144,
+    "name": "Beta Burger 2",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hamburger restaurant",
+    "subcity": "Gulele",
+    "lat": 9.056664699999999,
+    "lng": 38.7595617
+  },
+  {
+    "id": 145,
+    "name": "Capital Grill",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 9.001396699999999,
+    "lng": 38.7801238
+  },
+  {
+    "id": 146,
+    "name": "GLAM HOTEL",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Arada",
+    "lat": 9.0304375,
+    "lng": 38.7609219
+  },
+  {
+    "id": 147,
+    "name": "Tomatelli",
+    "amharic": "",
+    "aliases": [],
+    "category": "Fast food restaurant",
+    "subcity": "Bole",
+    "lat": 8.999767799999999,
+    "lng": 38.7882852
+  },
+  {
+    "id": 148,
+    "name": "Ethiopian Ta'em Cultural Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Ethiopian restaurant",
+    "subcity": "Bole",
+    "lat": 8.9880391,
+    "lng": 38.7898096
+  },
+  {
+    "id": 149,
+    "name": "Dagim Nega bar & restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 9.0116638,
+    "lng": 38.7825244
+  },
+  {
+    "id": 150,
+    "name": "ተስፋ ቡና / Tesfa Coffee 5 kilo",
+    "amharic": "ተስፋ ቡና",
+    "aliases": [],
+    "category": "Cafe",
+    "subcity": "Arada",
+    "lat": 9.0380301,
+    "lng": 38.7617335
+  },
+  {
+    "id": 151,
+    "name": "The Goat🐐 Cafè | Mexico",
+    "amharic": "",
+    "aliases": [],
+    "category": "Coffee shop",
+    "subcity": "Lideta",
+    "lat": 9.014962299999999,
+    "lng": 38.7506578
+  },
+  {
+    "id": 152,
+    "name": "Keba Guest House (INN)",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Yeka",
+    "lat": 9.0245462,
+    "lng": 38.7905715
+  },
+  {
+    "id": 153,
+    "name": "Denver Boutique Hotel",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Arada",
+    "lat": 9.0353183,
+    "lng": 38.759231299999996
+  },
+  {
+    "id": 154,
+    "name": "ኖርዝ አዲስ ኢንተርናሽናል ሆቴል ችሎት / North Addis International Hotel Chilot",
+    "amharic": "ኖርዝ አዲስ ኢንተርናሽናል ሆቴል ችሎት",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Gulele",
+    "lat": 9.0502218,
+    "lng": 38.750095
+  },
+  {
+    "id": 155,
+    "name": "ሶራምባ ሆቴል ፒያሳ / Soramba Hotel and Wellness Center Piazza",
+    "amharic": "ሶራምባ ሆቴል ፒያሳ",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Arada",
+    "lat": 9.0407951,
+    "lng": 38.7507867
+  },
+  {
+    "id": 156,
+    "name": "Semien Hotel",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Arada",
+    "lat": 9.0441069,
+    "lng": 38.7489188
+  },
+  {
+    "id": 157,
+    "name": "Monarch Parkview Hotel",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Arada",
+    "lat": 9.0268038,
+    "lng": 38.7541588
+  },
+  {
+    "id": 158,
+    "name": "Betsi Bed and Breakfast",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bed & breakfast",
+    "subcity": "Kebena",
+    "lat": 9.0389157,
+    "lng": 38.7629908
+  },
+  {
+    "id": 159,
+    "name": "Nemudat Hotel",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Gulele",
+    "lat": 9.049330099999999,
+    "lng": 38.752418899999995
+  },
+  {
+    "id": 160,
+    "name": "ሳሬም ኢንተርናሽናል ሆቴልና ስፓ ሰሜን ማዘጋጃ / Sarem International Hotel & Spa Semen Mazegaja",
+    "amharic": "ሳሬም ኢንተርናሽናል ሆቴልና ስፓ ሰሜን ማዘጋጃ",
+    "aliases": [],
+    "category": "Extended stay hotel",
+    "subcity": "Arada",
+    "lat": 9.0519441,
+    "lng": 38.743699899999996
+  },
+  {
+    "id": 161,
+    "name": "ዳናኪል ሆቴል ፒያሳ / Danakil Hotel Piazza",
+    "amharic": "ዳናኪል ሆቴል ፒያሳ",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Arada",
+    "lat": 9.0414053,
+    "lng": 38.7516329
+  },
+  {
+    "id": 162,
+    "name": "አዲስ ቪው ሆቴል ቀበና / Addis View Hotel Kebena",
+    "amharic": "አዲስ ቪው ሆቴል ቀበና",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Kebena",
+    "lat": 9.0317058,
+    "lng": 38.76968
+  },
+  {
+    "id": 163,
+    "name": "Grand Eliana hotel",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Arada",
+    "lat": 9.030481199999999,
+    "lng": 38.751061899999996
+  },
+  {
+    "id": 164,
+    "name": "Ras Amba Hotel",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Kebena",
+    "lat": 9.031729799999999,
+    "lng": 38.7710946
+  },
+  {
+    "id": 165,
+    "name": "Melka International Hotel (Addis Ababa)",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Arada",
+    "lat": 9.0236395,
+    "lng": 38.751723
+  },
+  {
+    "id": 166,
+    "name": "Hayes Hotel Addis Ababa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "",
+    "lat": 9.0175603,
+    "lng": 38.7814784
+  },
+  {
+    "id": 167,
+    "name": "Zmama Hotel | Haya Hulet",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 9.0108278,
+    "lng": 38.784149899999996
+  },
+  {
+    "id": 168,
+    "name": "አዲስ ሪጀንሲ ሆቴል ፒያሳ / Addis Regency Hotel Piazza",
+    "amharic": "አዲስ ሪጀንሲ ሆቴል ፒያሳ",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Arada",
+    "lat": 9.042771,
+    "lng": 38.752163599999996
+  },
+  {
+    "id": 169,
+    "name": "Ghion Hotel | Stadium",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Av",
+    "lat": 9.0136909,
+    "lng": 38.7602404
+  },
+  {
+    "id": 170,
+    "name": "Churchill Hotel",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Arada",
+    "lat": 9.025856,
+    "lng": 38.7519722
+  },
+  {
+    "id": 171,
+    "name": "ካራቫን ሆቴል ሃያ ሁለት / Caravan Hotel Haya Hulet",
+    "amharic": "ካራቫን ሆቴል ሃያ ሁለት",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 9.010193,
+    "lng": 38.782112
+  },
+  {
+    "id": 172,
+    "name": "Simple Guest House & Furnished Apartment with Kitchen",
+    "amharic": "",
+    "aliases": [],
+    "category": "Guest house",
+    "subcity": "Arada",
+    "lat": 9.0517529,
+    "lng": 38.738996199999995
+  },
+  {
+    "id": 173,
+    "name": "Tirar International Hotel Lideta",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Lideta",
+    "lat": 9.017476199999999,
+    "lng": 38.7381958
+  },
+  {
+    "id": 174,
+    "name": "Checkinn Hotel",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 9.0069673,
+    "lng": 38.7815659
+  },
+  {
+    "id": 175,
+    "name": "ሰንላንድ ኢንተርናሽናል ሆቴል አዲሱ ገበያ / Sunland International Hotel Addis Ababa Addisu Gebeya",
+    "amharic": "ሰንላንድ ኢንተርናሽናል ሆቴል አዲሱ ገበያ",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Gulele",
+    "lat": 9.059488499999999,
+    "lng": 38.736906399999995
+  },
+  {
+    "id": 176,
+    "name": "The Grand Palace Hotel",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Kirkos",
+    "lat": 9.011794,
+    "lng": 38.7690011
+  },
+  {
+    "id": 177,
+    "name": "ስቴ ኢዚ ሆቴል ሃያ ሁለት / Stayeasy Hotel Haya Hulet",
+    "amharic": "ስቴ ኢዚ ሆቴል ሃያ ሁለት",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Yeka",
+    "lat": 9.015500399999999,
+    "lng": 38.782601299999996
+  },
+  {
+    "id": 178,
+    "name": "ደብረ ዳሞ ሆቴል ሀያ ሁለት / Debre Damo Hotel haya hulet",
+    "amharic": "ደብረ ዳሞ ሆቴል ሀያ ሁለት",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Yeka",
+    "lat": 9.015518,
+    "lng": 38.7851287
+  },
+  {
+    "id": 179,
+    "name": "ስቴይ ኢዚ ፕላስ ሆቴል / Stay Easy Plus Hotel",
+    "amharic": "ስቴይ ኢዚ ፕላስ ሆቴል",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Gulele",
+    "lat": 9.0651064,
+    "lng": 38.7325561
+  },
+  {
+    "id": 180,
+    "name": "ጁፒተር ኢንተርናሽናል ሆቴል ካዛንቺስ / Jupiter International Hotel Kazanchis",
+    "amharic": "ጁፒተር ኢንተርናሽናል ሆቴል ካዛንቺስ",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Kirkos",
+    "lat": 9.016269399999999,
+    "lng": 38.7681514
+  },
+  {
+    "id": 181,
+    "name": "Radisson Blu Hotel, Addis Ababa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Kirkos",
+    "lat": 9.0162624,
+    "lng": 38.767803099999995
+  },
+  {
+    "id": 182,
+    "name": "HomeTown Addis Hotel",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 9.002777799999999,
+    "lng": 38.7795432
+  },
+  {
+    "id": 183,
+    "name": "Elsol Hotel-Addis Ababa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "",
+    "lat": 9.0131193,
+    "lng": 38.7851383
+  },
+  {
+    "id": 184,
+    "name": "Getfam Hotel",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 9.0146879,
+    "lng": 38.7837301
+  },
+  {
+    "id": 185,
+    "name": "ኒው ዴይ ሆቴል ሃያሁለት / NEW DAY HOTEL Hayahulet",
+    "amharic": "ኒው ዴይ ሆቴል ሃያሁለት",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 9.0113445,
+    "lng": 38.7877535
+  },
+  {
+    "id": 186,
+    "name": "ዲ ሊዮፖል ሆቴል ባምቢስ / De Leopol Hotel - Bambis -",
+    "amharic": "ዲ ሊዮፖል ሆቴል ባምቢስ",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Kirkos",
+    "lat": 9.0096737,
+    "lng": 38.7725343
+  },
+  {
+    "id": 187,
+    "name": "ኮምፈርት ዞን ሆቴል ሃያሁለት / Comfort Zone Hotel",
+    "amharic": "ኮምፈርት ዞን ሆቴል ሃያሁለት",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "",
+    "lat": 9.009083,
+    "lng": 38.780837
+  },
+  {
+    "id": 188,
+    "name": "Elilly Hotel",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Kirkos",
+    "lat": 9.014430899999999,
+    "lng": 38.7690937
+  },
+  {
+    "id": 189,
+    "name": "Nahusenay Hotel",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "",
+    "lat": 9.057516399999999,
+    "lng": 38.7383289
+  },
+  {
+    "id": 190,
+    "name": "ሶሻል ሀውስ አዲስ አበባ / SOCIAL HOUSE ADDIS ABABA",
+    "amharic": "ሶሻል ሀውስ አዲስ አበባ",
+    "aliases": [],
+    "category": "Bed & breakfast",
+    "subcity": "Bole",
+    "lat": 9.0060848,
+    "lng": 38.780516899999995
+  },
+  {
+    "id": 191,
+    "name": "Grandlagar hotel Mexico",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Kirkos",
+    "lat": 9.0140616,
+    "lng": 38.7509539
+  },
+  {
+    "id": 192,
+    "name": "Kuriftu Entoto Resort and Spa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Resort hotel",
+    "subcity": "Gulele",
+    "lat": 9.078227799999999,
+    "lng": 38.7427243
+  },
+  {
+    "id": 193,
+    "name": "Mazeki Addis Boutique Hotel",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 9.012469,
+    "lng": 38.7800474
+  },
+  {
+    "id": 194,
+    "name": "Debre Damo Hotel, Addis Ababa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Yeka",
+    "lat": 9.0166846,
+    "lng": 38.785191499999996
+  },
+  {
+    "id": 195,
+    "name": "ዘ ሬዚደንስ ሆቴል አፓርትመንት ኦሎምፒያ / The Residence Hotel & Apartments Olympia",
+    "amharic": "ዘ ሬዚደንስ ሆቴል አፓርትመንት ኦሎምፒያ",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Kirkos",
+    "lat": 9.0044474,
+    "lng": 38.7698009
+  },
+  {
+    "id": 196,
+    "name": "ሲ ፈን አዲስ ሆቴል ሀያ ሁለት / C Fun Addis Hotel Haya Hulet",
+    "amharic": "ሲ ፈን አዲስ ሆቴል ሀያ ሁለት",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 9.0134432,
+    "lng": 38.784342599999995
+  },
+  {
+    "id": 197,
+    "name": "Eliana Hotel | Piazza",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Arada",
+    "lat": 9.030423899999999,
+    "lng": 38.7511453
+  },
+  {
+    "id": 198,
+    "name": "Vibes Hotel and Spa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 9.0178487,
+    "lng": 38.7981547
+  },
+  {
+    "id": 199,
+    "name": "አምራን ሆቴል / Amran Hotel Addis Airport Road",
+    "amharic": "አምራን ሆቴል",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Kirkos",
+    "lat": 9.0030808,
+    "lng": 38.769042999999996
+  },
+  {
+    "id": 200,
+    "name": "ኤጂ ፓላስ ሆቴል ሃያሁለት / Ag Palace Hotel Hayahulet",
+    "amharic": "ኤጂ ፓላስ ሆቴል ሃያሁለት",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Yeka",
+    "lat": 9.0182681,
+    "lng": 38.7913412
+  },
+  {
+    "id": 201,
+    "name": "ንግስት ታወር ሆቴል አፓርትመንት / Nigist Towers Hotel & Apartments Kazanchis &",
+    "amharic": "ንግስት ታወር ሆቴል አፓርትመንት",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Kirkos",
+    "lat": 9.0138708,
+    "lng": 38.7692456
+  },
+  {
+    "id": 202,
+    "name": "Park Lane Addis Hotel",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 9.002732199999999,
+    "lng": 38.779542
+  },
+  {
+    "id": 203,
+    "name": "Marcen Addis Hotel 22 around Chichiniya",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 9.0103677,
+    "lng": 38.7814312
+  },
+  {
+    "id": 204,
+    "name": "Adwest Hotel",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Kirkos",
+    "lat": 9.0080865,
+    "lng": 38.770548399999996
+  },
+  {
+    "id": 205,
+    "name": "አፍሮዳይት ኢንተርናሽናል ሆቴል ካዛንቺስ / Aphrodite International Hotel Kazanchis",
+    "amharic": "አፍሮዳይት ኢንተርናሽናል ሆቴል ካዛንቺስ",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Kirkos",
+    "lat": 9.0135904,
+    "lng": 38.7692511
+  },
+  {
+    "id": 206,
+    "name": "Capital Hotel and Spa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 9.0132703,
+    "lng": 38.7799274
+  },
+  {
+    "id": 207,
+    "name": "ዴስትኒ አዲስ ሆቴል ኦሎምፒያ / Destiny Addis Hotel Olompia",
+    "amharic": "ዴስትኒ አዲስ ሆቴል ኦሎምፒያ",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Kirkos",
+    "lat": 9.0040721,
+    "lng": 38.7727234
+  },
+  {
+    "id": 208,
+    "name": "Moonlight Addis Hotel",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 9.0084155,
+    "lng": 38.7856654
+  },
+  {
+    "id": 209,
+    "name": "አፍሮፖሊታን ሆቴል ሃያሁለት / Afropolitan Hotel Hayahulet",
+    "amharic": "አፍሮፖሊታን ሆቴል ሃያሁለት",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Yeka",
+    "lat": 9.0179858,
+    "lng": 38.7900692
+  },
+  {
+    "id": 210,
+    "name": "ጋርደን ሂልስ ሆቴል / Garden Hills Hotel",
+    "amharic": "ጋርደን ሂልስ ሆቴል",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Yeka",
+    "lat": 9.029003699999999,
+    "lng": 38.7918841
+  },
+  {
+    "id": 211,
+    "name": "Vamos Guest House",
+    "amharic": "",
+    "aliases": [],
+    "category": "Guest house",
+    "subcity": "Lideta",
+    "lat": 9.0151893,
+    "lng": 38.737470699999996
+  },
+  {
+    "id": 212,
+    "name": "Kuriftu Entoto Adventure Park",
+    "amharic": "",
+    "aliases": [],
+    "category": "Resort hotel",
+    "subcity": "Gulele",
+    "lat": 9.078145899999999,
+    "lng": 38.7425071
+  },
+  {
+    "id": 213,
+    "name": "Yadamzewed International Hotel",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Arada",
+    "lat": 9.049946499999999,
+    "lng": 38.7456118
+  },
+  {
+    "id": 214,
+    "name": "Mad Vervet Hostel - Addis",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hostel",
+    "subcity": "Bole",
+    "lat": 9.0082162,
+    "lng": 38.8003897
+  },
+  {
+    "id": 215,
+    "name": "Hyatt Regency Addis Ababa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Kirkos",
+    "lat": 9.0103594,
+    "lng": 38.7640905
+  },
+  {
+    "id": 216,
+    "name": "Sidra International Hotel",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 9.0135649,
+    "lng": 38.795947999999996
+  },
+  {
+    "id": 217,
+    "name": "Platinum Hotel",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 9.0176125,
+    "lng": 38.796627099999995
+  },
+  {
+    "id": 218,
+    "name": "ሜሎዲ ሆቴል / Melodie hotel 24 24",
+    "amharic": "ሜሎዲ ሆቴል",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 9.006509,
+    "lng": 38.797965999999995
+  },
+  {
+    "id": 219,
+    "name": "Kora Hotel Suites",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "",
+    "lat": 9.0086032,
+    "lng": 38.7705389
+  },
+  {
+    "id": 220,
+    "name": "Omedad Hotel | Bole",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "",
+    "lat": 9.0031955,
+    "lng": 38.7689685
+  },
+  {
+    "id": 221,
+    "name": "Jano Hotel",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 9.0067192,
+    "lng": 38.7902955
+  },
+  {
+    "id": 222,
+    "name": "ፓይንት ሴንትራል ሆቴል / Point Central Hotel",
+    "amharic": "ፓይንት ሴንትራል ሆቴል",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 9.0150211,
+    "lng": 38.7891073
+  },
+  {
+    "id": 223,
+    "name": "Holiday Guest House",
+    "amharic": "",
+    "aliases": [],
+    "category": "Guest house",
+    "subcity": "",
+    "lat": 9.0394426,
+    "lng": 38.737254199999995
+  },
+  {
+    "id": 224,
+    "name": "TILMAN HOTEL",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Kirkos",
+    "lat": 9.0049456,
+    "lng": 38.7668785
+  },
+  {
+    "id": 225,
+    "name": "AYA Addis Hotel",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 9.000557299999999,
+    "lng": 38.7829252
+  },
+  {
+    "id": 226,
+    "name": "Sidama Lodge",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 9.0036054,
+    "lng": 38.7795638
+  },
+  {
+    "id": 227,
+    "name": "Mado Hotel",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 9.0004742,
+    "lng": 38.783096799999996
+  },
+  {
+    "id": 228,
+    "name": "Triple-e Hotel and Spa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 9.0082951,
+    "lng": 38.787715
+  },
+  {
+    "id": 229,
+    "name": "ሳውዘርን አዲስ ሆቴል አትላስ / Southern Addis Hotel Atlas",
+    "amharic": "ሳውዘርን አዲስ ሆቴል አትላስ",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "",
+    "lat": 9.0043889,
+    "lng": 38.7832614
+  },
+  {
+    "id": 230,
+    "name": "Sun View Hotel",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "",
+    "lat": 9.0009494,
+    "lng": 38.7854588
+  },
+  {
+    "id": 231,
+    "name": "melat pension",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "",
+    "lat": 9.014111999999999,
+    "lng": 38.780724
+  },
+  {
+    "id": 232,
+    "name": "ማግኖሊያ ሆቴል ቦሌ አትላስ / Magnolia Hotel & Conference Center Bole Atlas",
+    "amharic": "ማግኖሊያ ሆቴል ቦሌ አትላስ",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 9.0004375,
+    "lng": 38.780562499999995
+  },
+  {
+    "id": 233,
+    "name": "Marriott Executive Apartments Addis Ababa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Kirkos",
+    "lat": 9.010410199999999,
+    "lng": 38.7651362
+  },
+  {
+    "id": 234,
+    "name": "Daylin Guest House",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 9.0021346,
+    "lng": 38.7856723
+  },
+  {
+    "id": 235,
+    "name": "RoyoKasas International Guest House",
+    "amharic": "",
+    "aliases": [],
+    "category": "Guest house",
+    "subcity": "Bole",
+    "lat": 9.0143265,
+    "lng": 38.79334
+  },
+  {
+    "id": 236,
+    "name": "Atlas International Hotel",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 9.0037327,
+    "lng": 38.7805824
+  },
+  {
+    "id": 237,
+    "name": "ዋሽንግተን ሆቴል ቦሌ አትላስ / Washington Hotel Bole Atlas",
+    "amharic": "ዋሽንግተን ሆቴል ቦሌ አትላስ",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 9.002366799999999,
+    "lng": 38.7800856
+  },
+  {
+    "id": 238,
+    "name": "Blue Nest Hotel",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Lideta",
+    "lat": 9.0013855,
+    "lng": 38.7378923
+  },
+  {
+    "id": 239,
+    "name": "ዮሊ ሆቴል ቺቺንያ / Yoly Hotel Chichinya",
+    "amharic": "ዮሊ ሆቴል ቺቺንያ",
+    "aliases": [],
+    "category": "other",
+    "subcity": "Bole",
+    "lat": 9.0063021,
+    "lng": 38.7809441
+  },
+  {
+    "id": 240,
+    "name": "አቢሲኒያ ሬነሰንስ ሆቴል ገርጂ / Abyssinia Renaissance Hotel Gerji",
+    "amharic": "አቢሲኒያ ሬነሰንስ ሆቴል ገርጂ",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 9.001127,
+    "lng": 38.801134999999995
+  },
+  {
+    "id": 241,
+    "name": "Lilu House",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 9.0127642,
+    "lng": 38.7800716
+  },
+  {
+    "id": 242,
+    "name": "ሊባኖስ ሆቴል ሃያሁለት / Libanos Pension Hayahulet",
+    "amharic": "ሊባኖስ ሆቴል ሃያሁለት",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "",
+    "lat": 9.0103336,
+    "lng": 38.7903249
+  },
+  {
+    "id": 243,
+    "name": "Averi Hotel",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 9.0110273,
+    "lng": 38.7988797
+  },
+  {
+    "id": 244,
+    "name": "Yohannes Guesthouse",
+    "amharic": "",
+    "aliases": [],
+    "category": "Guest house",
+    "subcity": "Bole",
+    "lat": 9.010679699999999,
+    "lng": 38.7844257
+  },
+  {
+    "id": 245,
+    "name": "ስዊስ ኢን ኔክሰስ ሆቴል ገርጂ / Swiss Inn Nexus Hotel Gerji",
+    "amharic": "ስዊስ ኢን ኔክሰስ ሆቴል ገርጂ",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 9.0076114,
+    "lng": 38.805524
+  },
+  {
+    "id": 246,
+    "name": "Addissinia Hotel",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 9.0044031,
+    "lng": 38.788983699999996
+  },
+  {
+    "id": 247,
+    "name": "ኢማድ አፓርትመንት ሆቴል / Emmad Apartment Hotel",
+    "amharic": "ኢማድ አፓርትመንት ሆቴል",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 9.0032918,
+    "lng": 38.8007707
+  },
+  {
+    "id": 248,
+    "name": "ኃይካን ሆቴል ፒያሳ / Haikan Hotel Piazza",
+    "amharic": "ኃይካን ሆቴል ፒያሳ",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Arada",
+    "lat": 9.0333613,
+    "lng": 38.7468461
+  },
+  {
+    "id": 249,
+    "name": "Sapphire Addis Hotel",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 9.0002291,
+    "lng": 38.783282899999996
+  },
+  {
+    "id": 250,
+    "name": "Bellevue Hotel And Spa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Spa",
+    "subcity": "Yeka",
+    "lat": 9.0218654,
+    "lng": 38.8029742
+  },
+  {
+    "id": 251,
+    "name": "Sun view catering and Events",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 9.001052699999999,
+    "lng": 38.785444399999996
+  },
+  {
+    "id": 252,
+    "name": "Rankset Guest house Apartment",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 9.0000047,
+    "lng": 38.7826976
+  },
+  {
+    "id": 253,
+    "name": "Tafach Malede Hotel",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "",
+    "lat": 9.0183497,
+    "lng": 38.7924266
+  },
+  {
+    "id": 254,
+    "name": "FBK Guest House",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bed & breakfast",
+    "subcity": "Bole",
+    "lat": 9.0105817,
+    "lng": 38.7800612
+  },
+  {
+    "id": 255,
+    "name": "አዜማን ሆቴል አትላስ / Azzeman Hotel Atlas",
+    "amharic": "አዜማን ሆቴል አትላስ",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 9.001547,
+    "lng": 38.7818719
+  },
+  {
+    "id": 256,
+    "name": "ሻላ እንግዳ ማረፍያ ቦሌ አትላስ / Shalla Guest House & Wellness Center Bole Atlas",
+    "amharic": "ሻላ እንግዳ ማረፍያ ቦሌ አትላስ",
+    "aliases": [],
+    "category": "Guest house",
+    "subcity": "Bole",
+    "lat": 9.0014088,
+    "lng": 38.7841197
+  },
+  {
+    "id": 257,
+    "name": "Wib Guesthouse",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Yeka",
+    "lat": 9.020278,
+    "lng": 38.7937575
+  },
+  {
+    "id": 258,
+    "name": "ኢየሩሳሌም ሆቴል እራስ ደስታ / Jerusalem Hotel Ras Desta",
+    "amharic": "ኢየሩሳሌም ሆቴል እራስ ደስታ",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Arada",
+    "lat": 9.0462565,
+    "lng": 38.7424762
+  },
+  {
+    "id": 259,
+    "name": "EROS beauty 4kilo ambassador mall",
+    "amharic": "",
+    "aliases": [],
+    "category": "Sportswear store",
+    "subcity": "Arada",
+    "lat": 9.031398099999999,
+    "lng": 38.763154
+  },
+  {
+    "id": 260,
+    "name": "Miss Shashitu",
+    "amharic": "",
+    "aliases": [],
+    "category": "Clothes market",
+    "subcity": "Arada",
+    "lat": 9.0312725,
+    "lng": 38.761826299999996
+  },
+  {
+    "id": 261,
+    "name": "ገለን ሕንፃ / Gelen BLDG.",
+    "amharic": "ገለን ሕንፃ",
+    "aliases": [],
+    "category": "General store",
+    "subcity": "Arada",
+    "lat": 9.034777199999999,
+    "lng": 38.7599878
+  },
+  {
+    "id": 262,
+    "name": "ቤተ ዜማ መንፈሳዊ የዜማ መሳሪያዎች መሸጫ ቁ / - .1",
+    "amharic": "ቤተ ዜማ መንፈሳዊ የዜማ መሳሪያዎች መሸጫ ቁ",
+    "aliases": [],
+    "category": "Store",
+    "subcity": "Arada",
+    "lat": 9.0350035,
+    "lng": 38.7589845
+  },
+  {
+    "id": 263,
+    "name": "አብርሆት ላይብረሪ / Jafer Books 4 kilo",
+    "amharic": "አብርሆት ላይብረሪ",
+    "aliases": [],
+    "category": "Book store",
+    "subcity": "Arada",
+    "lat": 9.0309895,
+    "lng": 38.7617914
+  },
+  {
+    "id": 264,
+    "name": "4 kilo metad bet",
+    "amharic": "",
+    "aliases": [],
+    "category": "Kitchen supply store",
+    "subcity": "Bole",
+    "lat": 9.001697799999999,
+    "lng": 38.813888
+  },
+  {
+    "id": 265,
+    "name": "enderta furniture - 4 Kilo Show Room",
+    "amharic": "",
+    "aliases": [],
+    "category": "Furniture store",
+    "subcity": "Arada",
+    "lat": 9.0355996,
+    "lng": 38.7591129
+  },
+  {
+    "id": 266,
+    "name": "E-birr Abadir Super Market 4 kilo",
+    "amharic": "",
+    "aliases": [],
+    "category": "Supermarket",
+    "subcity": "Arada",
+    "lat": 9.0334375,
+    "lng": 38.7625625
+  },
+  {
+    "id": 267,
+    "name": "Sambusa-Ga 4 kilo Eri Bekentu",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bakery",
+    "subcity": "Arada",
+    "lat": 9.0287425,
+    "lng": 38.7596577
+  },
+  {
+    "id": 268,
+    "name": "Kal Flower and Surprises",
+    "amharic": "",
+    "aliases": [],
+    "category": "Flower delivery",
+    "subcity": "Arada",
+    "lat": 9.0349951,
+    "lng": 38.7590359
+  },
+  {
+    "id": 269,
+    "name": "Zoe's fashion",
+    "amharic": "",
+    "aliases": [],
+    "category": "Store",
+    "subcity": "Arada",
+    "lat": 9.033680799999999,
+    "lng": 38.7588714
+  },
+  {
+    "id": 270,
+    "name": "Addis Ababa University",
+    "amharic": "",
+    "aliases": [],
+    "category": "University",
+    "subcity": "Gulele",
+    "lat": 9.0476128,
+    "lng": 38.759856
+  },
+  {
+    "id": 271,
+    "name": "Addis Ababa University",
+    "amharic": "",
+    "aliases": [],
+    "category": "University",
+    "subcity": "Gulele",
+    "lat": 9.0443923,
+    "lng": 38.760841899999996
+  },
+  {
+    "id": 272,
+    "name": "አ አ ዩኒቨርሲቲ ኪሎ ካምፓስ / AA University 4 Kilo Campus . 4",
+    "amharic": "አ አ ዩኒቨርሲቲ ኪሎ ካምፓስ",
+    "aliases": [],
+    "category": "University",
+    "subcity": "",
+    "lat": 9.0332417,
+    "lng": 38.764589799999996
+  },
+  {
+    "id": 273,
+    "name": "Addis Ababa University Business Center | 6 Kilo",
+    "amharic": "",
+    "aliases": [],
+    "category": "Business center",
+    "subcity": "",
+    "lat": 9.044289299999999,
+    "lng": 38.760808999999995
+  },
+  {
+    "id": 274,
+    "name": "Kenema Pharmacy ( Kenema Public Pharmacy, Number 4, 4Kilo)",
+    "amharic": "",
+    "aliases": [],
+    "category": "Pharmacy",
+    "subcity": "",
+    "lat": 9.0337673,
+    "lng": 38.7618262
+  },
+  {
+    "id": 275,
+    "name": "Nib International Bank, 6 kilo Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.0501858,
+    "lng": 38.762188699999996
+  },
+  {
+    "id": 276,
+    "name": "Dashen Bank HQ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "Lideta",
+    "lat": 9.016685899999999,
+    "lng": 38.7495799
+  },
+  {
+    "id": 277,
+    "name": "Comercial Bank of Ethiopia Arat Killo Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "Arada",
+    "lat": 9.0330888,
+    "lng": 38.762515799999996
+  },
+  {
+    "id": 278,
+    "name": "Commercial Bank of Ethiopia 'Meskel' Square Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.0115211,
+    "lng": 38.7621362
+  },
+  {
+    "id": 279,
+    "name": "PSS ATM",
+    "amharic": "",
+    "aliases": [],
+    "category": "ATM",
+    "subcity": "",
+    "lat": 9.0465707,
+    "lng": 38.7613042
+  },
+  {
+    "id": 280,
+    "name": "Hibret Bank Head office",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "Lideta",
+    "lat": 9.0135047,
+    "lng": 38.748658999999996
+  },
+  {
+    "id": 281,
+    "name": "Commercial Bank of Ethiopia Gofa Sefer Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 8.9871257,
+    "lng": 38.7489322
+  },
+  {
+    "id": 282,
+    "name": "ሊደርሺፕ ህንጻ ኪሎ / Leadership Bulding 6 Kilo 6",
+    "amharic": "ሊደርሺፕ ህንጻ ኪሎ",
+    "aliases": [],
+    "category": "University",
+    "subcity": "Gulele",
+    "lat": 9.045098699999999,
+    "lng": 38.7634529
+  },
+  {
+    "id": 283,
+    "name": "HelloCash LION Bank Agent afewerk computer",
+    "amharic": "",
+    "aliases": [],
+    "category": "Money transfer service",
+    "subcity": "Kebena",
+    "lat": 9.0373053,
+    "lng": 38.7630579
+  },
+  {
+    "id": 284,
+    "name": "አልፋ ዩኒቨርሲቲ ኮሌጅ ኪሎ / Alpha University College 4 Kilo 4",
+    "amharic": "አልፋ ዩኒቨርሲቲ ኮሌጅ ኪሎ",
+    "aliases": [],
+    "category": "University",
+    "subcity": "",
+    "lat": 9.0326085,
+    "lng": 38.767036
+  },
+  {
+    "id": 285,
+    "name": "ሲፒዩ ኮሌጅ ኪሎ / CPU College 4 Kilo class 4 class",
+    "amharic": "ሲፒዩ ኮሌጅ ኪሎ",
+    "aliases": [],
+    "category": "College",
+    "subcity": "",
+    "lat": 9.034722,
+    "lng": 38.7581394
+  },
+  {
+    "id": 286,
+    "name": "Sidist kilo University main gate",
+    "amharic": "",
+    "aliases": [],
+    "category": "University",
+    "subcity": "",
+    "lat": 9.0464766,
+    "lng": 38.7614983
+  },
+  {
+    "id": 287,
+    "name": "ስምጥ ሸለቆ ዩኒቨርሲቲ",
+    "amharic": "ስምጥ ሸለቆ ዩኒቨርሲቲ",
+    "aliases": [],
+    "category": "University",
+    "subcity": "",
+    "lat": 9.045401199999999,
+    "lng": 38.764505899999996
+  },
+  {
+    "id": 288,
+    "name": "Sidst Killo Unviersty Extension Building Ashetu Building",
+    "amharic": "",
+    "aliases": [],
+    "category": "University",
+    "subcity": "",
+    "lat": 9.0445774,
+    "lng": 38.760796899999995
+  },
+  {
+    "id": 289,
+    "name": "Addis Ababa Institute of Technology",
+    "amharic": "",
+    "aliases": [],
+    "category": "University",
+    "subcity": "Kebena",
+    "lat": 9.0403935,
+    "lng": 38.7633169
+  },
+  {
+    "id": 290,
+    "name": "Rift Valley University 4 Killo campus",
+    "amharic": "",
+    "aliases": [],
+    "category": "University",
+    "subcity": "Arada",
+    "lat": 9.0321451,
+    "lng": 38.7617069
+  },
+  {
+    "id": 291,
+    "name": "ኪውንስ ኮሌጅ ኪሎ / Queens College 5 Kilo 5",
+    "amharic": "ኪውንስ ኮሌጅ ኪሎ",
+    "aliases": [],
+    "category": "College",
+    "subcity": "",
+    "lat": 9.0389474,
+    "lng": 38.7627731
+  },
+  {
+    "id": 292,
+    "name": "Addis Ababa University School of Commerce",
+    "amharic": "",
+    "aliases": [],
+    "category": "University",
+    "subcity": "Kirkos",
+    "lat": 9.012995199999999,
+    "lng": 38.7494173
+  },
+  {
+    "id": 293,
+    "name": "Addis Ababa University College of Business and Economics",
+    "amharic": "",
+    "aliases": [],
+    "category": "University",
+    "subcity": "",
+    "lat": 9.047165,
+    "lng": 38.762658699999996
+  },
+  {
+    "id": 294,
+    "name": "Addis Ababa University | Natural Sciences Campus",
+    "amharic": "",
+    "aliases": [],
+    "category": "University",
+    "subcity": "Kebena",
+    "lat": 9.033506299999999,
+    "lng": 38.7636817
+  },
+  {
+    "id": 295,
+    "name": "Dukm",
+    "amharic": "",
+    "aliases": [],
+    "category": "Private university",
+    "subcity": "",
+    "lat": 9.021683999999999,
+    "lng": 38.753101199999996
+  },
+  {
+    "id": 296,
+    "name": "የካቲት ሆስፒታል ኪሎ / Yekatit 12 Hospital 6 Kilo 12 6",
+    "amharic": "የካቲት ሆስፒታል ኪሎ",
+    "aliases": [],
+    "category": "Government hospital",
+    "subcity": "Arada",
+    "lat": 9.043533199999999,
+    "lng": 38.760046599999995
+  },
+  {
+    "id": 297,
+    "name": "Black Lion Hospital, AAU, School of Medicine",
+    "amharic": "",
+    "aliases": [],
+    "category": "University",
+    "subcity": "",
+    "lat": 9.0200763,
+    "lng": 38.750247099999996
+  },
+  {
+    "id": 298,
+    "name": "Black Lion Hospital,College of Health Sciences Library",
+    "amharic": "",
+    "aliases": [],
+    "category": "University",
+    "subcity": "",
+    "lat": 9.0196878,
+    "lng": 38.750704999999996
+  },
+  {
+    "id": 299,
+    "name": "ጥቁር አንበሳ ሆስፒታል ቤተል / Tikur Anbessa (Black Lion) hospital, bethel",
+    "amharic": "ጥቁር አንበሳ ሆስፒታል ቤተል",
+    "aliases": [],
+    "category": "Hospital",
+    "subcity": "",
+    "lat": 9.0140218,
+    "lng": 38.6972162
+  },
+  {
+    "id": 300,
+    "name": "ጥቁር አንበሳ ሆስቢታል / Black lion hospital",
+    "amharic": "ጥቁር አንበሳ ሆስቢታል",
+    "aliases": [],
+    "category": "Transportation service",
+    "subcity": "",
+    "lat": 9.0199915,
+    "lng": 38.750214899999996
+  },
+  {
+    "id": 301,
+    "name": "Tikur Anbessa Teaching Hospital",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hospital",
+    "subcity": "Kirkos",
+    "lat": 8.987428,
+    "lng": 38.7558722
+  },
+  {
+    "id": 302,
+    "name": "ጥቁር አንበሳ ሆስፒታል በፋና በኩል / Tikur Anbessa Hospital Fana Side Gate",
+    "amharic": "ጥቁር አንበሳ ሆስፒታል በፋና በኩል",
+    "aliases": [],
+    "category": "Gated community",
+    "subcity": "",
+    "lat": 9.0191705,
+    "lng": 38.748709399999996
+  },
+  {
+    "id": 303,
+    "name": "የአቡነ ጴጥሮስ ሐውልት / Abune Petros Memorial",
+    "amharic": "የአቡነ ጴጥሮስ ሐውልት",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "Arada",
+    "lat": 9.035368799999999,
+    "lng": 38.7496188
+  },
+  {
+    "id": 304,
+    "name": "ዳግማዊ ምንሊክ አደባባይ / Menilik ll Square",
+    "amharic": "ዳግማዊ ምንሊክ አደባባይ",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0358513,
+    "lng": 38.7524222
+  },
+  {
+    "id": 305,
+    "name": "Emperor Tewodros II Square",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "Arada",
+    "lat": 9.027051799999999,
+    "lng": 38.7516639
+  },
+  {
+    "id": 306,
+    "name": "Dilachin Monument",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0202216,
+    "lng": 38.7516161
+  },
+  {
+    "id": 307,
+    "name": "70 Dereja",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "Arada",
+    "lat": 9.0405345,
+    "lng": 38.7569637
+  },
+  {
+    "id": 308,
+    "name": "Piassa, Degol Square",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "Arada",
+    "lat": 9.0325689,
+    "lng": 38.7540871
+  },
+  {
+    "id": 309,
+    "name": "Signal square",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0233783,
+    "lng": 38.7807975
+  },
+  {
+    "id": 310,
+    "name": "የዳግማዊ ምኒልክ ቤተ መንግስት ፓርክ / King Minelik II Palace Unity Park",
+    "amharic": "የዳግማዊ ምኒልክ ቤተ መንግስት ፓርክ",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.024511799999999,
+    "lng": 38.7636253
+  },
+  {
+    "id": 311,
+    "name": "አርባ ደረጃ / ARBA DEREJA",
+    "amharic": "አርባ ደረጃ",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "Arada",
+    "lat": 9.0388205,
+    "lng": 38.757624199999995
+  },
+  {
+    "id": 312,
+    "name": "Adwa Bridge",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0234591,
+    "lng": 38.779598199999995
+  },
+  {
+    "id": 313,
+    "name": "አንድነት ፓርክ መግብያና መኪና መቆሚያ / Unity Park Entrance and Parking مدخل ومواقف حديقة الاتحاد",
+    "amharic": "አንድነት ፓርክ መግብያና መኪና መቆሚያ",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0216697,
+    "lng": 38.7650419
+  },
+  {
+    "id": 314,
+    "name": "Meskel Square",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "Kirkos",
+    "lat": 9.0104744,
+    "lng": 38.761103999999996
+  },
+  {
+    "id": 315,
+    "name": "Desta Bridge",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0482727,
+    "lng": 38.7789868
+  },
+  {
+    "id": 316,
+    "name": "Miyazya 27 Victory Statue",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "",
+    "lat": 9.032847199999999,
+    "lng": 38.7633371
+  },
+  {
+    "id": 317,
+    "name": "CBE HQ Monument",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.016718599999999,
+    "lng": 38.7545833
+  },
+  {
+    "id": 318,
+    "name": "Unity Park",
+    "amharic": "",
+    "aliases": [],
+    "category": "City park",
+    "subcity": "Arada",
+    "lat": 9.0231324,
+    "lng": 38.7639572
+  },
+  {
+    "id": 319,
+    "name": "Arada Giyorgis Square",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "Arada",
+    "lat": 9.037511499999999,
+    "lng": 38.752254099999995
+  },
+  {
+    "id": 320,
+    "name": "bale berenda",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.029187799999999,
+    "lng": 38.742151
+  },
+  {
+    "id": 321,
+    "name": "Adwa Victory Center",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.033870499999999,
+    "lng": 38.7525183
+  },
+  {
+    "id": 322,
+    "name": "Ethiopia",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0204024,
+    "lng": 38.7797534
+  },
+  {
+    "id": 323,
+    "name": "Leoul Adebabay",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0360427,
+    "lng": 38.7694816
+  },
+  {
+    "id": 324,
+    "name": "Holy Trinity Cathedral",
+    "amharic": "",
+    "aliases": [],
+    "category": "Orthodox church",
+    "subcity": "Kebena",
+    "lat": 9.030782499999999,
+    "lng": 38.7662529
+  },
+  {
+    "id": 325,
+    "name": "Residence of Betwoded Sultan Alimirah Hanfare",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0205628,
+    "lng": 38.778471499999995
+  },
+  {
+    "id": 326,
+    "name": "ኮርያ ሠፈር",
+    "amharic": "ኮርያ ሠፈር",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0390154,
+    "lng": 38.7734593
+  },
+  {
+    "id": 327,
+    "name": "አሜሪካን ጊቢ / American Gibi , aka FITAWRARI HABTEGIORGIS Yemeni SCHOOL",
+    "amharic": "አሜሪካን ጊቢ",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "Addis Ketema",
+    "lat": 9.0338286,
+    "lng": 38.742892999999995
+  },
+  {
+    "id": 328,
+    "name": "Лев Эфиопии",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0186783,
+    "lng": 38.7520758
+  },
+  {
+    "id": 329,
+    "name": "የልዑል አልጋ ወራሽ የቀድሞ መኖሪያ / Former Residence of the Crown Prince",
+    "amharic": "የልዑል አልጋ ወራሽ የቀድሞ መኖሪያ",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0474259,
+    "lng": 38.7639777
+  },
+  {
+    "id": 330,
+    "name": "Lion of Judah Monument",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0165838,
+    "lng": 38.7524526
+  },
+  {
+    "id": 331,
+    "name": "Mega House",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0362986,
+    "lng": 38.7631207
+  },
+  {
+    "id": 332,
+    "name": "National Palace, Gate 3",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0176941,
+    "lng": 38.7613081
+  },
+  {
+    "id": 333,
+    "name": "waryt square",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "Yeka",
+    "lat": 9.023406099999999,
+    "lng": 38.780771699999995
+  },
+  {
+    "id": 334,
+    "name": "Grand Anwar Mosque",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "Addis Ketema",
+    "lat": 9.0331821,
+    "lng": 38.7410639
+  },
+  {
+    "id": 335,
+    "name": "ቃኘው ሻለቃ ሰላም ማስከበር አደባባይ / Kagnew Peace Keeping Round About",
+    "amharic": "ቃኘው ሻለቃ ሰላም ማስከበር አደባባይ",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0464877,
+    "lng": 38.768175
+  },
+  {
+    "id": 336,
+    "name": "የካቲት መታሰብያ ሐውልት / Yekatit 12 Monument ( 12 )",
+    "amharic": "የካቲት መታሰብያ ሐውልት",
+    "aliases": [],
+    "category": "Monument",
+    "subcity": "Gulele",
+    "lat": 9.043825199999999,
+    "lng": 38.761217099999996
+  },
+  {
+    "id": 337,
+    "name": "Elfign Royal Residence",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.024955199999999,
+    "lng": 38.764058899999995
+  },
+  {
+    "id": 338,
+    "name": "Gojam berenda",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "Addis Ketema",
+    "lat": 9.0373953,
+    "lng": 38.7377957
+  },
+  {
+    "id": 339,
+    "name": "Ras Mekonnen Monument & Spring",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.040433199999999,
+    "lng": 38.756996199999996
+  },
+  {
+    "id": 340,
+    "name": "እንቁላል ቤት የንጉሥ ምኒልክ ግቢ / Egg house & Emperor Menelik II's Quarter",
+    "amharic": "እንቁላል ቤት የንጉሥ ምኒልክ ግቢ",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "",
+    "lat": 9.025180899999999,
+    "lng": 38.7638976
+  },
+  {
+    "id": 341,
+    "name": "Dhooqa Booraa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.014776999999999,
+    "lng": 38.78762
+  },
+  {
+    "id": 342,
+    "name": "Lideta square",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0114708,
+    "lng": 38.734332599999995
+  },
+  {
+    "id": 343,
+    "name": "አምሳሉ ዘማርያም ህንፃ",
+    "amharic": "አምሳሉ ዘማርያም ህንፃ",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0383807,
+    "lng": 38.765923
+  },
+  {
+    "id": 344,
+    "name": "የሰማእታት መታሰቢያ ሀውልት / Martyr Monument",
+    "amharic": "የሰማእታት መታሰቢያ ሀውልት",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0438456,
+    "lng": 38.7611996
+  },
+  {
+    "id": 345,
+    "name": "Sulula Garbii",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.016582,
+    "lng": 38.748053
+  },
+  {
+    "id": 346,
+    "name": "National Museum of Ethiopia",
+    "amharic": "",
+    "aliases": [],
+    "category": "Museum",
+    "subcity": "Arada",
+    "lat": 9.0382429,
+    "lng": 38.7617736
+  },
+  {
+    "id": 347,
+    "name": "የአርበኞች የድል ሀውልት",
+    "amharic": "የአርበኞች የድል ሀውልት",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0328762,
+    "lng": 38.7633782
+  },
+  {
+    "id": 348,
+    "name": "Birbirsa Gooroo",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0358377,
+    "lng": 38.752402599999996
+  },
+  {
+    "id": 349,
+    "name": "Adbarwa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0368062,
+    "lng": 38.7884391
+  },
+  {
+    "id": 350,
+    "name": "Ta'eka Negest Be'ata Lemariam Monastery",
+    "amharic": "",
+    "aliases": [],
+    "category": "Orthodox church",
+    "subcity": "Arada",
+    "lat": 9.0251634,
+    "lng": 38.7650787
+  },
+  {
+    "id": 351,
+    "name": "Aderash Reception Hall",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.024217199999999,
+    "lng": 38.7630317
+  },
+  {
+    "id": 352,
+    "name": "Ambo city",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0677591,
+    "lng": 38.753124799999995
+  },
+  {
+    "id": 353,
+    "name": "The Skyscraper Tower",
+    "amharic": "",
+    "aliases": [],
+    "category": "Cultural landmark",
+    "subcity": "",
+    "lat": 9.0171722,
+    "lng": 38.754245
+  },
+  {
+    "id": 354,
+    "name": "Waddeessa waalee",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.02308,
+    "lng": 38.752078999999995
+  },
+  {
+    "id": 355,
+    "name": "የክብር ዘበኛ ጠቅላይ መምሪያ የቀድሞ / Former Imperial Bodyguard Headquarters ()",
+    "amharic": "የክብር ዘበኛ ጠቅላይ መምሪያ የቀድሞ",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0453426,
+    "lng": 38.7623841
+  },
+  {
+    "id": 356,
+    "name": "Laga Qamalee",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.034193,
+    "lng": 38.742681999999995
+  },
+  {
+    "id": 357,
+    "name": "Former Imperial Bodyguard Music Band Headquarters",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.040804699999999,
+    "lng": 38.7727911
+  },
+  {
+    "id": 358,
+    "name": "Ethnological Museum",
+    "amharic": "",
+    "aliases": [],
+    "category": "Heritage museum",
+    "subcity": "Gulele",
+    "lat": 9.0469448,
+    "lng": 38.7577717
+  },
+  {
+    "id": 359,
+    "name": "የደጃዝማች በዛብህ ስለሺ መኖሪያ",
+    "amharic": "የደጃዝማች በዛብህ ስለሺ መኖሪያ",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0081534,
+    "lng": 38.7692718
+  },
+  {
+    "id": 360,
+    "name": "Ethiopia Landmark",
+    "amharic": "",
+    "aliases": [],
+    "category": "other",
+    "subcity": "",
+    "lat": 9.0229739,
+    "lng": 38.7617413
+  },
+  {
+    "id": 361,
+    "name": "የኮርያ ዘማቾች መታሰቢያ አደባባይ / Korea Veterans Memorial Roundabout",
+    "amharic": "የኮርያ ዘማቾች መታሰቢያ አደባባይ",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.008149999999999,
+    "lng": 38.7693517
+  },
+  {
+    "id": 362,
+    "name": "Waw",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0258544,
+    "lng": 38.730372599999995
+  },
+  {
+    "id": 363,
+    "name": "የቀድሞ የክብር ዘበኛ ሆስፒታል / Former Imperial Bodyguard Hospital",
+    "amharic": "የቀድሞ የክብር ዘበኛ ሆስፒታል",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0451661,
+    "lng": 38.771055
+  },
+  {
+    "id": 364,
+    "name": "አዋጭ ጃምቦ ፕላዛ / one Awach jmbo plaza",
+    "amharic": "አዋጭ ጃምቦ ፕላዛ",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.027957899999999,
+    "lng": 38.7732799
+  },
+  {
+    "id": 365,
+    "name": "አየር ጤና ትራፊክ መብራት / Ayer tena traffic light BY YORDAN",
+    "amharic": "አየር ጤና ትራፊክ መብራት",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 8.9828117,
+    "lng": 38.6971312
+  },
+  {
+    "id": 366,
+    "name": "Lion of Judah Statue",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "",
+    "lat": 9.0108889,
+    "lng": 38.7531567
+  },
+  {
+    "id": 367,
+    "name": "Qarsaa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.014337,
+    "lng": 38.76692
+  },
+  {
+    "id": 368,
+    "name": "በዓታ ቤተ ክርስቲያን / Beata Church",
+    "amharic": "በዓታ ቤተ ክርስቲያን",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "",
+    "lat": 9.0247873,
+    "lng": 38.7654484
+  },
+  {
+    "id": 369,
+    "name": "Ethiopian Science Museum",
+    "amharic": "",
+    "aliases": [],
+    "category": "Museum",
+    "subcity": "Kirkos",
+    "lat": 9.0214518,
+    "lng": 38.7624086
+  },
+  {
+    "id": 370,
+    "name": "6 kuter mazoria",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0594716,
+    "lng": 38.7377732
+  },
+  {
+    "id": 371,
+    "name": "ፈረንሳይ እየሱስ ምትኩ መንገድ / 41",
+    "amharic": "ፈረንሳይ እየሱስ ምትኩ መንገድ",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0708074,
+    "lng": 38.7704911
+  },
+  {
+    "id": 372,
+    "name": "Adwa Museum",
+    "amharic": "",
+    "aliases": [],
+    "category": "Museum",
+    "subcity": "Arada",
+    "lat": 9.0331599,
+    "lng": 38.7533436
+  },
+  {
+    "id": 373,
+    "name": "Ras Mekonnen Bridge",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bridge",
+    "subcity": "",
+    "lat": 9.0398114,
+    "lng": 38.756411199999995
+  },
+  {
+    "id": 374,
+    "name": "Golboo",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.003973,
+    "lng": 38.754587
+  },
+  {
+    "id": 375,
+    "name": "Hi Ethiopia Addis Ababa City Tours:Explore with Young Isaac, Your Expert Tour Guide",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "Yeka",
+    "lat": 9.0151741,
+    "lng": 38.78407
+  },
+  {
+    "id": 376,
+    "name": "Addams",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0404428,
+    "lng": 38.728963799999995
+  },
+  {
+    "id": 377,
+    "name": "Dildila",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.063972999999999,
+    "lng": 38.773669
+  },
+  {
+    "id": 378,
+    "name": "ጣይቱ አደባባይ",
+    "amharic": "ጣይቱ አደባባይ",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.077568699999999,
+    "lng": 38.7722473
+  },
+  {
+    "id": 379,
+    "name": "Agamsa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.031549,
+    "lng": 38.738471
+  },
+  {
+    "id": 380,
+    "name": "ካዛንችስ / Kazanchis",
+    "amharic": "ካዛንችስ",
+    "aliases": [],
+    "category": "Barbecue area",
+    "subcity": "Kebena",
+    "lat": 9.0174076,
+    "lng": 38.775815699999995
+  },
+  {
+    "id": 381,
+    "name": "Medhanealem Cathedral",
+    "amharic": "",
+    "aliases": [],
+    "category": "Orthodox church",
+    "subcity": "Bole",
+    "lat": 8.9960687,
+    "lng": 38.7894876
+  },
+  {
+    "id": 382,
+    "name": "Tiannamen Square",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0027891,
+    "lng": 38.791111
+  },
+  {
+    "id": 383,
+    "name": "Shola Market",
+    "amharic": "",
+    "aliases": [],
+    "category": "Market",
+    "subcity": "Yeka",
+    "lat": 9.0223515,
+    "lng": 38.794551899999995
+  },
+  {
+    "id": 384,
+    "name": "St. George Church",
+    "amharic": "",
+    "aliases": [],
+    "category": "Orthodox church",
+    "subcity": "Arada",
+    "lat": 9.036760899999999,
+    "lng": 38.751325
+  },
+  {
+    "id": 385,
+    "name": "ፊት አውራሪ ፋሪስ ጊቢ",
+    "amharic": "ፊት አውራሪ ፋሪስ ጊቢ",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0650724,
+    "lng": 38.7882131
+  },
+  {
+    "id": 386,
+    "name": "Friendship Park - 2",
+    "amharic": "",
+    "aliases": [],
+    "category": "Park",
+    "subcity": "Arada",
+    "lat": 9.0287057,
+    "lng": 38.7626661
+  },
+  {
+    "id": 387,
+    "name": "Addis Ababa park",
+    "amharic": "",
+    "aliases": [],
+    "category": "Park",
+    "subcity": "Kirkos",
+    "lat": 9.0154684,
+    "lng": 38.763178499999995
+  },
+  {
+    "id": 388,
+    "name": "Prince Ras Asrate Kassa Former Residence",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.066794699999999,
+    "lng": 38.7691912
+  },
+  {
+    "id": 389,
+    "name": "ጋዜቦ አደባባይ / Gazebo Roundabout",
+    "amharic": "ጋዜቦ አደባባይ",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "Kirkos",
+    "lat": 9.000375499999999,
+    "lng": 38.766814499999995
+  },
+  {
+    "id": 390,
+    "name": "ቄራ አደባባይ / Qera adebabay",
+    "amharic": "ቄራ አደባባይ",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 8.9848357,
+    "lng": 38.750347399999995
+  },
+  {
+    "id": 391,
+    "name": "ኦሊ ታወር / OLI Tower , MOFA Ethiopia",
+    "amharic": "ኦሊ ታወር",
+    "aliases": [],
+    "category": "Corporate office",
+    "subcity": "",
+    "lat": 9.0239117,
+    "lng": 38.7569969
+  },
+  {
+    "id": 392,
+    "name": "የቀይ ሽብር መታሰቢያ ሙዚየም / Red Terror Martyrs' Memorial Museum",
+    "amharic": "የቀይ ሽብር መታሰቢያ ሙዚየም",
+    "aliases": [],
+    "category": "Museum",
+    "subcity": "Kirkos",
+    "lat": 9.0100214,
+    "lng": 38.7631385
+  },
+  {
+    "id": 393,
+    "name": "Berberee tera parking",
+    "amharic": "",
+    "aliases": [],
+    "category": "Public parking space",
+    "subcity": "Lideta",
+    "lat": 9.0253412,
+    "lng": 38.7424852
+  },
+  {
+    "id": 394,
+    "name": "Ethiopian Parliament",
+    "amharic": "",
+    "aliases": [],
+    "category": "Federal government office",
+    "subcity": "",
+    "lat": 9.0301905,
+    "lng": 38.7646355
+  },
+  {
+    "id": 395,
+    "name": "ላገር አሮጌው ባቡር ጣቢያ / Le Gare Old Train station Heritage Building",
+    "amharic": "ላገር አሮጌው ባቡር ጣቢያ",
+    "aliases": [],
+    "category": "Heritage preservation",
+    "subcity": "",
+    "lat": 9.0094657,
+    "lng": 38.7533045
+  },
+  {
+    "id": 396,
+    "name": "የልዕልት ተናኘወርቅ ኃ ሥ የቀድሞ መኖሪያ ቤት / Former Residence of Princess Tenagneworq .",
+    "amharic": "የልዕልት ተናኘወርቅ ኃ ሥ የቀድሞ መኖሪያ ቤት",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.059802099999999,
+    "lng": 38.76329
+  },
+  {
+    "id": 397,
+    "name": "Ethiopian Korea War Veterans Memorial Park",
+    "amharic": "",
+    "aliases": [],
+    "category": "Memorial park",
+    "subcity": "Gulele",
+    "lat": 9.046662399999999,
+    "lng": 38.753072499999995
+  },
+  {
+    "id": 398,
+    "name": "ግቢ ቅዱስ ገብርኤል ቤተክርስትያን ኪሎ / Gibi Gebriel Church 4 Kilo 4",
+    "amharic": "ግቢ ቅዱስ ገብርኤል ቤተክርስትያን ኪሎ",
+    "aliases": [],
+    "category": "Orthodox church",
+    "subcity": "",
+    "lat": 9.0237193,
+    "lng": 38.765892099999995
+  },
+  {
+    "id": 399,
+    "name": "Aman Ethiopia Tours",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tour operator",
+    "subcity": "Kirkos",
+    "lat": 9.0166644,
+    "lng": 38.765943899999996
+  },
+  {
+    "id": 400,
+    "name": "Tero square",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0515726,
+    "lng": 38.7091111
+  },
+  {
+    "id": 401,
+    "name": "Hurufa Raaree",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.034354,
+    "lng": 38.732071
+  },
+  {
+    "id": 402,
+    "name": "Menelik Mountain",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0623734,
+    "lng": 38.7577862
+  },
+  {
+    "id": 403,
+    "name": "አለምፀሃይ ድልድይ / Alemtsehay Bridge",
+    "amharic": "አለምፀሃይ ድልድይ",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.048962699999999,
+    "lng": 38.732663599999995
+  },
+  {
+    "id": 404,
+    "name": "Xarroo",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.041844,
+    "lng": 38.712492999999995
+  },
+  {
+    "id": 405,
+    "name": "በድሉ ህንጻ ሜክሲኮ / Bedlu Building Mexico",
+    "amharic": "በድሉ ህንጻ ሜክሲኮ",
+    "aliases": [],
+    "category": "Apartment building",
+    "subcity": "",
+    "lat": 9.0143857,
+    "lng": 38.7508893
+  },
+  {
+    "id": 406,
+    "name": "Waayyuu",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.05612,
+    "lng": 38.752893
+  },
+  {
+    "id": 407,
+    "name": "CBE HQ Tower",
+    "amharic": "",
+    "aliases": [],
+    "category": "Corporate office",
+    "subcity": "Kirkos",
+    "lat": 9.016981,
+    "lng": 38.754207799999996
+  },
+  {
+    "id": 408,
+    "name": "ነመራ / NEMERA HOUSE",
+    "amharic": "ነመራ",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 8.9951119,
+    "lng": 38.7549458
+  },
+  {
+    "id": 409,
+    "name": "GIDO cave",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 8.9820187,
+    "lng": 38.725610499999995
+  },
+  {
+    "id": 410,
+    "name": "Arada Park",
+    "amharic": "",
+    "aliases": [],
+    "category": "Park",
+    "subcity": "Arada",
+    "lat": 9.0389512,
+    "lng": 38.756581499999996
+  },
+  {
+    "id": 411,
+    "name": "Lesgoski porcodioski è così che si fa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0103204,
+    "lng": 38.777893
+  },
+  {
+    "id": 412,
+    "name": "የአድዋ ድል መታሰቢያ / Adwa Victory Memorial",
+    "amharic": "የአድዋ ድል መታሰቢያ",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "",
+    "lat": 9.0329408,
+    "lng": 38.751297199999996
+  },
+  {
+    "id": 413,
+    "name": "The \"Throne Hall\" or \"Throne House\"",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "",
+    "lat": 9.0247756,
+    "lng": 38.7631636
+  },
+  {
+    "id": 414,
+    "name": "Friendship Park",
+    "amharic": "",
+    "aliases": [],
+    "category": "City park",
+    "subcity": "Arada",
+    "lat": 9.0240054,
+    "lng": 38.758673699999996
+  },
+  {
+    "id": 415,
+    "name": "Sebastopol mortar monument",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "",
+    "lat": 9.0270692,
+    "lng": 38.7515891
+  },
+  {
+    "id": 416,
+    "name": "Korean Monument",
+    "amharic": "",
+    "aliases": [],
+    "category": "Monument",
+    "subcity": "",
+    "lat": 9.0460511,
+    "lng": 38.7534753
+  },
+  {
+    "id": 417,
+    "name": "Water Fountain Show",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "",
+    "lat": 9.0246839,
+    "lng": 38.7596403
+  },
+  {
+    "id": 418,
+    "name": "የዳግማዊ ምኒልክ ግብር አዳራሽ / Menelik II's Banquet Hall (Gibir Adarash)",
+    "amharic": "የዳግማዊ ምኒልክ ግብር አዳራሽ",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "",
+    "lat": 9.024241199999999,
+    "lng": 38.7627275
+  },
+  {
+    "id": 419,
+    "name": "Lion Park",
+    "amharic": "",
+    "aliases": [],
+    "category": "Park",
+    "subcity": "Kebena",
+    "lat": 9.0428003,
+    "lng": 38.762013499999995
+  },
+  {
+    "id": 420,
+    "name": "ጣልያን ሰፈር ሰ",
+    "amharic": "ጣልያን ሰፈር ሰ",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "",
+    "lat": 9.036140699999999,
+    "lng": 38.7463549
+  },
+  {
+    "id": 421,
+    "name": "Abware Birhan Roundabout",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "",
+    "lat": 9.0234011,
+    "lng": 38.7807351
+  },
+  {
+    "id": 422,
+    "name": "እቴጌ ጣይቱ አደባባይ / Etege Tayetu square",
+    "amharic": "እቴጌ ጣይቱ አደባባይ",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "Arada",
+    "lat": 9.0375208,
+    "lng": 38.7521874
+  },
+  {
+    "id": 423,
+    "name": "Sheger Lake",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "",
+    "lat": 9.0245902,
+    "lng": 38.758281
+  },
+  {
+    "id": 424,
+    "name": "ቅዱስ ስላሴ ካቴድራል ሙዚየም / The Holy Trinity Cathedral Museum",
+    "amharic": "ቅዱስ ስላሴ ካቴድራል ሙዚየም",
+    "aliases": [],
+    "category": "Museum",
+    "subcity": "Kebena",
+    "lat": 9.030431,
+    "lng": 38.7672884
+  },
+  {
+    "id": 425,
+    "name": "ClaBos Suspension Bridge",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "",
+    "lat": 9.0500261,
+    "lng": 38.786698
+  },
+  {
+    "id": 426,
+    "name": "Modern Art Museum: Gebre Kirstos Desta Center",
+    "amharic": "",
+    "aliases": [],
+    "category": "Museum",
+    "subcity": "Gulele",
+    "lat": 9.0490768,
+    "lng": 38.7638282
+  },
+  {
+    "id": 427,
+    "name": "Peace pigeon",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "",
+    "lat": 9.045772399999999,
+    "lng": 38.7432969
+  },
+  {
+    "id": 428,
+    "name": "Ethio Local and Walking Tours",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "Arada",
+    "lat": 9.021997299999999,
+    "lng": 38.7520662
+  },
+  {
+    "id": 429,
+    "name": "The Zoological Natural History Museum",
+    "amharic": "",
+    "aliases": [],
+    "category": "Museum",
+    "subcity": "Kebena",
+    "lat": 9.0329736,
+    "lng": 38.7652828
+  },
+  {
+    "id": 430,
+    "name": "Simien Image Ethiopian Tour and Travel Company",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tour operator",
+    "subcity": "Arada",
+    "lat": 9.040423299999999,
+    "lng": 38.7534133
+  },
+  {
+    "id": 431,
+    "name": "መስቀል አደባባይ / Addis Ababa Museum",
+    "amharic": "መስቀል አደባባይ",
+    "aliases": [],
+    "category": "Museum",
+    "subcity": "Kirkos",
+    "lat": 9.009413499999999,
+    "lng": 38.7628352
+  },
+  {
+    "id": 432,
+    "name": "Abware Germany Square",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "",
+    "lat": 9.023313,
+    "lng": 38.776514
+  },
+  {
+    "id": 433,
+    "name": "ኦሮሚያ ባህል ማእከል / Giddugala Aadaa Oromoo Oromia Cultural Center",
+    "amharic": "ኦሮሚያ ባህል ማእከል",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "Kirkos",
+    "lat": 9.0108911,
+    "lng": 38.7575918
+  },
+  {
+    "id": 434,
+    "name": "Addis Rove Morocco & Massage",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "Bole",
+    "lat": 9.0155525,
+    "lng": 38.7871168
+  },
+  {
+    "id": 435,
+    "name": "HI ETHIOPIA",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "Bole",
+    "lat": 9.010095999999999,
+    "lng": 38.7809271
+  },
+  {
+    "id": 436,
+    "name": "Yashwant room class",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "",
+    "lat": 9.0361963,
+    "lng": 38.7720468
+  },
+  {
+    "id": 437,
+    "name": "Chichiniya Sefer",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "",
+    "lat": 9.0121092,
+    "lng": 38.7814218
+  },
+  {
+    "id": 438,
+    "name": "Piazza",
+    "amharic": "",
+    "aliases": [],
+    "category": "other",
+    "subcity": "",
+    "lat": 9.0371838,
+    "lng": 38.7551432
+  },
+  {
+    "id": 439,
+    "name": "French Center for Ethiopian Studies",
+    "amharic": "",
+    "aliases": [],
+    "category": "Research institute",
+    "subcity": "Yeka",
+    "lat": 9.040081599999999,
+    "lng": 38.77005
+  },
+  {
+    "id": 440,
+    "name": "Policy Studies Institute",
+    "amharic": "",
+    "aliases": [],
+    "category": "Research institute",
+    "subcity": "Kirkos",
+    "lat": 9.012846,
+    "lng": 38.7544435
+  },
+  {
+    "id": 441,
+    "name": "Ethiopian Institute of Agricultural Research",
+    "amharic": "",
+    "aliases": [],
+    "category": "Federal government office",
+    "subcity": "Bole",
+    "lat": 9.0140953,
+    "lng": 38.8122061
+  },
+  {
+    "id": 442,
+    "name": "tourism ethiopia",
+    "amharic": "",
+    "aliases": [],
+    "category": "National library",
+    "subcity": "Lideta",
+    "lat": 9.0178614,
+    "lng": 38.749378
+  },
+  {
+    "id": 443,
+    "name": "Forum for Social Studies (FSS)",
+    "amharic": "",
+    "aliases": [],
+    "category": "Research institute",
+    "subcity": "Kebena",
+    "lat": 9.035477799999999,
+    "lng": 38.774105399999996
+  },
+  {
+    "id": 444,
+    "name": "Institute of Ethiopian Studies",
+    "amharic": "",
+    "aliases": [],
+    "category": "Association / Organization",
+    "subcity": "",
+    "lat": 9.0466829,
+    "lng": 38.757818
+  },
+  {
+    "id": 445,
+    "name": "Institute for Peace and Security Studies (IPSS)",
+    "amharic": "",
+    "aliases": [],
+    "category": "University",
+    "subcity": "Gulele",
+    "lat": 9.048477799999999,
+    "lng": 38.7642305
+  },
+  {
+    "id": 446,
+    "name": "Goethe-Institut Addis Ababa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Research institute",
+    "subcity": "Gulele",
+    "lat": 9.048859799999999,
+    "lng": 38.764330099999995
+  },
+  {
+    "id": 447,
+    "name": "Ethiopian Institute of Financial Studies National Bank of Ethiopia",
+    "amharic": "",
+    "aliases": [],
+    "category": "Research institute",
+    "subcity": "",
+    "lat": 8.8561979,
+    "lng": 38.8033891
+  },
+  {
+    "id": 448,
+    "name": "Arada",
+    "amharic": "",
+    "aliases": [],
+    "category": "other",
+    "subcity": "",
+    "lat": 9.0397611,
+    "lng": 38.7525257
+  },
+  {
+    "id": 449,
+    "name": "St Urael Roundabout",
+    "amharic": "",
+    "aliases": [],
+    "category": "Store",
+    "subcity": "Bole",
+    "lat": 9.010964399999999,
+    "lng": 38.7747481
+  },
+  {
+    "id": 450,
+    "name": "Sidist killo condominium",
+    "amharic": "",
+    "aliases": [],
+    "category": "Condominium complex",
+    "subcity": "",
+    "lat": 9.0426149,
+    "lng": 38.767134299999995
+  },
+  {
+    "id": 451,
+    "name": "22 Roundabout",
+    "amharic": "",
+    "aliases": [],
+    "category": "Park",
+    "subcity": "Yeka",
+    "lat": 9.015966299999999,
+    "lng": 38.7874148
+  },
+  {
+    "id": 452,
+    "name": "Dembel Roundabout",
+    "amharic": "",
+    "aliases": [],
+    "category": "Distribution service",
+    "subcity": "Kirkos",
+    "lat": 9.0042019,
+    "lng": 38.768115099999996
+  },
+  {
+    "id": 453,
+    "name": "Aratkilo",
+    "amharic": "",
+    "aliases": [],
+    "category": "Parking lot",
+    "subcity": "Kebena",
+    "lat": 9.030854399999999,
+    "lng": 38.7664298
+  },
+  {
+    "id": 454,
+    "name": "ሱማሌ ተራ አደባባይ / Somaletera Roundabout",
+    "amharic": "ሱማሌ ተራ አደባባይ",
+    "aliases": [],
+    "category": "Park",
+    "subcity": "Arada",
+    "lat": 9.0321961,
+    "lng": 38.7472991
+  },
+  {
+    "id": 455,
+    "name": "Welo Sefer Roundabout Park",
+    "amharic": "",
+    "aliases": [],
+    "category": "Park",
+    "subcity": "Kirkos",
+    "lat": 8.9939733,
+    "lng": 38.7746703
+  },
+  {
+    "id": 456,
+    "name": "NOC Roundabout",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "",
+    "lat": 9.0627402,
+    "lng": 38.7343433
+  },
+  {
+    "id": 457,
+    "name": "ቶታል ሶስት ቁጥር ማዞሪያ / Total Sost Quter Roundabout",
+    "amharic": "ቶታል ሶስት ቁጥር ማዞሪያ",
+    "aliases": [],
+    "category": "Park",
+    "subcity": "Kolfe Keranio",
+    "lat": 8.992690099999999,
+    "lng": 38.7170273
+  },
+  {
+    "id": 458,
+    "name": "ሴቶች አደባባይ / Women's Roundabout",
+    "amharic": "ሴቶች አደባባይ",
+    "aliases": [],
+    "category": "Park",
+    "subcity": "Yeka",
+    "lat": 9.0232733,
+    "lng": 38.7765321
+  },
+  {
+    "id": 459,
+    "name": "ሳርቤት አደባባይ የመኪና ማቆሚያ / Sarbet Roundabout Parking",
+    "amharic": "ሳርቤት አደባባይ የመኪና ማቆሚያ",
+    "aliases": [],
+    "category": "Parking lot",
+    "subcity": "Kirkos",
+    "lat": 8.9932607,
+    "lng": 38.7389809
+  }
+]

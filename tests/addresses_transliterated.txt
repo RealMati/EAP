@@ -1,0 +1,60 @@
+# Transliterated Amharic (Amharic words in Latin script)
+# Format: address | expected_subcity | expected_landmark
+# Common in SMS, WhatsApp, social media
+
+# Basic transliterations
+bolle edna mol jerba | bole | edna
+kirkos hilton hotel atgeb | kirkos | hilton
+meskel square kurb | kirkos | meskel
+yeka CMC mikael akababi | yeka | michael
+bolle medhanialem bete kristian | bole | medhanealem
+
+# With woreda (transliterated)
+bolle woreda 3 edna mol jerba | bole | edna
+kirkos woreda 5 hilton atgeb | kirkos | hilton
+yeka woreda 7 CMC akababi | yeka | cmc
+arada woreda 2 piassa gebya | arada | piassa
+
+# Common transliterated directions
+edna mall jerba | bole | edna
+hilton hotel atgeb | kirkos | hilton
+meskel square kurb | kirkos | meskel
+stadium akababi | kirkos | stadium
+airport jerba | bole | airport
+
+# Transliterated spatial words
+behwala edna mall | bole | edna
+fit lefit hilton hotel | kirkos | hilton
+wust meskel square | kirkos | meskel
+atgeb CMC mikael | yeka | michael
+kurb bole airport | bole | airport
+
+# Building terms transliterated
+semayawi building edna mall kurb | bole | edna
+nech bet hilton atgeb | kirkos | hilton
+baria building meskel square | kirkos | meskel
+yellow bet yeka CMC | yeka | cmc
+
+# Complex transliterated
+bolle kifle ketema woreda 3 edna mol jerba semayawi building | bole | edna
+kirkos woreda 5 hilton hotel atgeb nech bet | kirkos | hilton
+yeka CMC mikael bete kristian akababi baria building | yeka | michael
+
+# Common misspellings in transliteration
+bolle edna mol | bole | edna
+kirkoss hilton | kirkos | hilton
+yekka CMC | yeka | cmc
+mesquel square | kirkos | meskel
+hilten hotel | kirkos | hilton
+medhanialem kristian | bole | medhanealem
+
+# Transliterated areas
+mexico akababi yeka | yeka | mexico
+piassa arada | arada | piassa
+merkato lideta | lideta | mercato
+kazanchis kirkos | kirkos | kazanchis
+
+# Mixed transliteration styles
+bol edna mall jerba | bole | edna
+kirkos hilton htl atgeb | kirkos | hilton
+yeka mikael chr kurb | yeka | michael

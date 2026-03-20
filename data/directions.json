@@ -1,0 +1,124 @@
+{
+  "directions": [
+    {
+      "canonical": "behind",
+      "english": ["behind", "back of", "in back of", "at the back", "rear of"],
+      "amharic": ["ጀርባ", "ኋላ"],
+      "transliterated": ["jerba", "hwala", "behwala", "huwala"]
+    },
+    {
+      "canonical": "near",
+      "english": ["near", "nearby", "close to", "around", "vicinity of"],
+      "amharic": ["አጠገብ", "አካባቢ"],
+      "transliterated": ["atege", "ategeb", "akababi", "akababii"]
+    },
+    {
+      "canonical": "opposite",
+      "english": ["opposite", "across from", "facing", "in front of"],
+      "amharic": ["ፊት ለፊት", "ትይዩ"],
+      "transliterated": ["fit lefit", "tiyyu", "fitlefit"]
+    },
+    {
+      "canonical": "next to",
+      "english": ["next to", "beside", "adjacent to", "by", "alongside"],
+      "amharic": ["ጎን", "ቀጥሎ"],
+      "transliterated": ["gon", "ketlo", "qetlo"]
+    },
+    {
+      "canonical": "between",
+      "english": ["between", "in between", "amid"],
+      "amharic": ["መካከል"],
+      "transliterated": ["mekakel", "mekakele"]
+    },
+    {
+      "canonical": "above",
+      "english": ["above", "over", "on top of", "upstairs"],
+      "amharic": ["ላይ", "ከላይ"],
+      "transliterated": ["lay", "kelay"]
+    },
+    {
+      "canonical": "below",
+      "english": ["below", "under", "beneath", "downstairs"],
+      "amharic": ["ታች", "ከታች"],
+      "transliterated": ["tach", "ketach"]
+    },
+    {
+      "canonical": "inside",
+      "english": ["inside", "within", "in"],
+      "amharic": ["ውስጥ"],
+      "transliterated": ["wist", "wust", "wst"]
+    },
+    {
+      "canonical": "corner",
+      "english": ["corner", "at the corner", "corner of"],
+      "amharic": ["ጥግ", "ማዕዘን"],
+      "transliterated": ["tege", "tig", "ma'ezen"]
+    },
+    {
+      "canonical": "after",
+      "english": ["after", "past", "beyond"],
+      "amharic": ["ከ...በኋላ"],
+      "transliterated": ["ke behwala", "kehwala"]
+    },
+    {
+      "canonical": "before",
+      "english": ["before", "prior to"],
+      "amharic": ["ከ...በፊት"],
+      "transliterated": ["ke befit", "kebefit"]
+    },
+    {
+      "canonical": "left",
+      "english": ["left", "on the left", "to the left"],
+      "amharic": ["ግራ"],
+      "transliterated": ["gra", "gira"]
+    },
+    {
+      "canonical": "right",
+      "english": ["right", "on the right", "to the right"],
+      "amharic": ["ቀኝ"],
+      "transliterated": ["qegn", "ken", "qeny"]
+    },
+    {
+      "canonical": "north",
+      "english": ["north", "northern"],
+      "amharic": ["ሰሜን"],
+      "transliterated": ["semen", "semeen"]
+    },
+    {
+      "canonical": "south",
+      "english": ["south", "southern"],
+      "amharic": ["ደቡብ"],
+      "transliterated": ["debub", "debuub"]
+    },
+    {
+      "canonical": "east",
+      "english": ["east", "eastern"],
+      "amharic": ["ምስራቅ"],
+      "transliterated": ["misraq", "mesraq"]
+    },
+    {
+      "canonical": "west",
+      "english": ["west", "western"],
+      "amharic": ["ምዕራብ"],
+      "transliterated": ["mi'irab", "merab"]
+    }
+  ],
+  "distance_indicators": [
+    {
+      "pattern": "meters",
+      "variations": ["m", "meters", "meter", "metre", "metres", "ሜትር"]
+    },
+    {
+      "pattern": "minutes",
+      "variations": ["min", "mins", "minutes", "minute", "ደቂቃ"]
+    },
+    {
+      "pattern": "walking",
+      "variations": ["walk", "walking", "on foot", "በእግር"]
+    },
+    {
+      "pattern": "driving",
+      "variations": ["drive", "driving", "by car", "በመኪና"]
+    }
+  ]
+}

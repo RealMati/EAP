@@ -1,0 +1,24 @@
+# Pure Amharic Addresses (Ethiopic Script Only)
+# Format: address | expected_subcity | expected_landmark
+
+# Common addresses in pure Amharic script
+ቦሌ ኤድና ሞል ጀርባ | bole | edna
+ኪርቆስ ሂልተን ሆቴል አጠገብ | kirkos | hilton
+መስቀል አደባባይ ቅርብ | kirkos | meskel
+የካ CMC ሚካኤል አካባቢ | yeka | michael
+ቦሌ መድሃኔዓለም ቤተክርስቲያን | bole | medhanealem
+አራዳ ፒያሳ አካባቢ | arada | piassa
+ሊዴታ መርካቶ አጠገብ | lideta | mercato
+ቦሌ አየር ማረፊያ ቅርብ | bole | airport
+ኪርቆስ የስታድየም አካባቢ | kirkos | stadium
+ኮልፌ ኦሊምፒያ ሞል ጀርባ | kolfe | olympia
+ቦሌ ወሬዳ 3 | bole | unknown
+ኪርቆስ ወሬዳ 5 | kirkos | unknown
+የካ CMC አካባቢ | yeka | cmc
+አራዳ ገበያ አካባቢ | arada | unknown
+ቦሌ ሸራተን ሆቴል አጠገብ | bole | sheraton
+ኪርቆስ ቅዱስ ጊዮርጊስ ቤተክርስቲያን | kirkos | giorgis
+የካ ሜክሲኮ አካባቢ | yeka | mexico
+ሊዴታ ታይቱ ሆቴል ጀርባ | lideta | taitu
+ቦሌ ፍሬንድሽፕ ሆቴል ፊት ለፊት | bole | friendship
+ኪርቆስ ብሉ ናይል ሆቴል አጠገብ | kirkos | blue

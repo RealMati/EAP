@@ -1,0 +1,92 @@
+{
+  "subcities": [
+    {
+      "id": 1,
+      "name": "Addis Ketema",
+      "amharic": "አዲስ ከተማ",
+      "aliases": ["addis ketema", "adis ketema", "addisketema", "a.ketema", "addis k"],
+      "woredas": 10,
+      "area_km2": 7.41
+    },
+    {
+      "id": 2,
+      "name": "Akaky Kaliti",
+      "amharic": "አቃቂ ቃሊቲ",
+      "aliases": ["akaky kaliti", "akaki kaliti", "akaky", "akaki", "kaliti", "kality", "kality"],
+      "woredas": 13,
+      "area_km2": 118.08
+    },
+    {
+      "id": 3,
+      "name": "Arada",
+      "amharic": "አራዳ",
+      "aliases": ["arada", "arat kilo", "sidist kilo", "piassa", "piasa", "4 kilo", "6 kilo"],
+      "woredas": 10,
+      "area_km2": 9.91
+    },
+    {
+      "id": 4,
+      "name": "Bole",
+      "amharic": "ቦሌ",
+      "aliases": ["bole", "bolle", "bolla", "boly", "bolly", "bole subcity", "bole sub city", "bole sub-city"],
+      "woredas": 15,
+      "area_km2": 122.08
+    },
+    {
+      "id": 5,
+      "name": "Gullele",
+      "amharic": "ጉለሌ",
+      "aliases": ["gullele", "gulele", "gulelle", "gullelle", "shiro meda", "shiromeda", "entoto"],
+      "woredas": 10,
+      "area_km2": 30.18
+    },
+    {
+      "id": 6,
+      "name": "Kirkos",
+      "amharic": "ቂርቆስ",
+      "aliases": ["kirkos", "kirkoss", "krkos", "kazanchis", "kazanches", "kazanchiss", "mexico", "meskel square"],
+      "woredas": 11,
+      "area_km2": 14.62
+    },
+    {
+      "id": 7,
+      "name": "Kolfe Keranio",
+      "amharic": "ኮልፌ ቀራኒዮ",
+      "aliases": ["kolfe keranio", "kolfe", "kolfie", "kolfe keranyo", "keranio", "keranyo", "merkato", "mercato"],
+      "woredas": 15,
+      "area_km2": 61.25
+    },
+    {
+      "id": 8,
+      "name": "Lideta",
+      "amharic": "ልደታ",
+      "aliases": ["lideta", "lidetta", "ledeta", "lidetta"],
+      "woredas": 10,
+      "area_km2": 9.18
+    },
+    {
+      "id": 9,
+      "name": "Nifas Silk-Lafto",
+      "amharic": "ንፋስ ስልክ ላፍቶ",
+      "aliases": ["nifas silk", "nifas silk lafto", "nifas silk-lafto", "lafto", "mekanisa", "mekanissa", "gotera", "jemo", "saris", "sarris"],
+      "woredas": 13,
+      "area_km2": 68.30
+    },
+    {
+      "id": 10,
+      "name": "Yeka",
+      "amharic": "የካ",
+      "aliases": ["yeka", "yekka", "cmc", "cmcmichael", "ayat", "ayaat", "megenagna", "megenanga", "kotebe", "kottebe"],
+      "woredas": 14,
+      "area_km2": 85.46
+    },
+    {
+      "id": 11,
+      "name": "Lemi Kura",
+      "amharic": "ለሚ ኩራ",
+      "aliases": ["lemi kura", "lemikura", "lemi", "summit", "sumit"],
+      "woredas": 12,
+      "area_km2": 50.00
+    }
+  ]
+}

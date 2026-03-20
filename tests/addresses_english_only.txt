@@ -1,0 +1,49 @@
+# Pure English Addresses (Latin Script Only)
+# Format: address | expected_subcity | expected_landmark
+
+# Simple landmark-based
+Bole behind Edna Mall | bole | edna
+Kirkos near Hilton Hotel | kirkos | hilton
+Meskel Square area | kirkos | meskel
+Yeka CMC Michael church | yeka | michael
+Bole Medhanealem church | bole | medhanealem
+
+# With woreda
+Bole woreda 3 near Edna Mall | bole | edna
+Kirkos woreda 5 Hilton Hotel | kirkos | hilton
+Yeka woreda 7 CMC area | yeka | cmc
+Arada woreda 2 Piassa | arada | piassa
+Lideta woreda 8 near Taitu Hotel | lideta | taitu
+
+# Detailed directions
+behind Edna Mall, blue building | bole | edna
+opposite Meskel Square, white house | kirkos | meskel
+next to Bole Airport terminal | bole | airport
+in front of Sheraton Hotel | kirkos | sheraton
+beside CMC Michael church | yeka | michael
+
+# Between landmarks
+between Meskel Square and Stadium | kirkos | meskel
+from Edna Mall to Friendship Hotel | bole | edna
+near Stadium opposite Meskel Square | kirkos | stadium
+
+# With building details
+Bole Edna Mall area, yellow building, 2nd floor | bole | edna
+Kirkos Hilton Hotel, white building house 234 | kirkos | hilton
+Yeka CMC area green house apartment 12 | yeka | cmc
+
+# Complex addresses
+Bole subcity woreda 3 behind Edna Mall blue building | bole | edna
+Kirkos woreda 5 opposite Hilton Hotel white building 3rd floor | kirkos | hilton
+Yeka CMC Michael church area 5 minutes walk green house | yeka | michael
+
+# Vague (should score low)
+somewhere near the mall | unknown | unknown
+around the area | unknown | unknown
+near the main road | unknown | unknown
+
+# Common areas
+Mexico area Yeka | yeka | mexico
+Piassa Arada | arada | piassa
+Merkato Lideta | lideta | mercato
+Kazanchis Kirkos | kirkos | kazanchis

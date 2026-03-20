@@ -1,0 +1,5789 @@
+[
+  {
+    "name": "Meskel Square",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "Kirkos",
+    "lat": 9.0104744,
+    "lng": 38.761103999999996
+  },
+  {
+    "name": "Emperor Tewodros II Square",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "Arada",
+    "lat": 9.027051799999999,
+    "lng": 38.7516639
+  },
+  {
+    "name": "Dilachin Monument",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0202216,
+    "lng": 38.7516161
+  },
+  {
+    "name": "Lideta square",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0114708,
+    "lng": 38.734332599999995
+  },
+  {
+    "name": "Signal square",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0233783,
+    "lng": 38.7807975
+  },
+  {
+    "name": "CBE HQ Monument",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.016718599999999,
+    "lng": 38.7545833
+  },
+  {
+    "name": "Adwa Bridge",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0234591,
+    "lng": 38.779598199999995
+  },
+  {
+    "name": "Addis Ababa Museum | መስቀል አደባባይ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Museum",
+    "subcity": "Kirkos",
+    "lat": 9.009413499999999,
+    "lng": 38.7628352
+  },
+  {
+    "name": "bale berenda",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.029187799999999,
+    "lng": 38.742151
+  },
+  {
+    "name": "Tiannamen Square",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0027891,
+    "lng": 38.791111
+  },
+  {
+    "name": "Lion of Judah Monument",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0165838,
+    "lng": 38.7524526
+  },
+  {
+    "name": "National Palace, Gate 3",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0176941,
+    "lng": 38.7613081
+  },
+  {
+    "name": "Korea Veterans Memorial Roundabout የኮርያ ዘማቾች መታሰቢያ አደባባይ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.008149999999999,
+    "lng": 38.7693517
+  },
+  {
+    "name": "የደጃዝማች በዛብህ ስለሺ መኖሪያ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0081534,
+    "lng": 38.7692718
+  },
+  {
+    "name": "Addis Ababa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 8.9824199,
+    "lng": 38.776438899999995
+  },
+  {
+    "name": "Medhanealem Cathedral",
+    "amharic": "",
+    "aliases": [],
+    "category": "Orthodox church",
+    "subcity": "Bole",
+    "lat": 8.9960687,
+    "lng": 38.7894876
+  },
+  {
+    "name": "Piassa, Degol Square",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "Arada",
+    "lat": 9.0325689,
+    "lng": 38.7540871
+  },
+  {
+    "name": "Unity Park Entrance and Parking / አንድነት ፓርክ መግብያና መኪና መቆሚያ / مدخل ومواقف حديقة الاتحاد",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0216697,
+    "lng": 38.7650419
+  },
+  {
+    "name": "Abune Petros Memorial የአቡነ ጴጥሮስ ሐውልት",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "Arada",
+    "lat": 9.035368799999999,
+    "lng": 38.7496188
+  },
+  {
+    "name": "Waw",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0258544,
+    "lng": 38.730372599999995
+  },
+  {
+    "name": "Лев Эфиопии",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0186783,
+    "lng": 38.7520758
+  },
+  {
+    "name": "Muhaba balachie",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0191936,
+    "lng": 38.7524635
+  },
+  {
+    "name": "Residence of Betwoded Sultan Alimirah Hanfare",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0205628,
+    "lng": 38.778471499999995
+  },
+  {
+    "name": "Lion of Judah Statue",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "",
+    "lat": 9.0108889,
+    "lng": 38.7531567
+  },
+  {
+    "name": "Menilik ll Square | ዳግማዊ ምንሊክ አደባባይ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0358513,
+    "lng": 38.7524222
+  },
+  {
+    "name": "Qera adebabay ቄራ አደባባይ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 8.9848357,
+    "lng": 38.750347399999995
+  },
+  {
+    "name": "Egg house & Emperor Menelik II's Quarter | እንቁላል ቤት | የንጉሥ ምኒልክ ግቢ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "",
+    "lat": 9.025180899999999,
+    "lng": 38.7638976
+  },
+  {
+    "name": "Ethiopia",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0204024,
+    "lng": 38.7797534
+  },
+  {
+    "name": "Friendship Park",
+    "amharic": "",
+    "aliases": [],
+    "category": "City park",
+    "subcity": "Arada",
+    "lat": 9.0240054,
+    "lng": 38.758673699999996
+  },
+  {
+    "name": "Arat Killo Monument",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.032890499999999,
+    "lng": 38.7633728
+  },
+  {
+    "name": "Golboo",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.003973,
+    "lng": 38.754587
+  },
+  {
+    "name": "Gazebo Roundabout | ጋዜቦ አደባባይ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "Kirkos",
+    "lat": 9.000375499999999,
+    "lng": 38.766814499999995
+  },
+  {
+    "name": "National Museum of Ethiopia",
+    "amharic": "",
+    "aliases": [],
+    "category": "Museum",
+    "subcity": "Arada",
+    "lat": 9.0382429,
+    "lng": 38.7617736
+  },
+  {
+    "name": "Hi Ethiopia Addis Ababa City Tours:Explore with Young Isaac, Your Expert Tour Guide",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "Yeka",
+    "lat": 9.0151741,
+    "lng": 38.78407
+  },
+  {
+    "name": "waryt square",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "Yeka",
+    "lat": 9.023406099999999,
+    "lng": 38.780771699999995
+  },
+  {
+    "name": "የዳግማዊ ምኒልክ ቤተ መንግስት ፓርክ | King Minelik II Palace Unity Park",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.024511799999999,
+    "lng": 38.7636253
+  },
+  {
+    "name": "Grand Mesob Tower",
+    "amharic": "",
+    "aliases": [],
+    "category": "Cultural center",
+    "subcity": "Lideta",
+    "lat": 9.019193999999999,
+    "lng": 38.752463999999996
+  },
+  {
+    "name": "Miyazya 27 Victory Statue",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "",
+    "lat": 9.032847199999999,
+    "lng": 38.7633371
+  },
+  {
+    "name": "GIDO cave",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 8.9820187,
+    "lng": 38.725610499999995
+  },
+  {
+    "name": "Gaza don",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 8.9833365,
+    "lng": 38.7470184
+  },
+  {
+    "name": "Holy Trinity Cathedral",
+    "amharic": "",
+    "aliases": [],
+    "category": "Orthodox church",
+    "subcity": "Kebena",
+    "lat": 9.030782499999999,
+    "lng": 38.7662529
+  },
+  {
+    "name": "KERA TRIPLE LEVEL SQUARE",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "",
+    "lat": 8.9846867,
+    "lng": 38.7504674
+  },
+  {
+    "name": "NEMERA HOUSE ነመራ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 8.9951119,
+    "lng": 38.7549458
+  },
+  {
+    "name": "Ethiopia Landmark",
+    "amharic": "",
+    "aliases": [],
+    "category": "",
+    "subcity": "",
+    "lat": 9.0229739,
+    "lng": 38.7617413
+  },
+  {
+    "name": "Lesgoski porcodioski è così che si fa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0103204,
+    "lng": 38.777893
+  },
+  {
+    "name": "Yekatit 12 Square Sidist Kilo",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "Gulele",
+    "lat": 9.0438872,
+    "lng": 38.7611956
+  },
+  {
+    "name": "ላገር አሮጌው ባቡር ጣቢያ | Le Gare Old Train station Heritage Building",
+    "amharic": "",
+    "aliases": [],
+    "category": "Heritage preservation",
+    "subcity": "",
+    "lat": 9.0094657,
+    "lng": 38.7533045
+  },
+  {
+    "name": "Dhooqa Booraa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.014776999999999,
+    "lng": 38.78762
+  },
+  {
+    "name": "Gojam berenda",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "Addis Ketema",
+    "lat": 9.0373953,
+    "lng": 38.7377957
+  },
+  {
+    "name": "Elfign Royal Residence",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.024955199999999,
+    "lng": 38.764058899999995
+  },
+  {
+    "name": "Yekatit 12 Monument ( የካቲት 12 መታሰብያ ሐውልት )",
+    "amharic": "",
+    "aliases": [],
+    "category": "Monument",
+    "subcity": "Gulele",
+    "lat": 9.043825199999999,
+    "lng": 38.761217099999996
+  },
+  {
+    "name": "70 Dereja",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "Arada",
+    "lat": 9.0405345,
+    "lng": 38.7569637
+  },
+  {
+    "name": "Addis spat",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0191936,
+    "lng": 38.7524635
+  },
+  {
+    "name": "ARBA DEREJA አርባ ደረጃ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "Arada",
+    "lat": 9.0388205,
+    "lng": 38.757624199999995
+  },
+  {
+    "name": "Giddugala Aadaa Oromoo | Oromia Cultural Center | ኦሮሚያ ባህል ማእከል",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "Kirkos",
+    "lat": 9.0108911,
+    "lng": 38.7575918
+  },
+  {
+    "name": "جبل انتوتو اديس ابابا",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "",
+    "lat": 8.9806034,
+    "lng": 38.757760499999996
+  },
+  {
+    "name": "Qarsaa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.014337,
+    "lng": 38.76692
+  },
+  {
+    "name": "Adwa Victory Center",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.033870499999999,
+    "lng": 38.7525183
+  },
+  {
+    "name": "የዳግማዊ ምኒልክ ግብር አዳራሽ | Menelik II's Banquet Hall (Gibir Adarash)",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "",
+    "lat": 9.024241199999999,
+    "lng": 38.7627275
+  },
+  {
+    "name": "Sulula Garbii",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.016582,
+    "lng": 38.748053
+  },
+  {
+    "name": "Sebastopol mortar monument",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "",
+    "lat": 9.0270692,
+    "lng": 38.7515891
+  },
+  {
+    "name": "Bora Amusement Park | Bole",
+    "amharic": "",
+    "aliases": [],
+    "category": "Amusement park",
+    "subcity": "Bole",
+    "lat": 8.9909277,
+    "lng": 38.7954631
+  },
+  {
+    "name": "Peace For Ethiopia",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 8.994278999999999,
+    "lng": 38.7747974
+  },
+  {
+    "name": "Adwa Victory Memorial | የአድዋ ድል መታሰቢያ |",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "",
+    "lat": 9.0329408,
+    "lng": 38.751297199999996
+  },
+  {
+    "name": "HI ETHIOPIA",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "Bole",
+    "lat": 9.010095999999999,
+    "lng": 38.7809271
+  },
+  {
+    "name": "Addis Ababa Ethiopia",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "",
+    "lat": 8.9960024,
+    "lng": 38.7786956
+  },
+  {
+    "name": "Water Fountain Show",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "",
+    "lat": 9.0246839,
+    "lng": 38.7596403
+  },
+  {
+    "name": "Ethio-China Peace Monument",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 8.9943118,
+    "lng": 38.7748145
+  },
+  {
+    "name": "Tuulamaa Kaabaa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0191936,
+    "lng": 38.7524635
+  },
+  {
+    "name": "Gullallee Badhaasoo",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 8.994748999999999,
+    "lng": 38.752525999999996
+  },
+  {
+    "name": "The Skyscraper Tower",
+    "amharic": "",
+    "aliases": [],
+    "category": "Cultural landmark",
+    "subcity": "",
+    "lat": 9.0171722,
+    "lng": 38.754245
+  },
+  {
+    "name": "Rama ራማ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 8.9854881,
+    "lng": 38.7655307
+  },
+  {
+    "name": "Arada Giyorgis Square",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "Arada",
+    "lat": 9.037511499999999,
+    "lng": 38.752254099999995
+  },
+  {
+    "name": "The \"Throne Hall\" or \"Throne House\"",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "",
+    "lat": 9.0247756,
+    "lng": 38.7631636
+  },
+  {
+    "name": "Addams",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0404428,
+    "lng": 38.728963799999995
+  },
+  {
+    "name": "Nejashi Mosque | Megenagna 24 | ነጃሺ መስጊድ | መገናኛ 24",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "Bole",
+    "lat": 9.011711499999999,
+    "lng": 38.800043699999996
+  },
+  {
+    "name": "Mega House",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0362986,
+    "lng": 38.7631207
+  },
+  {
+    "name": "Marki city tour in addis ababa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "Bole",
+    "lat": 8.9874923,
+    "lng": 38.7898232
+  },
+  {
+    "name": "4 kilo square | አራት ኪሎ አደባባይ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "Kebena",
+    "lat": 9.032874999999999,
+    "lng": 38.763376
+  },
+  {
+    "name": "Waddeessa waalee",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.02308,
+    "lng": 38.752078999999995
+  },
+  {
+    "name": "Bakkanniisa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 8.988343,
+    "lng": 38.731581999999996
+  },
+  {
+    "name": "Grand Anwar Mosque",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "Addis Ketema",
+    "lat": 9.0331821,
+    "lng": 38.7410639
+  },
+  {
+    "name": "Shola Market",
+    "amharic": "",
+    "aliases": [],
+    "category": "Market",
+    "subcity": "Yeka",
+    "lat": 9.0223515,
+    "lng": 38.794551899999995
+  },
+  {
+    "name": "American Gibi | አሜሪካን ጊቢ, aka FITAWRARI HABTEGIORGIS/Yemeni SCHOOL",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "Addis Ketema",
+    "lat": 9.0338286,
+    "lng": 38.742892999999995
+  },
+  {
+    "name": "Addis Ababa park",
+    "amharic": "",
+    "aliases": [],
+    "category": "Park",
+    "subcity": "Kirkos",
+    "lat": 9.0154684,
+    "lng": 38.763178499999995
+  },
+  {
+    "name": "Sheger Lake",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "",
+    "lat": 9.0245902,
+    "lng": 38.758281
+  },
+  {
+    "name": "የአርበኞች የድል ሀውልት",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0328762,
+    "lng": 38.7633782
+  },
+  {
+    "name": "Caffee Muudaa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.006347,
+    "lng": 38.731581999999996
+  },
+  {
+    "name": "Grove Garden Walk | Meskel Square | ግሮቭ መናፈሻ | መስቀል አደባባይ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Garden",
+    "subcity": "Kirkos",
+    "lat": 9.0121976,
+    "lng": 38.7615708
+  },
+  {
+    "name": "ግረሪ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "",
+    "lat": 9.0191936,
+    "lng": 38.7524635
+  },
+  {
+    "name": "Aderash Reception Hall",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.024217199999999,
+    "lng": 38.7630317
+  },
+  {
+    "name": "Baro korma",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 8.9806034,
+    "lng": 38.757760499999996
+  },
+  {
+    "name": "Addis Ababa City Tour And Travel Ethiopia",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tour operator",
+    "subcity": "Bole",
+    "lat": 8.9864711,
+    "lng": 38.7894565
+  },
+  {
+    "name": "Abware Birhan Roundabout",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "",
+    "lat": 9.0234011,
+    "lng": 38.7807351
+  },
+  {
+    "name": "Peace Avenue",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "",
+    "lat": 8.994532699999999,
+    "lng": 38.7748448
+  },
+  {
+    "name": "one Awach| jmbo plaza|አዋጭ ጃምቦ ፕላዛ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.027957899999999,
+    "lng": 38.7732799
+  },
+  {
+    "name": "Enat Ethiopia Tours",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tour agency",
+    "subcity": "Bole",
+    "lat": 9.001358,
+    "lng": 38.7841234
+  },
+  {
+    "name": "Morocco1",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "",
+    "lat": 9.0057954,
+    "lng": 38.7857734
+  },
+  {
+    "name": "Mexico Square",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "",
+    "lat": 9.0104053,
+    "lng": 38.7447533
+  },
+  {
+    "name": "Mirtamanet hall",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "",
+    "lat": 8.9806034,
+    "lng": 38.757760499999996
+  },
+  {
+    "name": "ኮርያ ሠፈር",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0390154,
+    "lng": 38.7734593
+  },
+  {
+    "name": "Adaw",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "",
+    "lat": 9.0191936,
+    "lng": 38.7524635
+  },
+  {
+    "name": "Habesha Wonder tour and Airport transfer",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tour operator",
+    "subcity": "Bole",
+    "lat": 8.9989124,
+    "lng": 38.7867343
+  },
+  {
+    "name": "የፈረሰው አበራ ሆቴል ጀርባ Outer Banks Neighbourhood |Ethiopian, Addis Ababa|",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "Kolfe Keranio",
+    "lat": 9.04805,
+    "lng": 38.714311699999996
+  },
+  {
+    "name": "Leoul Adebabay",
+    "amharic": "",
+    "aliases": [],
+    "category": "Historical landmark",
+    "subcity": "",
+    "lat": 9.0360427,
+    "lng": 38.7694816
+  },
+  {
+    "name": "Chichiniya Sefer",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tourist attraction",
+    "subcity": "",
+    "lat": 9.0121092,
+    "lng": 38.7814218
+  },
+  {
+    "name": "The Alchemist Dine & Wine Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 8.9919165,
+    "lng": 38.779167
+  },
+  {
+    "name": "Golden Plate Restaurant | Bole | ጎልደን ፕሌት ሬስቶራንት | ቦሌ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 8.9945234,
+    "lng": 38.790315199999995
+  },
+  {
+    "name": "Cravings Restaurant & Bar",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 8.9832185,
+    "lng": 38.7971949
+  },
+  {
+    "name": "Yod Abyssinia Traditional Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Ethiopian restaurant",
+    "subcity": "Bole",
+    "lat": 8.99114,
+    "lng": 38.793392499999996
+  },
+  {
+    "name": "Marcus Addis Restaurant & Sky Bar",
+    "amharic": "",
+    "aliases": [],
+    "category": "Fine dining restaurant",
+    "subcity": "Kirkos",
+    "lat": 9.016458199999999,
+    "lng": 38.7543669
+  },
+  {
+    "name": "Henom Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Fine dining restaurant",
+    "subcity": "Kirkos",
+    "lat": 9.0136728,
+    "lng": 38.768999099999995
+  },
+  {
+    "name": "ADD Restaurant | Ethiopian Skylight Hotel | ስካይላይት ሆቴል አድ ሬስቶራንት",
+    "amharic": "",
+    "aliases": [],
+    "category": "Western restaurant",
+    "subcity": "Bole",
+    "lat": 8.9882569,
+    "lng": 38.7897916
+  },
+  {
+    "name": "Dusk Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 8.9916771,
+    "lng": 38.7846736
+  },
+  {
+    "name": "Fafresh Cultural Kitchen - Dembel | ፋፍሬሽ ባህላዊ ሬስቶራንት - ደምበል",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Kirkos",
+    "lat": 9.0025727,
+    "lng": 38.768766299999996
+  },
+  {
+    "name": "The Exclusive Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 8.9944837,
+    "lng": 38.7852396
+  },
+  {
+    "name": "Verres en Vers",
+    "amharic": "",
+    "aliases": [],
+    "category": "French restaurant",
+    "subcity": "Kirkos",
+    "lat": 9.0162443,
+    "lng": 38.7677787
+  },
+  {
+    "name": "The Chill Spot Bar & Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Indian restaurant",
+    "subcity": "Bole",
+    "lat": 8.9993512,
+    "lng": 38.7854593
+  },
+  {
+    "name": "2000 Habesha cultural restaurant | Bole Atlas | 2000 ሀበሻ የባህል ሬስቶራንት | ቦሌ አትላስ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Ethiopian restaurant",
+    "subcity": "Bole",
+    "lat": 9.0013808,
+    "lng": 38.7815004
+  },
+  {
+    "name": "Ethio-Italy",
+    "amharic": "",
+    "aliases": [],
+    "category": "Family restaurant",
+    "subcity": "Bole",
+    "lat": 8.989677499999999,
+    "lng": 38.7828058
+  },
+  {
+    "name": "HOTTO",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 9.001814999999999,
+    "lng": 38.7795913
+  },
+  {
+    "name": "Dashen Terara Traditional Restaurant | ዳሽን ተራራ ባህላዊ ምግብ ቤት",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Yeka",
+    "lat": 9.0170444,
+    "lng": 38.786275599999996
+  },
+  {
+    "name": "Kategna Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Ethiopian restaurant",
+    "subcity": "Bole",
+    "lat": 8.9946488,
+    "lng": 38.7907665
+  },
+  {
+    "name": "Akotet Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Nefassilk Lafto",
+    "lat": 8.9924225,
+    "lng": 38.7295618
+  },
+  {
+    "name": "Radha's Indian Restaurant and Bar",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 8.9885523,
+    "lng": 38.7832078
+  },
+  {
+    "name": "Mesti Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Yeka",
+    "lat": 9.0192372,
+    "lng": 38.788840199999996
+  },
+  {
+    "name": "Chillies Addis",
+    "amharic": "",
+    "aliases": [],
+    "category": "Indian restaurant",
+    "subcity": "Bole",
+    "lat": 9.0043657,
+    "lng": 38.7888541
+  },
+  {
+    "name": "Te Amo Addis",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mexican restaurant",
+    "subcity": "Kirkos",
+    "lat": 9.013187499999999,
+    "lng": 38.7691875
+  },
+  {
+    "name": "Tamem Kitfo(Tradtional Restaurant) Gerji | ቴማም ክትፎ ገርጂ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 9.001195599999999,
+    "lng": 38.8024224
+  },
+  {
+    "name": "Fitsum Shiro bet - ፍፁም ሽሮ ቤት",
+    "amharic": "",
+    "aliases": [],
+    "category": "Vegan restaurant",
+    "subcity": "Bole",
+    "lat": 8.9995488,
+    "lng": 38.786219599999995
+  },
+  {
+    "name": "Mitmita",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 8.9922972,
+    "lng": 38.7883543
+  },
+  {
+    "name": "Belvedere Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Italian restaurant",
+    "subcity": "Bole",
+    "lat": 9.0057334,
+    "lng": 38.7937747
+  },
+  {
+    "name": "Hotspot Addis bar and restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Cocktail bar",
+    "subcity": "Kirkos",
+    "lat": 8.9980538,
+    "lng": 38.7704816
+  },
+  {
+    "name": "Ethiopian Ta'em Cultural Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Ethiopian restaurant",
+    "subcity": "Bole",
+    "lat": 8.9880391,
+    "lng": 38.7898096
+  },
+  {
+    "name": "Hebir Ethiopia Cultural Restaurant | Bole | ህብር ኢትዮጲያ ባህላዊ ሬስቶራንት | ቦሌ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 8.9912453,
+    "lng": 38.7841415
+  },
+  {
+    "name": "Entoto Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 8.9916518,
+    "lng": 38.781492199999995
+  },
+  {
+    "name": "La Nouvelle Cafe & Restaurant l ላ ኑቬል ካፌ እና ሬስቶራንት",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 8.992557,
+    "lng": 38.788494799999995
+  },
+  {
+    "name": "Dessalech Kitfo | Bole Millennium | ደሳለች ክትፎ | ቦሌ ሚሊየም",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 8.987478399999999,
+    "lng": 38.7885597
+  },
+  {
+    "name": "Beemnet kululu",
+    "amharic": "",
+    "aliases": [],
+    "category": "Buffet restaurant",
+    "subcity": "Bole",
+    "lat": 8.9992831,
+    "lng": 38.7892183
+  },
+  {
+    "name": "Labrina Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Family restaurant",
+    "subcity": "Bole",
+    "lat": 9.0013731,
+    "lng": 38.7799291
+  },
+  {
+    "name": "La Mandoline French Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "French restaurant",
+    "subcity": "Yeka",
+    "lat": 9.028414399999999,
+    "lng": 38.787269699999996
+  },
+  {
+    "name": "Flamingo Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Kirkos",
+    "lat": 9.0088011,
+    "lng": 38.7644162
+  },
+  {
+    "name": "ሮዲዮ ምግብ ቤት/ Rodeo Addis Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Kirkos",
+    "lat": 8.995974799999999,
+    "lng": 38.7737671
+  },
+  {
+    "name": "Kokoro Addis | Bole | ኮኮሮ ሬስቶራንት | ቦሌ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Japanese restaurant",
+    "subcity": "Bole",
+    "lat": 9.0001339,
+    "lng": 38.7829554
+  },
+  {
+    "name": "Mamma Mia Italian Restaurant & Bar",
+    "amharic": "",
+    "aliases": [],
+    "category": "Italian restaurant",
+    "subcity": "Lideta",
+    "lat": 9.003092299999999,
+    "lng": 38.740161199999996
+  },
+  {
+    "name": "Hailu Bar and Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 8.9982179,
+    "lng": 38.7853675
+  },
+  {
+    "name": "La Maison French Cuisine",
+    "amharic": "",
+    "aliases": [],
+    "category": "French restaurant",
+    "subcity": "Bole",
+    "lat": 9.0049495,
+    "lng": 38.7800326
+  },
+  {
+    "name": "Bait Al Mandi",
+    "amharic": "",
+    "aliases": [],
+    "category": "Yemeni restaurant",
+    "subcity": "Bole",
+    "lat": 9.0061447,
+    "lng": 38.7816438
+  },
+  {
+    "name": "Trattoria Gusto",
+    "amharic": "",
+    "aliases": [],
+    "category": "Italian restaurant",
+    "subcity": "Kirkos",
+    "lat": 9.0140962,
+    "lng": 38.769390099999995
+  },
+  {
+    "name": "Olympiacos restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Kirkos",
+    "lat": 9.0085157,
+    "lng": 38.7682615
+  },
+  {
+    "name": "Tian Tian Chinese Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 8.9998569,
+    "lng": 38.7853176
+  },
+  {
+    "name": "Andiamo Italian Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Nefassilk Lafto",
+    "lat": 8.9874455,
+    "lng": 38.7452111
+  },
+  {
+    "name": "Vraj Indian Bar & Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Indian restaurant",
+    "subcity": "Bole",
+    "lat": 8.982717899999999,
+    "lng": 38.7789861
+  },
+  {
+    "name": "OM Indian Bistro | Bole Rwanda",
+    "amharic": "",
+    "aliases": [],
+    "category": "Indian restaurant",
+    "subcity": "Bole",
+    "lat": 8.986557999999999,
+    "lng": 38.7810189
+  },
+  {
+    "name": "Totot Traditional Food Hall | Gerji | ቶቶት | ገርጂ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Ethiopian restaurant",
+    "subcity": "Bole",
+    "lat": 9.0072312,
+    "lng": 38.806217499999995
+  },
+  {
+    "name": "Bete Aurael",
+    "amharic": "",
+    "aliases": [],
+    "category": "Vegetarian restaurant",
+    "subcity": "Bole",
+    "lat": 8.9995429,
+    "lng": 38.7848235
+  },
+  {
+    "name": "Bethlehem Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 9.013171,
+    "lng": 38.7830097
+  },
+  {
+    "name": "Africana Bar And Restaurant | Hayahulet | አፍሪካና ባርና ሬስቱራንት | ሃያሁለት",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 9.0127165,
+    "lng": 38.7801895
+  },
+  {
+    "name": "Ladan Restaurant - Addis Ababa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Yeka",
+    "lat": 9.024576999999999,
+    "lng": 38.786281599999995
+  },
+  {
+    "name": "ARABIAN PALACE RESTAURANT مطعم القصر العربي",
+    "amharic": "",
+    "aliases": [],
+    "category": "Arab restaurant",
+    "subcity": "Kirkos",
+    "lat": 8.9949443,
+    "lng": 38.7739974
+  },
+  {
+    "name": "Antica Bar & Restaurant | Bole | አንቲካ ባርና ሬስቶራንት | ቦሌ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 8.9964667,
+    "lng": 38.779291
+  },
+  {
+    "name": "Velvet restaurant & Lounge",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 8.988469499999999,
+    "lng": 38.7919531
+  },
+  {
+    "name": "Entoto Road Side",
+    "amharic": "",
+    "aliases": [],
+    "category": "Pizza restaurant",
+    "subcity": "Bole",
+    "lat": 8.9914836,
+    "lng": 38.7815089
+  },
+  {
+    "name": "Korma Grill",
+    "amharic": "",
+    "aliases": [],
+    "category": "Grill",
+    "subcity": "Bole",
+    "lat": 9.0029746,
+    "lng": 38.779310599999995
+  },
+  {
+    "name": "Pepper And Spice Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Kirkos",
+    "lat": 9.010224299999999,
+    "lng": 38.765003199999995
+  },
+  {
+    "name": "EROS BY LEWI",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 9.0014366,
+    "lng": 38.7794368
+  },
+  {
+    "name": "Naija Kitchen - Addis Ababa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Kirkos",
+    "lat": 9.0028125,
+    "lng": 38.7424375
+  },
+  {
+    "name": "Zegeye Kurit, Bar and Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 8.987916199999999,
+    "lng": 38.787482499999996
+  },
+  {
+    "name": "Reem Restaurant | Hayahulet | ሪም ሬስቶራንት | ሃያሁለት",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 9.016544399999999,
+    "lng": 38.793834
+  },
+  {
+    "name": "እንሰት ባህላዊ ምግብ ቤት / Enset Cultural Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Kirkos",
+    "lat": 8.9901011,
+    "lng": 38.765902499999996
+  },
+  {
+    "name": "مطعم النخله/Nekhla Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Yemeni restaurant",
+    "subcity": "Kirkos",
+    "lat": 8.9919046,
+    "lng": 38.7720324
+  },
+  {
+    "name": "Top View Restaurant | ቶፕ ቪው ሬስቶራንት",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Yeka",
+    "lat": 9.0225894,
+    "lng": 38.803418
+  },
+  {
+    "name": "Checheho Cultural Restaurant and Hall",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 9.003262399999999,
+    "lng": 38.798217099999995
+  },
+  {
+    "name": "Sambusa-Ga",
+    "amharic": "",
+    "aliases": [],
+    "category": "Fast food restaurant",
+    "subcity": "Kirkos",
+    "lat": 8.9910557,
+    "lng": 38.7650992
+  },
+  {
+    "name": "Aladdin Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Armenian restaurant",
+    "subcity": "Nefassilk Lafto",
+    "lat": 8.9896995,
+    "lng": 38.7272506
+  },
+  {
+    "name": "Kaku Mame Restaurant | Lideta | ካኩ ማሜ ሬስቶራንት | ልደታ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Lideta",
+    "lat": 9.011669399999999,
+    "lng": 38.7358966
+  },
+  {
+    "name": "Arbaminch Asa Resturant - አርባ ምንጭ አሳ ቤት",
+    "amharic": "",
+    "aliases": [],
+    "category": "Seafood restaurant",
+    "subcity": "Kirkos",
+    "lat": 8.99283,
+    "lng": 38.752789199999995
+  },
+  {
+    "name": "TABLE 5 RESTAURANT",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Kirkos",
+    "lat": 9.012179399999999,
+    "lng": 38.7688223
+  },
+  {
+    "name": "Zipotle Mexican Restorant Addis Ababa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mexican restaurant",
+    "subcity": "Bole",
+    "lat": 8.9998258,
+    "lng": 38.788016999999996
+  },
+  {
+    "name": "Gize Bar & Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Kirkos",
+    "lat": 8.998567399999999,
+    "lng": 38.7683276
+  },
+  {
+    "name": "Zaika",
+    "amharic": "",
+    "aliases": [],
+    "category": "Indian restaurant",
+    "subcity": "Kirkos",
+    "lat": 8.9949824,
+    "lng": 38.7666901
+  },
+  {
+    "name": "Munchies",
+    "amharic": "",
+    "aliases": [],
+    "category": "Shawarma restaurant",
+    "subcity": "Bole",
+    "lat": 8.984416399999999,
+    "lng": 38.7785133
+  },
+  {
+    "name": "Awaze Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 9.0115447,
+    "lng": 38.7805658
+  },
+  {
+    "name": "Grand Kubi Turkish Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Turkish restaurant",
+    "subcity": "Bole",
+    "lat": 8.993766899999999,
+    "lng": 38.7908322
+  },
+  {
+    "name": "Makseyo Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 8.9980843,
+    "lng": 38.7850458
+  },
+  {
+    "name": "IPCOM TECHNOLOGIES",
+    "amharic": "",
+    "aliases": [],
+    "category": "Lounge",
+    "subcity": "Yeka",
+    "lat": 9.0165679,
+    "lng": 38.7843698
+  },
+  {
+    "name": "Jade restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Chinese restaurant",
+    "subcity": "Kirkos",
+    "lat": 9.0198994,
+    "lng": 38.7586241
+  },
+  {
+    "name": "Meaza Shiro/ መዓዛ ሽሮ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 8.9931974,
+    "lng": 38.7928071
+  },
+  {
+    "name": "Pain d'épice French Bakery & Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bakery",
+    "subcity": "Yeka",
+    "lat": 9.0279585,
+    "lng": 38.779275999999996
+  },
+  {
+    "name": "AMIRA CAFE&RESTAURANT",
+    "amharic": "",
+    "aliases": [],
+    "category": "Family restaurant",
+    "subcity": "Bole",
+    "lat": 8.985082499999999,
+    "lng": 38.773811099999996
+  },
+  {
+    "name": "Ayat Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 9.008847,
+    "lng": 38.7808241
+  },
+  {
+    "name": "AG Café & Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Kirkos",
+    "lat": 9.0141742,
+    "lng": 38.7520308
+  },
+  {
+    "name": "Min yetebes Bar & Restaurant | Bole | ምን ይጠበስ ባርና ሬስቱራንት | ቦሌ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 8.9865941,
+    "lng": 38.7844936
+  },
+  {
+    "name": "Roha Bar & Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 9.000241899999999,
+    "lng": 38.782623199999996
+  },
+  {
+    "name": "Kista Addis",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Kirkos",
+    "lat": 8.992310699999999,
+    "lng": 38.7739992
+  },
+  {
+    "name": "Ashu Restaurant | 22 | አሹ ስጋ ቤት | 22 |",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 9.009184099999999,
+    "lng": 38.783810599999995
+  },
+  {
+    "name": "Lime Tree Restaurant | Kazanchis | ላይም ትሪ ምግብ ቤት | ካዛንቺስ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Kirkos",
+    "lat": 9.0139363,
+    "lng": 38.7696255
+  },
+  {
+    "name": "Sudanese food (سودانيس رستورانت)",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 9.0088036,
+    "lng": 38.790276899999995
+  },
+  {
+    "name": "Yohemiya Cultural Kitfo ዮህምያ ክትፎ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 9.0110584,
+    "lng": 38.7806432
+  },
+  {
+    "name": "Tena Adam Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 8.985756,
+    "lng": 38.7879061
+  },
+  {
+    "name": "TinyTalian",
+    "amharic": "",
+    "aliases": [],
+    "category": "Italian restaurant",
+    "subcity": "Bole",
+    "lat": 8.9868942,
+    "lng": 38.7893604
+  },
+  {
+    "name": "Addis Ababa Restaurant | Piassa |",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Arada",
+    "lat": 9.0408971,
+    "lng": 38.7526601
+  },
+  {
+    "name": "Meskott Culinary Experience",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Arada",
+    "lat": 9.0354516,
+    "lng": 38.7626815
+  },
+  {
+    "name": "Village Cafe",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mexican torta restaurant",
+    "subcity": "Kirkos",
+    "lat": 9.0123085,
+    "lng": 38.7626072
+  },
+  {
+    "name": "Ruby'z Cafe' and Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Kirkos",
+    "lat": 9.007831099999999,
+    "lng": 38.7642887
+  },
+  {
+    "name": "SAQ Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 9.004921,
+    "lng": 38.794527099999996
+  },
+  {
+    "name": "Allebnany Restaurant",
+    "amharic": "",
+    "aliases": [],
+    "category": "Lebanese restaurant",
+    "subcity": "Bole",
+    "lat": 9.0111943,
+    "lng": 38.7978835
+  },
+  {
+    "name": "Berlin Bar & Restaurant | Atlas | በርሊን ባርና ሬስቶራንት | አትላስ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Restaurant",
+    "subcity": "Bole",
+    "lat": 9.0032561,
+    "lng": 38.7809172
+  },
+  {
+    "name": "Hilton Addis Ababa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Kirkos",
+    "lat": 9.0186873,
+    "lng": 38.764673699999996
+  },
+  {
+    "name": "Hilton Addis Ababa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Kirkos",
+    "lat": 9.0186873,
+    "lng": 38.764673699999996
+  },
+  {
+    "name": "Nega Bonger Hotel",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Akaki Kality",
+    "lat": 8.9521137,
+    "lng": 38.7612257
+  },
+  {
+    "name": "ሸራተን አዲስ ሆቴል",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Kirkos",
+    "lat": 9.0203037,
+    "lng": 38.7600027
+  },
+  {
+    "name": "Hyatt Regency Addis Ababa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Kirkos",
+    "lat": 9.0103594,
+    "lng": 38.7640905
+  },
+  {
+    "name": "Bole Ambassador Hotel, Addis Ababa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 8.991963199999999,
+    "lng": 38.7881843
+  },
+  {
+    "name": "Ethiopian Skylight Hotel",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 8.9876749,
+    "lng": 38.7904067
+  },
+  {
+    "name": "Radisson Blu Hotel, Addis Ababa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Kirkos",
+    "lat": 9.0162624,
+    "lng": 38.767803099999995
+  },
+  {
+    "name": "Ghion Hotel | Stadium",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Av",
+    "lat": 9.0136909,
+    "lng": 38.7602404
+  },
+  {
+    "name": "Harmony Hotel",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 8.9960152,
+    "lng": 38.786060299999995
+  },
+  {
+    "name": "Best Western Plus Addis Ababa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 8.9967956,
+    "lng": 38.7861435
+  },
+  {
+    "name": "The Grand Palace Hotel",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Kirkos",
+    "lat": 9.011794,
+    "lng": 38.7690011
+  },
+  {
+    "name": "Hayes Hotel Addis Ababa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "",
+    "lat": 9.0175603,
+    "lng": 38.7814784
+  },
+  {
+    "name": "Monarch Parkview Hotel",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Arada",
+    "lat": 9.0268038,
+    "lng": 38.7541588
+  },
+  {
+    "name": "Inter Luxury Hotel",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Kirkos",
+    "lat": 9.015415899999999,
+    "lng": 38.7697827
+  },
+  {
+    "name": "HomeTown Addis Hotel",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 9.002777799999999,
+    "lng": 38.7795432
+  },
+  {
+    "name": "Miracle Hotel Addis Ababa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Kirkos",
+    "lat": 8.9904838,
+    "lng": 38.768270799999996
+  },
+  {
+    "name": "Best Western Premier Dynasty",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Kirkos",
+    "lat": 8.9879667,
+    "lng": 38.771028199999996
+  },
+  {
+    "name": "Marriott Executive Apartments Addis Ababa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Kirkos",
+    "lat": 9.010410199999999,
+    "lng": 38.7651362
+  },
+  {
+    "name": "Haile Grand Addis Ababa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Yeka",
+    "lat": 9.024161399999999,
+    "lng": 38.8176658
+  },
+  {
+    "name": "Capital Hotel and Spa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 9.0132703,
+    "lng": 38.7799274
+  },
+  {
+    "name": "Ramada Addis Hotel",
+    "amharic": "",
+    "aliases": [],
+    "category": "Hotel",
+    "subcity": "Bole",
+    "lat": 8.9919265,
+    "lng": 38.783014699999995
+  },
+  {
+    "name": "New creation international church Ethiopia",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "Kirkos",
+    "lat": 9.0024178,
+    "lng": 38.760871
+  },
+  {
+    "name": "Holy Saviour Catholic Church, Addis Ababa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Catholic church",
+    "subcity": "",
+    "lat": 9.0133546,
+    "lng": 38.7525532
+  },
+  {
+    "name": "Gibi St. Gebriel Church",
+    "amharic": "",
+    "aliases": [],
+    "category": "Orthodox church",
+    "subcity": "Arada",
+    "lat": 9.0234814,
+    "lng": 38.7667211
+  },
+  {
+    "name": "Yehiwot Berhan Church of Ethiopia Head Office",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "Kebena",
+    "lat": 9.0192981,
+    "lng": 38.7720553
+  },
+  {
+    "name": "Bole Medhanialem Church",
+    "amharic": "",
+    "aliases": [],
+    "category": "Orthodox church",
+    "subcity": "Bole",
+    "lat": 8.9958672,
+    "lng": 38.7899086
+  },
+  {
+    "name": "Emmanuel Baptist Church - Addis Ababa, Ethiopia",
+    "amharic": "",
+    "aliases": [],
+    "category": "Baptist church",
+    "subcity": "Kebena",
+    "lat": 9.0179814,
+    "lng": 38.772532999999996
+  },
+  {
+    "name": "St. Urael Church",
+    "amharic": "",
+    "aliases": [],
+    "category": "Orthodox church",
+    "subcity": "Bole",
+    "lat": 9.0105098,
+    "lng": 38.7756568
+  },
+  {
+    "name": "Addis Ababa Emmanuel United Church | አዲስ አበባ አማኑኤል ኅብረት ቤተ ክርስቲያን",
+    "amharic": "",
+    "aliases": [],
+    "category": "Christian church",
+    "subcity": "Kirkos",
+    "lat": 9.0076657,
+    "lng": 38.7459237
+  },
+  {
+    "name": "International Evangelical Church",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "Lideta",
+    "lat": 8.9974246,
+    "lng": 38.738589499999996
+  },
+  {
+    "name": "Bisrate Gebreal Orthodox Church",
+    "amharic": "",
+    "aliases": [],
+    "category": "Orthodox church",
+    "subcity": "Nefassilk Lafto",
+    "lat": 8.9910625,
+    "lng": 38.7267031
+  },
+  {
+    "name": "Addis Ridge Church",
+    "amharic": "",
+    "aliases": [],
+    "category": "Protestant church",
+    "subcity": "Bole",
+    "lat": 8.9958922,
+    "lng": 38.7876117
+  },
+  {
+    "name": "St. Estifanos Church | ቅዱስ እስጢፋኖስ ቤተክርስቲያን",
+    "amharic": "",
+    "aliases": [],
+    "category": "Orthodox church",
+    "subcity": "",
+    "lat": 9.0121519,
+    "lng": 38.7635674
+  },
+  {
+    "name": "Christ Army International Church Addis Ababa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "Nefassilk Lafto",
+    "lat": 8.960191799999999,
+    "lng": 38.758549599999995
+  },
+  {
+    "name": "Church of the Nativity of St. Mary - Lideta Mariam",
+    "amharic": "",
+    "aliases": [],
+    "category": "Orthodox church",
+    "subcity": "Lideta",
+    "lat": 9.010526,
+    "lng": 38.736947099999995
+  },
+  {
+    "name": "Kirkos church",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "Kirkos",
+    "lat": 9.0045972,
+    "lng": 38.7534615
+  },
+  {
+    "name": "Everlasting Christ Revelation Church",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "",
+    "lat": 8.9945273,
+    "lng": 38.7767366
+  },
+  {
+    "name": "Bole St. Michael Church",
+    "amharic": "",
+    "aliases": [],
+    "category": "Orthodox church",
+    "subcity": "Bole",
+    "lat": 8.9805323,
+    "lng": 38.7711117
+  },
+  {
+    "name": "Seventh Day Adventist Church - Main Church Filwoha",
+    "amharic": "",
+    "aliases": [],
+    "category": "Seventh-day Adventist church",
+    "subcity": "",
+    "lat": 9.016362299999999,
+    "lng": 38.755715699999996
+  },
+  {
+    "name": "Addis Christian Life Assembly (ACLA)",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "",
+    "lat": 9.019497399999999,
+    "lng": 38.7720102
+  },
+  {
+    "name": "Debre Yebabe St. Yared Church",
+    "amharic": "",
+    "aliases": [],
+    "category": "Orthodox church",
+    "subcity": "Kirkos",
+    "lat": 8.9864426,
+    "lng": 38.7622589
+  },
+  {
+    "name": "St. Raguel Church | Merkato | ቅዱስ ራጉኤል ቤተክርስቲያን | መርካቶ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Orthodox church",
+    "subcity": "Addis Ketema",
+    "lat": 9.032264399999999,
+    "lng": 38.7399035
+  },
+  {
+    "name": "Zetseat Apostolic Reformation Church | Sarbet | ዘጸአት ቸርች | ሳር ቤት",
+    "amharic": "",
+    "aliases": [],
+    "category": "Christian church",
+    "subcity": "Kirkos",
+    "lat": 8.990420799999999,
+    "lng": 38.7426275
+  },
+  {
+    "name": "Grace Life Community Church የፀጋ ህይወት ማህበረሰብ ቤተ ክርስቲያን",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "Bole",
+    "lat": 9.0005033,
+    "lng": 38.784869799999996
+  },
+  {
+    "name": "Dunamis International Gospel Centre Addis Ababa., Ethiopia",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "Kirkos",
+    "lat": 8.9894468,
+    "lng": 38.743332699999996
+  },
+  {
+    "name": "Ethiopian Kale Heywet Church Head Office",
+    "amharic": "",
+    "aliases": [],
+    "category": "Evangelical church",
+    "subcity": "Kirkos",
+    "lat": 9.0038542,
+    "lng": 38.7431013
+  },
+  {
+    "name": "Kazanchis Urael Mekane Eyesus Church",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "Kebena",
+    "lat": 9.0187457,
+    "lng": 38.7715781
+  },
+  {
+    "name": "St. George Church",
+    "amharic": "",
+    "aliases": [],
+    "category": "Orthodox church",
+    "subcity": "Arada",
+    "lat": 9.036760899999999,
+    "lng": 38.751325
+  },
+  {
+    "name": "Halwot Emmanuel united Church",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "",
+    "lat": 8.9820917,
+    "lng": 38.7660695
+  },
+  {
+    "name": "Meserete Kirstos Church HQ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Christian church",
+    "subcity": "",
+    "lat": 9.004738999999999,
+    "lng": 38.772271599999996
+  },
+  {
+    "name": "ጽርሐ ጽዮን ሐዋርያትና ጎላ ቅዱስ ሚካኤል ቤተ ክርስቲያን | Tsriha Tsion Hawaryat ena Gola St' Michael Church",
+    "amharic": "",
+    "aliases": [],
+    "category": "Orthodox church",
+    "subcity": "",
+    "lat": 9.0252839,
+    "lng": 38.7492437
+  },
+  {
+    "name": "Redeemer International Congregation",
+    "amharic": "",
+    "aliases": [],
+    "category": "Evangelical church",
+    "subcity": "Yeka",
+    "lat": 9.0204375,
+    "lng": 38.7734375
+  },
+  {
+    "name": "Anointed Word of God Church Head Office",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "",
+    "lat": 8.9985678,
+    "lng": 38.7700251
+  },
+  {
+    "name": "Yougo church",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "Bole",
+    "lat": 8.9926143,
+    "lng": 38.7917862
+  },
+  {
+    "name": "ቤተ ሳይዳ የመጻሕፍት እና የንዋያተ ቅዱሳት መሸጫ መደብር Bete Saida Shop for Ethiopian Orthodox Christian consecrated items for worship",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "Yeka",
+    "lat": 9.0149133,
+    "lng": 38.7826331
+  },
+  {
+    "name": "United Gospel Believes Church Addis Ababa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Christian church",
+    "subcity": "",
+    "lat": 8.9902107,
+    "lng": 38.75797
+  },
+  {
+    "name": "Ethiopian Evangelical Church Bole Mekane Yesus",
+    "amharic": "",
+    "aliases": [],
+    "category": "Evangelical church",
+    "subcity": "",
+    "lat": 8.9995069,
+    "lng": 38.7799477
+  },
+  {
+    "name": "Meserete Kristos Church (MKC), Debub Addis Ababa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "Kirkos",
+    "lat": 9.0002111,
+    "lng": 38.7636803
+  },
+  {
+    "name": "Ta'eka Negest Bata LeMariam Church | ታዕካ ነገሥት በዓታ ለማርያም ቤተክርስቲያን",
+    "amharic": "",
+    "aliases": [],
+    "category": "Orthodox church",
+    "subcity": "",
+    "lat": 9.0251641,
+    "lng": 38.7650801
+  },
+  {
+    "name": "Glorious Life Church Excellence Dome",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "Bole",
+    "lat": 9.0140517,
+    "lng": 38.7962701
+  },
+  {
+    "name": "Unique 7000 Church",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "Kirkos",
+    "lat": 9.0043972,
+    "lng": 38.7713398
+  },
+  {
+    "name": "Bole Full Gospel Believers' Church",
+    "amharic": "",
+    "aliases": [],
+    "category": "Protestant church",
+    "subcity": "",
+    "lat": 8.990349499999999,
+    "lng": 38.7792759
+  },
+  {
+    "name": "Rhema Faith Ministries A.A Church Ethiopia",
+    "amharic": "",
+    "aliases": [],
+    "category": "Place of worship",
+    "subcity": "Kirkos",
+    "lat": 9.0067699,
+    "lng": 38.7482693
+  },
+  {
+    "name": "Beata Church | በዓታ ቤተ ክርስቲያን",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "",
+    "lat": 9.0247873,
+    "lng": 38.7654484
+  },
+  {
+    "name": "Trinity Fellowship Addis Ababa Church (TFAAC)",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "Nefassilk Lafto",
+    "lat": 8.9916278,
+    "lng": 38.7388592
+  },
+  {
+    "name": "Evangelical Churches Fellowship of Ethiopia",
+    "amharic": "",
+    "aliases": [],
+    "category": "Religious organization",
+    "subcity": "Nefassilk Lafto",
+    "lat": 8.9884003,
+    "lng": 38.7412262
+  },
+  {
+    "name": "Gulele Genet Church",
+    "amharic": "",
+    "aliases": [],
+    "category": "Pentecostal church",
+    "subcity": "100m",
+    "lat": 9.0191936,
+    "lng": 38.7524635
+  },
+  {
+    "name": "Aware Full Gospel Believer’s Church",
+    "amharic": "",
+    "aliases": [],
+    "category": "Pentecostal church",
+    "subcity": "",
+    "lat": 9.0173375,
+    "lng": 38.7746719
+  },
+  {
+    "name": "Addis Ababa Emmanuel United Church, Under Construction",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "",
+    "lat": 8.99784,
+    "lng": 38.749840999999996
+  },
+  {
+    "name": "ጎፋ መካነ ህያዋን ቅዱስ ገብርኤል ቤተክርስቲያን Gofa Gebriel Church",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "",
+    "lat": 8.9764312,
+    "lng": 38.7528529
+  },
+  {
+    "name": "St Matthew's Anglican Church",
+    "amharic": "",
+    "aliases": [],
+    "category": "Anglican church",
+    "subcity": "Kebena",
+    "lat": 9.033272199999999,
+    "lng": 38.7687604
+  },
+  {
+    "name": "Bole medhanialem",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "Bole",
+    "lat": 8.993977,
+    "lng": 38.7906202
+  },
+  {
+    "name": "St. Gabriel Catholic Church Addis Ababa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Catholic church",
+    "subcity": "",
+    "lat": 9.046078099999999,
+    "lng": 38.7435282
+  },
+  {
+    "name": "የአዲስ ኪዳን ካህናት ቤተክርስቲያን | New Testament Priests Church",
+    "amharic": "",
+    "aliases": [],
+    "category": "Protestant church",
+    "subcity": "",
+    "lat": 8.9969027,
+    "lng": 38.8054182
+  },
+  {
+    "name": "ወሎ ሰፈር ቅድስት ማርያም እና ቅዱስ ገብርኤል ቤተክርስቲያን",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "",
+    "lat": 8.9884708,
+    "lng": 38.773779499999996
+  },
+  {
+    "name": "ደብረ አሚን አቡነ ተክለሃይማኖት ቤተክርስቲያን መርካቶ | Debre Amin Abune Tekle Himanot Church | Merkato",
+    "amharic": "",
+    "aliases": [],
+    "category": "Orthodox church",
+    "subcity": "",
+    "lat": 9.027282999999999,
+    "lng": 38.7432607
+  },
+  {
+    "name": "Sarbetoch Full Gospel Believers Church",
+    "amharic": "",
+    "aliases": [],
+    "category": "Pentecostal church",
+    "subcity": "",
+    "lat": 8.9922182,
+    "lng": 38.7431592
+  },
+  {
+    "name": "Mekane Yesus Head Quarter",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "",
+    "lat": 9.0101471,
+    "lng": 38.7689344
+  },
+  {
+    "name": "Lideta Mekane Yesus Church | ልደታ መካነ ኢየሱስ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Evangelical church",
+    "subcity": "",
+    "lat": 9.0157507,
+    "lng": 38.7420392
+  },
+  {
+    "name": "St's Rufael Church | ቅዱስ ሩፋኤል ቤተክርስትያን",
+    "amharic": "",
+    "aliases": [],
+    "category": "Orthodox church",
+    "subcity": "Gulele",
+    "lat": 9.0579211,
+    "lng": 38.7276197
+  },
+  {
+    "name": "Ethiopian Guenet Church National Office",
+    "amharic": "",
+    "aliases": [],
+    "category": "Pentecostal church",
+    "subcity": "",
+    "lat": 8.9936007,
+    "lng": 38.7463866
+  },
+  {
+    "name": "Holy Spirit Church መሪ አጥቢያ (Prophet Tamirat Demsis)",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "",
+    "lat": 9.0191936,
+    "lng": 38.7524635
+  },
+  {
+    "name": "የካ ደብረ ሣህል ቅዱስ ሚካኤል ቤተክርስቲያን | Saint Micheal Church",
+    "amharic": "",
+    "aliases": [],
+    "category": "Orthodox church",
+    "subcity": "",
+    "lat": 9.0264439,
+    "lng": 38.7988923
+  },
+  {
+    "name": "St.Yared Square",
+    "amharic": "",
+    "aliases": [],
+    "category": "Foursquare church",
+    "subcity": "",
+    "lat": 8.9877582,
+    "lng": 38.7647555
+  },
+  {
+    "name": "Addis Ababa Evangelical Church Mekane Yesus",
+    "amharic": "",
+    "aliases": [],
+    "category": "Evangelical church",
+    "subcity": "",
+    "lat": 9.0398712,
+    "lng": 38.7608335
+  },
+  {
+    "name": "The Ethiopian Evangelical Church Mekane yesus, Kirkos Congregation",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "",
+    "lat": 8.9955354,
+    "lng": 38.757219899999996
+  },
+  {
+    "name": "Ethiopian Full Gospel Believers Church | Head Office | የኢትዮጵያ ሙሉ ወንጌል አማኞች ቤተ ክርስቲያን | ዋና ጽ/ቤት",
+    "amharic": "",
+    "aliases": [],
+    "category": "Protestant church",
+    "subcity": "Yeka",
+    "lat": 9.0220834,
+    "lng": 38.7767638
+  },
+  {
+    "name": "Beza International Church | Gerji | ቤዛ ኢንተርናሽናል ቤ/ክርስቲያን | ገርጂ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Protestant church",
+    "subcity": "Bole",
+    "lat": 9.0094219,
+    "lng": 38.8054656
+  },
+  {
+    "name": "Sarbet Kalehiwot Church",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "",
+    "lat": 8.9885295,
+    "lng": 38.7409902
+  },
+  {
+    "name": "City Life Church-Lancha",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "",
+    "lat": 8.990418199999999,
+    "lng": 38.758003099999996
+  },
+  {
+    "name": "Epaphras Christ Church",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "",
+    "lat": 8.996148999999999,
+    "lng": 38.7405312
+  },
+  {
+    "name": "The Church of Jesus Christ of Latter-day Saints",
+    "amharic": "",
+    "aliases": [],
+    "category": "Christian church",
+    "subcity": "Kirkos",
+    "lat": 8.9950194,
+    "lng": 38.75645
+  },
+  {
+    "name": "Norwegian Church Aid Ethiopia/የኖርዌይ ቤተክርስቲያን የእርዳታ ድርጅት",
+    "amharic": "",
+    "aliases": [],
+    "category": "Non-profit organization",
+    "subcity": "Kirkos",
+    "lat": 8.991044,
+    "lng": 38.7729285
+  },
+  {
+    "name": "St Yared Ethiopian orthodox church",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "",
+    "lat": 9.0191936,
+    "lng": 38.7524635
+  },
+  {
+    "name": "Geja Kale Hiwot Church ጌጃ ቃለ ሕይወት ቤተክርስቲያን",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "Lideta",
+    "lat": 9.0218213,
+    "lng": 38.7379138
+  },
+  {
+    "name": "Dukem",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "",
+    "lat": 9.0192107,
+    "lng": 38.752473699999996
+  },
+  {
+    "name": "Gibi Gebriel Orthodox Church Addis Ababa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "",
+    "lat": 8.9960024,
+    "lng": 38.7786956
+  },
+  {
+    "name": "African Union Area",
+    "amharic": "",
+    "aliases": [],
+    "category": "Catholic church",
+    "subcity": "",
+    "lat": 8.999673399999999,
+    "lng": 38.7467859
+  },
+  {
+    "name": "ደብረ መዊዕ ቅዱስ ሚካኤል ቤተ ክርስቲያን(አዲሱ ሚካኤል) | Debre Mewi'e St. Michael Church (Addisu Michael)",
+    "amharic": "",
+    "aliases": [],
+    "category": "Orthodox church",
+    "subcity": "",
+    "lat": 9.0413756,
+    "lng": 38.7331127
+  },
+  {
+    "name": "ደብረ ገሊላ ቅዱስ አማኑኤል ቤተክርስቲያን | Saint Amanuel Church",
+    "amharic": "",
+    "aliases": [],
+    "category": "Orthodox church",
+    "subcity": "",
+    "lat": 9.028096999999999,
+    "lng": 38.7226424
+  },
+  {
+    "name": "Bible Army International Church - Kazanchis chapel",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "Kebena",
+    "lat": 9.0129799,
+    "lng": 38.772227799999996
+  },
+  {
+    "name": "United Pentecostal Church of Ethiopia, Addis Ababa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "",
+    "lat": 9.021519699999999,
+    "lng": 38.7931192
+  },
+  {
+    "name": "Tsega Kale Hiwot Church",
+    "amharic": "",
+    "aliases": [],
+    "category": "Protestant church",
+    "subcity": "",
+    "lat": 8.987381,
+    "lng": 38.756536
+  },
+  {
+    "name": "GOTERA FULL GOSPEL BELIEVERS CHURCH የጎተራ ሙሉ ወንጌል አማኞች ቤተ ክርስቲያን",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "Kirkos",
+    "lat": 8.9854292,
+    "lng": 38.758899899999996
+  },
+  {
+    "name": "Telko letwld church (ተልዕኮ ለትውልድ ቤተክርስቲያን)",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "",
+    "lat": 8.996971499999999,
+    "lng": 38.7493081
+  },
+  {
+    "name": "Washa Mikael Rock Hewn Church",
+    "amharic": "",
+    "aliases": [],
+    "category": "Orthodox church",
+    "subcity": "Yeka",
+    "lat": 9.0427179,
+    "lng": 38.8068531
+  },
+  {
+    "name": "Gerji St. Mariam Church | ገርጂ ቅድስት ማርያም ቤተክርስቲያን",
+    "amharic": "",
+    "aliases": [],
+    "category": "Orthodox church",
+    "subcity": "Bole",
+    "lat": 8.9991202,
+    "lng": 38.801943099999995
+  },
+  {
+    "name": "ECRC Church",
+    "amharic": "",
+    "aliases": [],
+    "category": "Place of worship",
+    "subcity": "",
+    "lat": 9.0191936,
+    "lng": 38.7524635
+  },
+  {
+    "name": "Ethiopian Evangelical Lutheran Church",
+    "amharic": "",
+    "aliases": [],
+    "category": "Lutheran church",
+    "subcity": "",
+    "lat": 9.0439897,
+    "lng": 38.7448312
+  },
+  {
+    "name": "Full Pentecostal Church Ethiopia",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "",
+    "lat": 8.9966782,
+    "lng": 38.786351599999996
+  },
+  {
+    "name": "St Mary coptiac Orthodox church",
+    "amharic": "",
+    "aliases": [],
+    "category": "Orthodox church",
+    "subcity": "",
+    "lat": 9.0372553,
+    "lng": 38.762240399999996
+  },
+  {
+    "name": "Misrak Meseret Kiristos Church (MKC)",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "Bole",
+    "lat": 8.9980339,
+    "lng": 38.799403
+  },
+  {
+    "name": "Debre Amin Abune Teklehaimanot Church | ደብረ አሚን አቡነ ተክለሃይማኖት ቤተክርስቲያን",
+    "amharic": "",
+    "aliases": [],
+    "category": "Orthodox church",
+    "subcity": "",
+    "lat": 8.9806034,
+    "lng": 38.757760499999996
+  },
+  {
+    "name": "Hayahulet Full Gospel Believers | ሃያሁለት ሙሉወንጌል አማኞች ቤተክርስቲያን",
+    "amharic": "",
+    "aliases": [],
+    "category": "Pentecostal church",
+    "subcity": "",
+    "lat": 9.0140095,
+    "lng": 38.788921099999996
+  },
+  {
+    "name": "Lideta Muluwengel Local Church",
+    "amharic": "",
+    "aliases": [],
+    "category": "Evangelical church",
+    "subcity": "",
+    "lat": 9.0149192,
+    "lng": 38.7427219
+  },
+  {
+    "name": "Ethiopia Orthodox church square",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "",
+    "lat": 9.0092625,
+    "lng": 38.7611406
+  },
+  {
+    "name": "Bete Mihret Church",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "Kirkos",
+    "lat": 8.9896651,
+    "lng": 38.7473465
+  },
+  {
+    "name": "St. Yohannes (Wolde Negodguad) Church | ቅዱስ ዮሐንስ ወልደ ነጎድጓድ ቤተክርስቲያን",
+    "amharic": "",
+    "aliases": [],
+    "category": "Orthodox church",
+    "subcity": "Arada",
+    "lat": 9.0421183,
+    "lng": 38.745585899999995
+  },
+  {
+    "name": "Addis Kidan Baptist Church",
+    "amharic": "",
+    "aliases": [],
+    "category": "Protestant church",
+    "subcity": "",
+    "lat": 8.9969027,
+    "lng": 38.8054182
+  },
+  {
+    "name": "Addis Ababa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "",
+    "lat": 9.0191936,
+    "lng": 38.7524635
+  },
+  {
+    "name": "Gofa St. KidaneMehret Church",
+    "amharic": "",
+    "aliases": [],
+    "category": "Orthodox church",
+    "subcity": "Nefassilk Lafto",
+    "lat": 8.982068199999999,
+    "lng": 38.743820899999996
+  },
+  {
+    "name": "Kebena Misrake Tsehay Medhanialem Orthodox Church ቀበና ምስራቀ ፀሐይ መድኃኒዓለም ኦርቶዶክስ ቤተ ክርስቲያን",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "Kebena",
+    "lat": 9.0314607,
+    "lng": 38.7765288
+  },
+  {
+    "name": "City of Refuge Church",
+    "amharic": "",
+    "aliases": [],
+    "category": "Protestant church",
+    "subcity": "",
+    "lat": 8.9925862,
+    "lng": 38.7917706
+  },
+  {
+    "name": "Heaven Embassy International Church",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "",
+    "lat": 9.0174364,
+    "lng": 38.792323499999995
+  },
+  {
+    "name": "DanChurchAid Ethiopia",
+    "amharic": "",
+    "aliases": [],
+    "category": "Non-profit organization",
+    "subcity": "",
+    "lat": 8.9909565,
+    "lng": 38.7729772
+  },
+  {
+    "name": "St. Joseph Church | saris | ቅዱስ ዮሴፍ ቤተ ክርስቲያን | ሳሪስ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Eastern Orthodox Church",
+    "subcity": "Nefassilk Lafto",
+    "lat": 8.9697698,
+    "lng": 38.7674394
+  },
+  {
+    "name": "Riche",
+    "amharic": "",
+    "aliases": [],
+    "category": "Church",
+    "subcity": "",
+    "lat": 9.0024178,
+    "lng": 38.760871
+  },
+  {
+    "name": "Saint Joseph School | Meskel Square | ቅዱስ ዮሴፍ ት/ቤት | መስቀል አደባባይ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Combined primary and secondary school",
+    "subcity": "",
+    "lat": 9.009725999999999,
+    "lng": 38.759887
+  },
+  {
+    "name": "Assai Public School",
+    "amharic": "",
+    "aliases": [],
+    "category": "General education school",
+    "subcity": "Kirkos",
+    "lat": 9.0020686,
+    "lng": 38.7686523
+  },
+  {
+    "name": "Lycée Guébré-Mariam",
+    "amharic": "",
+    "aliases": [],
+    "category": "Educational institution",
+    "subcity": "Arada",
+    "lat": 9.0240692,
+    "lng": 38.752380599999995
+  },
+  {
+    "name": "New Grand School",
+    "amharic": "",
+    "aliases": [],
+    "category": "Educational institution",
+    "subcity": "Kirkos",
+    "lat": 9.0006425,
+    "lng": 38.7613199
+  },
+  {
+    "name": "Chabod School",
+    "amharic": "",
+    "aliases": [],
+    "category": "Educational institution",
+    "subcity": "Kirkos",
+    "lat": 8.9945387,
+    "lng": 38.7521264
+  },
+  {
+    "name": "Indian International School",
+    "amharic": "",
+    "aliases": [],
+    "category": "International school",
+    "subcity": "Kebena",
+    "lat": 9.0127229,
+    "lng": 38.7723691
+  },
+  {
+    "name": "School of Nations | Sarbet | ስኩል ኦፍ ኔሽን | ሳርቤት",
+    "amharic": "",
+    "aliases": [],
+    "category": "International school",
+    "subcity": "Nefassilk Lafto",
+    "lat": 8.9903968,
+    "lng": 38.7404977
+  },
+  {
+    "name": "Flipper International School | Beklobet | ፊሊፐር ኢንተርናሽናል ት/ቤት | በቅሎ ቤት",
+    "amharic": "",
+    "aliases": [],
+    "category": "International school",
+    "subcity": "Kirkos",
+    "lat": 8.9902343,
+    "lng": 38.761155599999995
+  },
+  {
+    "name": "KIS, Addis Ababa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Combined primary and secondary school",
+    "subcity": "Yeka",
+    "lat": 9.0200678,
+    "lng": 38.7734488
+  },
+  {
+    "name": "Greek Community School",
+    "amharic": "",
+    "aliases": [],
+    "category": "International school",
+    "subcity": "Kirkos",
+    "lat": 9.0073613,
+    "lng": 38.7688695
+  },
+  {
+    "name": "International Maarif Schools of Ethiopia- Addis Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "International school",
+    "subcity": "Kirkos",
+    "lat": 8.9953331,
+    "lng": 38.7437636
+  },
+  {
+    "name": "Intellectual School",
+    "amharic": "",
+    "aliases": [],
+    "category": "International school",
+    "subcity": "",
+    "lat": 8.9953331,
+    "lng": 38.7437636
+  },
+  {
+    "name": "International Community School of Addis Ababa | Karl Square | ኢንተርናሽናል ኮምዩኒቲ ት/ቤት | ካርል አደባባይ",
+    "amharic": "",
+    "aliases": [],
+    "category": "International school",
+    "subcity": "Nefassilk Lafto",
+    "lat": 8.996601199999999,
+    "lng": 38.727579399999996
+  },
+  {
+    "name": "Dandii Boru School | Wollo sefer | ዳንዲ ቦሩ ትምህርት ቤት | ወሎ ሰፈር",
+    "amharic": "",
+    "aliases": [],
+    "category": "Private educational institution",
+    "subcity": "",
+    "lat": 8.9931819,
+    "lng": 38.772181599999996
+  },
+  {
+    "name": "Golden Roots International School",
+    "amharic": "",
+    "aliases": [],
+    "category": "Kindergarten",
+    "subcity": "Kirkos",
+    "lat": 8.9894372,
+    "lng": 38.7561622
+  },
+  {
+    "name": "IMS Makeup School And Studio",
+    "amharic": "",
+    "aliases": [],
+    "category": "Educational institution",
+    "subcity": "Kirkos",
+    "lat": 9.0050863,
+    "lng": 38.7668901
+  },
+  {
+    "name": "Engida Graphics Institute እንግዳ ግራፊክስ ዲዛይን ተቋም",
+    "amharic": "",
+    "aliases": [],
+    "category": "Education center",
+    "subcity": "Kirkos",
+    "lat": 9.0079124,
+    "lng": 38.7466717
+  },
+  {
+    "name": "Swedish Community School Kazanchis",
+    "amharic": "",
+    "aliases": [],
+    "category": "General education school",
+    "subcity": "Yeka",
+    "lat": 9.020065599999999,
+    "lng": 38.7734354
+  },
+  {
+    "name": "Felege Yordanos Elementary School",
+    "amharic": "",
+    "aliases": [],
+    "category": "Elementary school",
+    "subcity": "Kirkos",
+    "lat": 9.0035826,
+    "lng": 38.753676999999996
+  },
+  {
+    "name": "Blue Bird School",
+    "amharic": "",
+    "aliases": [],
+    "category": "Educational institution",
+    "subcity": "Kirkos",
+    "lat": 8.9962579,
+    "lng": 38.749200699999996
+  },
+  {
+    "name": "Black Lion Secondary School",
+    "amharic": "",
+    "aliases": [],
+    "category": "High school",
+    "subcity": "Arada",
+    "lat": 9.0225115,
+    "lng": 38.7523116
+  },
+  {
+    "name": "Little Einsteins Addis International School",
+    "amharic": "",
+    "aliases": [],
+    "category": "Preschool",
+    "subcity": "Bole",
+    "lat": 8.9927016,
+    "lng": 38.7944508
+  },
+  {
+    "name": "Bole Senior Secondary School",
+    "amharic": "",
+    "aliases": [],
+    "category": "Senior high school",
+    "subcity": "Bole",
+    "lat": 8.9987996,
+    "lng": 38.787665
+  },
+  {
+    "name": "Liza School",
+    "amharic": "",
+    "aliases": [],
+    "category": "Kindergarten",
+    "subcity": "Lideta",
+    "lat": 9.0001369,
+    "lng": 38.738062899999996
+  },
+  {
+    "name": "Hidase Lideta Secondary & Preparatory School",
+    "amharic": "",
+    "aliases": [],
+    "category": "High school",
+    "subcity": "",
+    "lat": 9.0169959,
+    "lng": 38.745713099999996
+  },
+  {
+    "name": "Brass Youth Acadamy",
+    "amharic": "",
+    "aliases": [],
+    "category": "Educational institution",
+    "subcity": "Kirkos",
+    "lat": 9.0207251,
+    "lng": 38.7659113
+  },
+  {
+    "name": "School of Tomorrow | Bole Michael | እስኩል ኦፍ ቱሞሮ | ቦሌ ሚካኤል",
+    "amharic": "",
+    "aliases": [],
+    "category": "General education school",
+    "subcity": "Bole",
+    "lat": 8.9849021,
+    "lng": 38.7820509
+  },
+  {
+    "name": "Flipper International School - Beklobet Primary And Middle School",
+    "amharic": "",
+    "aliases": [],
+    "category": "General education school",
+    "subcity": "",
+    "lat": 8.991128699999999,
+    "lng": 38.7606999
+  },
+  {
+    "name": "Shemelis Habte School Mexico",
+    "amharic": "",
+    "aliases": [],
+    "category": "High school",
+    "subcity": "",
+    "lat": 9.0027173,
+    "lng": 38.7490965
+  },
+  {
+    "name": "Magic Carpet Schools",
+    "amharic": "",
+    "aliases": [],
+    "category": "School center",
+    "subcity": "Yeka",
+    "lat": 9.023207099999999,
+    "lng": 38.7904394
+  },
+  {
+    "name": "Sunny side educational institute",
+    "amharic": "",
+    "aliases": [],
+    "category": "High school",
+    "subcity": "Kirkos",
+    "lat": 8.991677,
+    "lng": 38.7443532
+  },
+  {
+    "name": "Adey Abeba Elementary and High School",
+    "amharic": "",
+    "aliases": [],
+    "category": "High school",
+    "subcity": "",
+    "lat": 8.9888915,
+    "lng": 38.7618477
+  },
+  {
+    "name": "Temenja Yaj School | ጠመንጃ ያዥ ት/ ቤት",
+    "amharic": "",
+    "aliases": [],
+    "category": "Elementary school",
+    "subcity": "Kirkos",
+    "lat": 8.9990834,
+    "lng": 38.7617233
+  },
+  {
+    "name": "Cruise School",
+    "amharic": "",
+    "aliases": [],
+    "category": "Educational institution",
+    "subcity": "Nefassilk Lafto",
+    "lat": 8.991831,
+    "lng": 38.728839099999995
+  },
+  {
+    "name": "Evergreen International Early Years School - Bole Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Montessori school",
+    "subcity": "Bole",
+    "lat": 8.9883066,
+    "lng": 38.784964599999995
+  },
+  {
+    "name": "Meserete Ethiopia Elementary School",
+    "amharic": "",
+    "aliases": [],
+    "category": "General education school",
+    "subcity": "Kirkos",
+    "lat": 8.9930548,
+    "lng": 38.7427121
+  },
+  {
+    "name": "British International School",
+    "amharic": "",
+    "aliases": [],
+    "category": "International school",
+    "subcity": "Bole",
+    "lat": 8.991714199999999,
+    "lng": 38.7942434
+  },
+  {
+    "name": "Misrak Goh Secondary School",
+    "amharic": "",
+    "aliases": [],
+    "category": "Secondary school",
+    "subcity": "Kebena",
+    "lat": 9.0168255,
+    "lng": 38.7729061
+  },
+  {
+    "name": "St Markos School - ቅዱስ ማርቆስ ትምህርት ቤት",
+    "amharic": "",
+    "aliases": [],
+    "category": "General education school",
+    "subcity": "",
+    "lat": 9.0063389,
+    "lng": 38.7825578
+  },
+  {
+    "name": "DBSAA German School | Aware | ጀርመን ት/ቤት | አዋሬ",
+    "amharic": "",
+    "aliases": [],
+    "category": "International school",
+    "subcity": "Yeka",
+    "lat": 9.0277541,
+    "lng": 38.779651199999996
+  },
+  {
+    "name": "Abyot Kirs Preparatory & High School",
+    "amharic": "",
+    "aliases": [],
+    "category": "Preparatory school",
+    "subcity": "Kirkos",
+    "lat": 8.9872534,
+    "lng": 38.7551871
+  },
+  {
+    "name": "open interior design school",
+    "amharic": "",
+    "aliases": [],
+    "category": "Art school",
+    "subcity": "Kirkos",
+    "lat": 8.9941595,
+    "lng": 38.7737811
+  },
+  {
+    "name": "ተግባረእድ ፖሊ ቴክኒክ ኮሌጅ | Tegbared Polytechnic College",
+    "amharic": "",
+    "aliases": [],
+    "category": "Technical school",
+    "subcity": "Lideta",
+    "lat": 9.0110386,
+    "lng": 38.743507199999996
+  },
+  {
+    "name": "NiHao Habesha Language School",
+    "amharic": "",
+    "aliases": [],
+    "category": "Chinese language school",
+    "subcity": "Lideta",
+    "lat": 9.013851599999999,
+    "lng": 38.747502399999995
+  },
+  {
+    "name": "VIP English Language and Computer School +TOEFL/IELTS",
+    "amharic": "",
+    "aliases": [],
+    "category": "Language school",
+    "subcity": "Bole",
+    "lat": 9.0088439,
+    "lng": 38.788385999999996
+  },
+  {
+    "name": "Birhan Guzo Primery School",
+    "amharic": "",
+    "aliases": [],
+    "category": "Primary school",
+    "subcity": "",
+    "lat": 9.0190246,
+    "lng": 38.7785364
+  },
+  {
+    "name": "Reach international center of education",
+    "amharic": "",
+    "aliases": [],
+    "category": "International school",
+    "subcity": "Kirkos",
+    "lat": 8.9853132,
+    "lng": 38.7645605
+  },
+  {
+    "name": "Little ExplorersET",
+    "amharic": "",
+    "aliases": [],
+    "category": "Kindergarten",
+    "subcity": "Yeka11",
+    "lat": 9.0166969,
+    "lng": 38.784459
+  },
+  {
+    "name": "Hidase Secondary School ሕዳሴ ሁለተኛ ደረጃ ት/ቤት",
+    "amharic": "",
+    "aliases": [],
+    "category": "Secondary school",
+    "subcity": "",
+    "lat": 9.017273099999999,
+    "lng": 38.746032799999995
+  },
+  {
+    "name": "ABIYOT IRMIJA PRIMARY SCHOOL",
+    "amharic": "",
+    "aliases": [],
+    "category": "Primary school",
+    "subcity": "",
+    "lat": 9.0051046,
+    "lng": 38.7714224
+  },
+  {
+    "name": "Afrofigure Modeling school",
+    "amharic": "",
+    "aliases": [],
+    "category": "International school",
+    "subcity": "",
+    "lat": 8.9953863,
+    "lng": 38.7437676
+  },
+  {
+    "name": "Haddis Alemayehu Secondary School | Hayahulet Chichinya | ሀዲስ አለማየሁ ት/ቤት | ሃያሁለት ቺቺኒያ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Secondary school",
+    "subcity": "",
+    "lat": 9.0088347,
+    "lng": 38.780222099999996
+  },
+  {
+    "name": "Bole Medhanialem Secondary school",
+    "amharic": "",
+    "aliases": [],
+    "category": "Secondary school",
+    "subcity": "Bole",
+    "lat": 8.998346999999999,
+    "lng": 38.7880691
+  },
+  {
+    "name": "International Maarif Schools Of Ethiopia-Sarbet Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Kindergarten",
+    "subcity": "",
+    "lat": 8.996065399999999,
+    "lng": 38.7364739
+  },
+  {
+    "name": "Bole Community High School",
+    "amharic": "",
+    "aliases": [],
+    "category": "High school",
+    "subcity": "",
+    "lat": 8.9982297,
+    "lng": 38.7890222
+  },
+  {
+    "name": "Global Cooking And Catering School",
+    "amharic": "",
+    "aliases": [],
+    "category": "Cooking school",
+    "subcity": "Kirkos",
+    "lat": 8.9998819,
+    "lng": 38.759576599999995
+  },
+  {
+    "name": "KeaMed Medical College",
+    "amharic": "",
+    "aliases": [],
+    "category": "Medical school",
+    "subcity": "Bole",
+    "lat": 9.0147149,
+    "lng": 38.7864485
+  },
+  {
+    "name": "Sycamore Waldorf Nursery",
+    "amharic": "",
+    "aliases": [],
+    "category": "Nursery school",
+    "subcity": "Kirkos",
+    "lat": 8.9991489,
+    "lng": 38.7732793
+  },
+  {
+    "name": "Sandford International School Kebena",
+    "amharic": "",
+    "aliases": [],
+    "category": "General education school",
+    "subcity": "Kebena",
+    "lat": 9.0364153,
+    "lng": 38.7724651
+  },
+  {
+    "name": "Blossom Early Years School | Mekanisa | ብሎሰም አርሊ ይርስ ትቤት | መካኒሳ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Preschool",
+    "subcity": "Nefassilk Lafto",
+    "lat": 8.984627699999999,
+    "lng": 38.7349374
+  },
+  {
+    "name": "School of Tomorrow | Megenagna 24 | እስኩል ኦፍ ቱሞሮ | መገናኛ 24",
+    "amharic": "",
+    "aliases": [],
+    "category": "Educational institution",
+    "subcity": "",
+    "lat": 9.010724399999999,
+    "lng": 38.7906899
+  },
+  {
+    "name": "debre selam kechene medhanialem secondary school",
+    "amharic": "",
+    "aliases": [],
+    "category": "High school",
+    "subcity": "Lideta",
+    "lat": 9.0191936,
+    "lng": 38.7524635
+  },
+  {
+    "name": "Asfaw Wosen School",
+    "amharic": "",
+    "aliases": [],
+    "category": "Educational institution",
+    "subcity": "",
+    "lat": 9.0155394,
+    "lng": 38.780512
+  },
+  {
+    "name": "Abune Basilos Primary School",
+    "amharic": "",
+    "aliases": [],
+    "category": "Primary school",
+    "subcity": "",
+    "lat": 8.9914741,
+    "lng": 38.783221999999995
+  },
+  {
+    "name": "Ayer Amba Secondary School | Bole Michael | አየር አምባ ሁለተኛ ደረጃ ትምህርት ቤት | ቦሌ ሚካኤል",
+    "amharic": "",
+    "aliases": [],
+    "category": "High school",
+    "subcity": "",
+    "lat": 8.9850303,
+    "lng": 38.7761972
+  },
+  {
+    "name": "Maya International School",
+    "amharic": "",
+    "aliases": [],
+    "category": "International school",
+    "subcity": "Bole",
+    "lat": 9.0013125,
+    "lng": 38.8029375
+  },
+  {
+    "name": "Jiva School",
+    "amharic": "",
+    "aliases": [],
+    "category": "Educational institution",
+    "subcity": "",
+    "lat": 9.041373499999999,
+    "lng": 38.7522345
+  },
+  {
+    "name": "Meseret Ethiopia Primary School (kirkos Woreda 5)",
+    "amharic": "",
+    "aliases": [],
+    "category": "Primary school",
+    "subcity": "",
+    "lat": 8.9926135,
+    "lng": 38.742279499999995
+  },
+  {
+    "name": "Prestigious Youth Acadamey",
+    "amharic": "",
+    "aliases": [],
+    "category": "Elementary school",
+    "subcity": "",
+    "lat": 8.9899684,
+    "lng": 38.7779506
+  },
+  {
+    "name": "Maria Rubatto Catholic School",
+    "amharic": "",
+    "aliases": [],
+    "category": "Catholic school",
+    "subcity": "",
+    "lat": 9.0111404,
+    "lng": 38.784577
+  },
+  {
+    "name": "Newgrand School",
+    "amharic": "",
+    "aliases": [],
+    "category": "Educational institution",
+    "subcity": "Kirkos",
+    "lat": 9.000899,
+    "lng": 38.7522192
+  },
+  {
+    "name": "TradeEthiopia School of Business and Innovation",
+    "amharic": "",
+    "aliases": [],
+    "category": "Business school",
+    "subcity": "Bole",
+    "lat": 9.000661,
+    "lng": 38.783179499999996
+  },
+  {
+    "name": "School",
+    "amharic": "",
+    "aliases": [],
+    "category": "Educational institution",
+    "subcity": "",
+    "lat": 8.9903757,
+    "lng": 38.7780334
+  },
+  {
+    "name": "Primary School",
+    "amharic": "",
+    "aliases": [],
+    "category": "Primary school",
+    "subcity": "",
+    "lat": 9.0092258,
+    "lng": 38.7842943
+  },
+  {
+    "name": "Abyot Kirs Secondary School",
+    "amharic": "",
+    "aliases": [],
+    "category": "High school",
+    "subcity": "Kirkos",
+    "lat": 8.988155899999999,
+    "lng": 38.7562334
+  },
+  {
+    "name": "Abadir School | Mekanisa | አባድር ት/ቤት | መካኒሳ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Private educational institution",
+    "subcity": "",
+    "lat": 8.985465,
+    "lng": 38.7389577
+  },
+  {
+    "name": "St. Mark international school",
+    "amharic": "",
+    "aliases": [],
+    "category": "Elementary school",
+    "subcity": "",
+    "lat": 9.0098839,
+    "lng": 38.7897755
+  },
+  {
+    "name": "http://Misrak Dil Primary School.sims.addis learning.edu.et",
+    "amharic": "",
+    "aliases": [],
+    "category": "Elementary school",
+    "subcity": "",
+    "lat": 9.0139426,
+    "lng": 38.7836223
+  },
+  {
+    "name": "Biherawi School",
+    "amharic": "",
+    "aliases": [],
+    "category": "General education school",
+    "subcity": "",
+    "lat": 9.0073017,
+    "lng": 38.760750099999996
+  },
+  {
+    "name": "The Holy Trinity Cathedral Secondary & Preparatory School",
+    "amharic": "",
+    "aliases": [],
+    "category": "High school",
+    "subcity": "",
+    "lat": 9.031938199999999,
+    "lng": 38.7673293
+  },
+  {
+    "name": "Abrehot High school",
+    "amharic": "",
+    "aliases": [],
+    "category": "High school",
+    "subcity": "Yeka",
+    "lat": 9.020647199999999,
+    "lng": 38.785374
+  },
+  {
+    "name": "Amana Model Secondary School",
+    "amharic": "",
+    "aliases": [],
+    "category": "Secondary school",
+    "subcity": "Kirkos",
+    "lat": 8.9944151,
+    "lng": 38.7571613
+  },
+  {
+    "name": "Ethio-Parents' School Gerji Campus | ኢትዮ-ፓረንትስ ት/ቤት ገርጂ",
+    "amharic": "",
+    "aliases": [],
+    "category": "School center",
+    "subcity": "",
+    "lat": 9.0024468,
+    "lng": 38.806339799999996
+  },
+  {
+    "name": "Elbethel School",
+    "amharic": "",
+    "aliases": [],
+    "category": "General education school",
+    "subcity": "Kirkos",
+    "lat": 8.995543399999999,
+    "lng": 38.7506631
+  },
+  {
+    "name": "Addis Ababa University School Of Commerce Capital Market Project Office",
+    "amharic": "",
+    "aliases": [],
+    "category": "University",
+    "subcity": "Lideta",
+    "lat": 9.0139832,
+    "lng": 38.749412299999996
+  },
+  {
+    "name": "Lideta Catholic Cathedral School | Piassa | ልደታ ካቶሊክ ካቴድራል ት፨ቤት | ፒያሳ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Combined primary and secondary school",
+    "subcity": "Arada",
+    "lat": 9.0312121,
+    "lng": 38.749230399999995
+  },
+  {
+    "name": "Addis Ababa Tegbareid Polytechnic College",
+    "amharic": "",
+    "aliases": [],
+    "category": "Government college",
+    "subcity": "Lideta",
+    "lat": 9.0107489,
+    "lng": 38.7440938
+  },
+  {
+    "name": "College of Health Sciences, AAU",
+    "amharic": "",
+    "aliases": [],
+    "category": "University",
+    "subcity": "",
+    "lat": 9.0193525,
+    "lng": 38.7500691
+  },
+  {
+    "name": "Waliya school",
+    "amharic": "",
+    "aliases": [],
+    "category": "Elementary school",
+    "subcity": "",
+    "lat": 9.0016613,
+    "lng": 38.7516489
+  },
+  {
+    "name": "Bisrate Gebriel International School",
+    "amharic": "",
+    "aliases": [],
+    "category": "Combined primary and secondary school",
+    "subcity": "Nefassilk Lafto",
+    "lat": 8.9922851,
+    "lng": 38.727522
+  },
+  {
+    "name": "Enat ethiopia school",
+    "amharic": "",
+    "aliases": [],
+    "category": "Educational institution",
+    "subcity": "",
+    "lat": 9.0248855,
+    "lng": 38.735252599999995
+  },
+  {
+    "name": "Cruise school YZ campus",
+    "amharic": "",
+    "aliases": [],
+    "category": "Educational institution",
+    "subcity": "",
+    "lat": 8.998704499999999,
+    "lng": 38.7191204
+  },
+  {
+    "name": "Kidus Markos School",
+    "amharic": "",
+    "aliases": [],
+    "category": "General education school",
+    "subcity": "",
+    "lat": 9.0097418,
+    "lng": 38.789865299999995
+  },
+  {
+    "name": "Sippara makeup school",
+    "amharic": "",
+    "aliases": [],
+    "category": "Beauty school",
+    "subcity": "Bole",
+    "lat": 9.0001503,
+    "lng": 38.7878699
+  },
+  {
+    "name": "Mandela Distance Education Academy",
+    "amharic": "",
+    "aliases": [],
+    "category": "Distance learning center",
+    "subcity": "Kirkos",
+    "lat": 8.992732799999999,
+    "lng": 38.7574567
+  },
+  {
+    "name": "Glory School",
+    "amharic": "",
+    "aliases": [],
+    "category": "K-12 school",
+    "subcity": "Yeka",
+    "lat": 9.0183708,
+    "lng": 38.795966
+  },
+  {
+    "name": "Hamle 1 Primary School",
+    "amharic": "",
+    "aliases": [],
+    "category": "Primary school",
+    "subcity": "",
+    "lat": 8.9976691,
+    "lng": 38.769982299999995
+  },
+  {
+    "name": "Black Lion Hospital, AAU, School of Medicine",
+    "amharic": "",
+    "aliases": [],
+    "category": "University",
+    "subcity": "",
+    "lat": 9.0200763,
+    "lng": 38.750247099999996
+  },
+  {
+    "name": "Primary School",
+    "amharic": "",
+    "aliases": [],
+    "category": "Primary school",
+    "subcity": "",
+    "lat": 8.9969261,
+    "lng": 38.7627496
+  },
+  {
+    "name": "March Primary School",
+    "amharic": "",
+    "aliases": [],
+    "category": "General education school",
+    "subcity": "Bole",
+    "lat": 8.992593399999999,
+    "lng": 38.7808059
+  },
+  {
+    "name": "Menelik Secondary School | 4 kilo | ምኒልክ 2ኛ ደረጃ ት/ቤት | 4 ኪሎ",
+    "amharic": "",
+    "aliases": [],
+    "category": "High school",
+    "subcity": "Kebena",
+    "lat": 9.035106299999999,
+    "lng": 38.7635025
+  },
+  {
+    "name": "C.R.I.S.P. (Centre for Research & Industrial Staff Performance) Ethiopia Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Computer training school",
+    "subcity": "Bole",
+    "lat": 8.9913812,
+    "lng": 38.7824585
+  },
+  {
+    "name": "Yegne Bet Montessori Preschool",
+    "amharic": "",
+    "aliases": [],
+    "category": "Kindergarten",
+    "subcity": "",
+    "lat": 9.0186262,
+    "lng": 38.7879049
+  },
+  {
+    "name": "Intellectual Schools | Sarbet KG Branch | ኢንተሌክቿል ት/ ቤት | ሳር ቤት",
+    "amharic": "",
+    "aliases": [],
+    "category": "General education school",
+    "subcity": "Lideta",
+    "lat": 8.996093199999999,
+    "lng": 38.7361973
+  },
+  {
+    "name": "Reach International Centre of Education - Agona Campus",
+    "amharic": "",
+    "aliases": [],
+    "category": "General education school",
+    "subcity": "",
+    "lat": 8.988463099999999,
+    "lng": 38.757931899999996
+  },
+  {
+    "name": "Rehoboth Drivers' Training Center",
+    "amharic": "",
+    "aliases": [],
+    "category": "Driving school",
+    "subcity": "Kirkos",
+    "lat": 8.9888053,
+    "lng": 38.7487954
+  },
+  {
+    "name": "Byogenic Beauty Spot Training Center",
+    "amharic": "",
+    "aliases": [],
+    "category": "Beauty school",
+    "subcity": "Kirkos",
+    "lat": 8.990463199999999,
+    "lng": 38.761359899999995
+  },
+  {
+    "name": "Addis Global Academy | Bole Homes | አዲስ ግሎባል አካዳሚ | ቦሌ ሆምስ",
+    "amharic": "",
+    "aliases": [],
+    "category": "K-12 school",
+    "subcity": "Bole",
+    "lat": 8.9860628,
+    "lng": 38.7982742
+  },
+  {
+    "name": "Character Hallmark Acadamy",
+    "amharic": "",
+    "aliases": [],
+    "category": "Educational institution",
+    "subcity": "",
+    "lat": 8.9849886,
+    "lng": 38.7733616
+  },
+  {
+    "name": "English Bekelalu Language School",
+    "amharic": "",
+    "aliases": [],
+    "category": "Language school",
+    "subcity": "Nefassilk Lafto",
+    "lat": 8.9933143,
+    "lng": 38.7281736
+  },
+  {
+    "name": "Flipper International School - Meskel Flower",
+    "amharic": "",
+    "aliases": [],
+    "category": "Educational institution",
+    "subcity": "Kirkos",
+    "lat": 8.984409699999999,
+    "lng": 38.7627812
+  },
+  {
+    "name": "Eidget Behibret primary School",
+    "amharic": "",
+    "aliases": [],
+    "category": "Elementary school",
+    "subcity": "",
+    "lat": 9.013195999999999,
+    "lng": 38.751706299999995
+  },
+  {
+    "name": "Allé School of Fine Arts & Design",
+    "amharic": "",
+    "aliases": [],
+    "category": "University",
+    "subcity": "Kebena",
+    "lat": 9.036591999999999,
+    "lng": 38.7658841
+  },
+  {
+    "name": "Be International Driving School",
+    "amharic": "",
+    "aliases": [],
+    "category": "Driving school",
+    "subcity": "",
+    "lat": 9.0103431,
+    "lng": 38.7747832
+  },
+  {
+    "name": "Tinbite Ermias Primary School",
+    "amharic": "",
+    "aliases": [],
+    "category": "Primary school",
+    "subcity": "",
+    "lat": 9.0191936,
+    "lng": 38.7524635
+  },
+  {
+    "name": "Bingham Academy",
+    "amharic": "",
+    "aliases": [],
+    "category": "Educational institution",
+    "subcity": "Kolfe Keranio",
+    "lat": 9.0412748,
+    "lng": 38.716850199999996
+  },
+  {
+    "name": "AZK Berhan Driving License School Bole Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Driving school",
+    "subcity": "Arada",
+    "lat": 9.0023448,
+    "lng": 38.788424299999996
+  },
+  {
+    "name": "Evangelical Theological College",
+    "amharic": "",
+    "aliases": [],
+    "category": "Educational institution",
+    "subcity": "",
+    "lat": 8.9973793,
+    "lng": 38.7385468
+  },
+  {
+    "name": "ሌባዊ አለም ,አቀፍ ትምህርት ቤት | Lebawi International Academy",
+    "amharic": "",
+    "aliases": [],
+    "category": "International school",
+    "subcity": "Kolfe Keranio",
+    "lat": 9.0134192,
+    "lng": 38.7184224
+  },
+  {
+    "name": "ፍልዉሃ ተውፊቅ መስጂድ filwuha Tewfik mesjid",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "",
+    "lat": 9.0199892,
+    "lng": 38.7571136
+  },
+  {
+    "name": "Ayisha Mosque",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "Kirkos",
+    "lat": 8.9928999,
+    "lng": 38.768285999999996
+  },
+  {
+    "name": "Kera Selam mesjid mosque",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "Kirkos",
+    "lat": 8.9880721,
+    "lng": 38.7494985
+  },
+  {
+    "name": "Jafar Mosque",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "Bole",
+    "lat": 8.9786698,
+    "lng": 38.775892899999995
+  },
+  {
+    "name": "Tebarek mosque",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "",
+    "lat": 9.009073299999999,
+    "lng": 38.7483984
+  },
+  {
+    "name": "Wele Mohammed Mosque",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "",
+    "lat": 9.0240672,
+    "lng": 38.7698235
+  },
+  {
+    "name": "Sumaya Mosque | Shola | ሱመያ መስጂድ | ሾላ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "Yeka",
+    "lat": 9.022089,
+    "lng": 38.791289
+  },
+  {
+    "name": "Wollo Sefer Mosque | ወሎ ሰፈር መስጊድ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "",
+    "lat": 8.9924868,
+    "lng": 38.775632699999996
+  },
+  {
+    "name": "Qera salam mesjid (ቄራ ሰላም መስጅድ)",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "",
+    "lat": 8.9878998,
+    "lng": 38.7491796
+  },
+  {
+    "name": "Alif mesjid",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "",
+    "lat": 9.0089022,
+    "lng": 38.7744131
+  },
+  {
+    "name": "ECA Mosque ኢሲኤ መስጂድ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "",
+    "lat": 9.013108599999999,
+    "lng": 38.7652152
+  },
+  {
+    "name": "54 Al Feth Masjid",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "",
+    "lat": 8.9744978,
+    "lng": 38.761612299999996
+  },
+  {
+    "name": "Adama",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "",
+    "lat": 9.0191125,
+    "lng": 38.7494531
+  },
+  {
+    "name": "Sultan Alimerah Mosque (مسجد )",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "",
+    "lat": 9.020894,
+    "lng": 38.7782534
+  },
+  {
+    "name": "Abadir Mosque | Mekanisa | አባድር መስጊድ | መካኒሳ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "",
+    "lat": 8.9855039,
+    "lng": 38.738046
+  },
+  {
+    "name": "Emam muzemil Mosque ኢማም ሙዘሚል መስጂድ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "",
+    "lat": 9.0173834,
+    "lng": 38.7413764
+  },
+  {
+    "name": "ተዉባህ መስጂድ | Masjid At Tewbah |مسجد التوبة",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "",
+    "lat": 9.0159836,
+    "lng": 38.7728689
+  },
+  {
+    "name": "Addis Ababa Ethiopia",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "",
+    "lat": 9.0332093,
+    "lng": 38.741081699999995
+  },
+  {
+    "name": "Mosque around",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "",
+    "lat": 9.0027492,
+    "lng": 38.7593544
+  },
+  {
+    "name": "Alif masjid",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "",
+    "lat": 8.9881045,
+    "lng": 38.7293235
+  },
+  {
+    "name": "Huda Mosque | ሁዳ መስጊድ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "Nefassilk Lafto",
+    "lat": 8.9749001,
+    "lng": 38.731993599999996
+  },
+  {
+    "name": "ነጃሺ መስጂድ Nejashi Mosque مسجد النجاشي",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "",
+    "lat": 8.9968895,
+    "lng": 38.7467713
+  },
+  {
+    "name": "Nur(Beni) Masjid ኑር መስጅዶ ፒያሳ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "",
+    "lat": 9.0323241,
+    "lng": 38.7484286
+  },
+  {
+    "name": "Al aqsa Mosque مسجد Afinchober | አል አቅሳ መስጊድ አፍንጮ በር",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "",
+    "lat": 9.0457071,
+    "lng": 38.755061399999995
+  },
+  {
+    "name": "Al-Nejashi Islamic Center",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "",
+    "lat": 8.997453199999999,
+    "lng": 38.7455244
+  },
+  {
+    "name": "Taqwa Mosque | Bethel | ተቅዋ መስጂድ | ቤተል",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "Kolfe Keranio",
+    "lat": 9.0034426,
+    "lng": 38.694464599999996
+  },
+  {
+    "name": "Imam Hassen Mosque and school",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "",
+    "lat": 9.0421192,
+    "lng": 38.707811199999995
+  },
+  {
+    "name": "Ibadurehman Mosque",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "Kolfe Keranio",
+    "lat": 8.9889447,
+    "lng": 38.6924442
+  },
+  {
+    "name": "Bole Bulbula, Addis Ababa Ansuar Mosque(مسجد)[አንሷር መስጅድ]",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "",
+    "lat": 8.9557132,
+    "lng": 38.7899734
+  },
+  {
+    "name": "አሊፍ መስጅድ Alif mesjid Area",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "",
+    "lat": 9.009410899999999,
+    "lng": 38.7747393
+  },
+  {
+    "name": "Lafto Bilal masjid (ላፍቶ) ቢላል መስጂድ مسجد بلال",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "Nefassilk Lafto",
+    "lat": 8.9489114,
+    "lng": 38.744181999999995
+  },
+  {
+    "name": "Bilal Mosque مسجد | mesalemia | ቢላል መስጊድ | መሳለሚያ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "Addis Ketema",
+    "lat": 9.0357591,
+    "lng": 38.722367399999996
+  },
+  {
+    "name": "Ibnu Abbas Mosque",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "Bole",
+    "lat": 8.9916967,
+    "lng": 38.8114055
+  },
+  {
+    "name": "Sheh Hojele Village Mesjid, ሸህ ሆጀሌ ሰፈር መስጂድ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "Gulele",
+    "lat": 9.060305099999999,
+    "lng": 38.7263249
+  },
+  {
+    "name": "Ibnu Masoud islamic center | Nesiha Tv | ኢብኑ መስዑድ ኢስላሚክ ሴንተር | مركز ابن مسعود الاسلامي",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "Addis Ketema",
+    "lat": 9.0322169,
+    "lng": 38.715523499999996
+  },
+  {
+    "name": "Al-Imran Mosque",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "Bole",
+    "lat": 9.0163849,
+    "lng": 38.8393848
+  },
+  {
+    "name": "Prayer Area",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "",
+    "lat": 8.9837253,
+    "lng": 38.796959099999995
+  },
+  {
+    "name": "Iqra Mosque | Summit",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "",
+    "lat": 9.0160815,
+    "lng": 38.8514096
+  },
+  {
+    "name": "Saba Mosque | Paulos | ሳባ መስጊድ | ጳውሎስ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "Gulele",
+    "lat": 9.0495532,
+    "lng": 38.7266641
+  },
+  {
+    "name": "Ayisha Mesjid አኢሻእ መስጂድ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "",
+    "lat": 9.0430976,
+    "lng": 38.7395783
+  },
+  {
+    "name": "Tofik mosque",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "",
+    "lat": 9.0179592,
+    "lng": 38.7772095
+  },
+  {
+    "name": "Ferensay Mosque | ፈረንሳይ መስጊድ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "Yeka",
+    "lat": 9.050424699999999,
+    "lng": 38.7730989
+  },
+  {
+    "name": "Adere Sefer / አደሬ ሰፈር",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "",
+    "lat": 9.0278092,
+    "lng": 38.7389048
+  },
+  {
+    "name": "Rahmeto Mosque/Nur Mosque |Addis Ababa Ethiopia",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "",
+    "lat": 9.0250472,
+    "lng": 38.821653
+  },
+  {
+    "name": "Reyan mesjid(ረያን መስጅድ) torhayloch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "",
+    "lat": 9.008273899999999,
+    "lng": 38.718787
+  },
+  {
+    "name": "Masjid-e-al-Aqsa",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "",
+    "lat": 8.9835031,
+    "lng": 38.7971522
+  },
+  {
+    "name": "Tero Mosque |ጠሮ መስጂድ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "Kolfe Keranio",
+    "lat": 9.050365,
+    "lng": 38.7052094
+  },
+  {
+    "name": "ኢማም አህመድ መስጂድ | Imam Ahmed Masjid & Madrasa (Meda Mosque | ሜዳ መስጂድ)",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "Kolfe Keranio",
+    "lat": 9.005315399999999,
+    "lng": 38.6762392
+  },
+  {
+    "name": "Hashim Mosque",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "",
+    "lat": 9.0378618,
+    "lng": 38.7302533
+  },
+  {
+    "name": "Imam ahmed Mosque | Alem Bank | ኢማም አህመድ መስጂድ | አለም ባንክ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "",
+    "lat": 9.006325,
+    "lng": 38.6764047
+  },
+  {
+    "name": "Merkez",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "",
+    "lat": 9.04294,
+    "lng": 38.7277869
+  },
+  {
+    "name": "Bilalul Habashi Bldg | Mekanisa | ቢላሉል ሐበሺ ህንጻ | መካኒሳ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Community center",
+    "subcity": "Nefassilk Lafto",
+    "lat": 8.9859862,
+    "lng": 38.7378414
+  },
+  {
+    "name": "Aba Jiffar sunna Mosque | Torhayloch | አባ ጂፋር መስጊድ | ጦርሃይሎች",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "",
+    "lat": 9.0213468,
+    "lng": 38.716180699999995
+  },
+  {
+    "name": "Aman Ethiopia Tours",
+    "amharic": "",
+    "aliases": [],
+    "category": "Tour operator",
+    "subcity": "Kirkos",
+    "lat": 9.0166644,
+    "lng": 38.765943899999996
+  },
+  {
+    "name": "Burayu Mosque",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "Kolfe Keranio",
+    "lat": 9.0716878,
+    "lng": 38.674333
+  },
+  {
+    "name": "Goro Anbiya Mesjid",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "",
+    "lat": 8.9919815,
+    "lng": 38.829211
+  },
+  {
+    "name": "Jijiga",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "",
+    "lat": 9.022908,
+    "lng": 38.7426281
+  },
+  {
+    "name": "ADDIS ABABA ISLAMIC AFFAIRS SUPER COUNSEL المجلس الأعلى للشؤون الإسلامية بأديس أبابا የአዲስ አበባ እስልምና ጉዳዮች ከፍተኛ ምክር ቤት",
+    "amharic": "",
+    "aliases": [],
+    "category": "Religious organization",
+    "subcity": "",
+    "lat": 9.008379699999999,
+    "lng": 38.719381399999996
+  },
+  {
+    "name": "Addis Ababa Majlis",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mosque",
+    "subcity": "",
+    "lat": 9.0086624,
+    "lng": 38.7193785
+  },
+  {
+    "name": "Addis Ababa University | Natural Sciences Campus",
+    "amharic": "",
+    "aliases": [],
+    "category": "University",
+    "subcity": "Kebena",
+    "lat": 9.033506299999999,
+    "lng": 38.7636817
+  },
+  {
+    "name": "Admas University",
+    "amharic": "",
+    "aliases": [],
+    "category": "Private university",
+    "subcity": "",
+    "lat": 9.0113568,
+    "lng": 38.7589281
+  },
+  {
+    "name": "St. Mary's University",
+    "amharic": "",
+    "aliases": [],
+    "category": "University",
+    "subcity": "Lideta",
+    "lat": 9.0129895,
+    "lng": 38.7470713
+  },
+  {
+    "name": "Alpha University College | Lancha | አልፋ ዩኒቨርሲቲ ኮሌጅ | ላንቻ",
+    "amharic": "",
+    "aliases": [],
+    "category": "University",
+    "subcity": "",
+    "lat": 8.9939282,
+    "lng": 38.7571665
+  },
+  {
+    "name": "Addis Ababa University School of Commerce",
+    "amharic": "",
+    "aliases": [],
+    "category": "University",
+    "subcity": "Kirkos",
+    "lat": 9.012995199999999,
+    "lng": 38.7494173
+  },
+  {
+    "name": "Addis Ababa University",
+    "amharic": "",
+    "aliases": [],
+    "category": "University",
+    "subcity": "",
+    "lat": 8.9806034,
+    "lng": 38.757760499999996
+  },
+  {
+    "name": "Addis Ababa University",
+    "amharic": "",
+    "aliases": [],
+    "category": "University",
+    "subcity": "Gulele",
+    "lat": 9.0443923,
+    "lng": 38.760841899999996
+  },
+  {
+    "name": "Commercial Bank of Ethiopia 'Meskel' Square Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.0115211,
+    "lng": 38.7621362
+  },
+  {
+    "name": "GLOBAL BANK ETHIOPIA S.C Headquarters",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "Kirkos",
+    "lat": 9.0150851,
+    "lng": 38.754010199999996
+  },
+  {
+    "name": "Tsehay Bank Head Office",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "Kirkos",
+    "lat": 8.993513199999999,
+    "lng": 38.759177699999995
+  },
+  {
+    "name": "Zemen Bank",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "Kirkos",
+    "lat": 9.016920899999999,
+    "lng": 38.7667125
+  },
+  {
+    "name": "Commercial Bank Of Ethiopia Stadium Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.011541,
+    "lng": 38.7550004
+  },
+  {
+    "name": "National Bank of Ethiopia",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "Lideta",
+    "lat": 9.0172838,
+    "lng": 38.7504433
+  },
+  {
+    "name": "Commercial Bank of Ethiopia",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "Lideta",
+    "lat": 9.0177779,
+    "lng": 38.751818199999995
+  },
+  {
+    "name": "Ahadu Bank Head office - አሃዱ ባንክ ዋና መስሪያ ቤት",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.009115,
+    "lng": 38.7647747
+  },
+  {
+    "name": "Hijra Bank Head Quarters",
+    "amharic": "",
+    "aliases": [],
+    "category": "Private sector bank",
+    "subcity": "Kirkos",
+    "lat": 9.0056349,
+    "lng": 38.7684883
+  },
+  {
+    "name": "Commercial Bank of Ethiopia",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "Bole",
+    "lat": 9.0112157,
+    "lng": 38.7758502
+  },
+  {
+    "name": "Amhara Bank Project Office",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "Kirkos",
+    "lat": 9.016269399999999,
+    "lng": 38.768323699999996
+  },
+  {
+    "name": "Commercial Bank of Ethiopia Adinet Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.0167548,
+    "lng": 38.764513799999996
+  },
+  {
+    "name": "Commercial Bank of Ethiopia Kera Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 8.9898677,
+    "lng": 38.7419799
+  },
+  {
+    "name": "Goh Betoch Bank - ጎሕ ቤቶች ባንክ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Mortgage lender",
+    "subcity": "",
+    "lat": 8.990966799999999,
+    "lng": 38.7821906
+  },
+  {
+    "name": "Dashen Bank HQ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "Lideta",
+    "lat": 9.016685899999999,
+    "lng": 38.7495799
+  },
+  {
+    "name": "Commercial Bank Of Ethiopia Finfine branch - ኢትዮጵያ ንግድ ባንክ ፊንፈኔ ቅ/ፍ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "Kirkos",
+    "lat": 9.0138987,
+    "lng": 38.7532372
+  },
+  {
+    "name": "Development Bank of Ethiopia | Kazanchis | የኢትዮዺያ ልማት ባንክ | ካዛንቺስ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "Kirkos",
+    "lat": 9.0166378,
+    "lng": 38.7646114
+  },
+  {
+    "name": "Commercial Bank of Ethiopia Gofa Sefer Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 8.9871257,
+    "lng": 38.7489322
+  },
+  {
+    "name": "Lion International Bank",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "Yeka",
+    "lat": 9.014894,
+    "lng": 38.782137
+  },
+  {
+    "name": "Commercial Bank of Ethiopia Addis Ababa Sub Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.0202536,
+    "lng": 38.7530345
+  },
+  {
+    "name": "Addis International Bank S.C.",
+    "amharic": "",
+    "aliases": [],
+    "category": "Financial institution",
+    "subcity": "",
+    "lat": 9.0107426,
+    "lng": 38.7679366
+  },
+  {
+    "name": "Bank Of Abyssinia Head Office | Legehar | አቢሲኒያ ባንክ ዋና ቢሮ | ለገሃር",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "Kirkos",
+    "lat": 9.0122505,
+    "lng": 38.7533567
+  },
+  {
+    "name": "Commercial Bank of Ethiopia - Temenja Yaj Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "Kirkos",
+    "lat": 8.9978594,
+    "lng": 38.7587239
+  },
+  {
+    "name": "Dashen Bank",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "Kirkos",
+    "lat": 8.9963645,
+    "lng": 38.7593184
+  },
+  {
+    "name": "Bank Of Abyssinia Head Office",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "Kirkos",
+    "lat": 9.0127846,
+    "lng": 38.753553499999995
+  },
+  {
+    "name": "Oromia International Bank S.C",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.0139701,
+    "lng": 38.749212799999995
+  },
+  {
+    "name": "Hibret Bank Head office",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "Lideta",
+    "lat": 9.0135047,
+    "lng": 38.748658999999996
+  },
+  {
+    "name": "Cooperative Bank of Oromia",
+    "amharic": "",
+    "aliases": [],
+    "category": "Financial institution",
+    "subcity": "Bole",
+    "lat": 8.9917214,
+    "lng": 38.7804761
+  },
+  {
+    "name": "United Bank Future Head office",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.013601999999999,
+    "lng": 38.7492343
+  },
+  {
+    "name": "Addis International Bank S.Co Head Office & Main Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.0106839,
+    "lng": 38.7679268
+  },
+  {
+    "name": "Commercial Bank Of Ethiopia, Edna Mall Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 8.996364999999999,
+    "lng": 38.7861799
+  },
+  {
+    "name": "Bank of Abyssinia",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "Kirkos",
+    "lat": 9.002970699999999,
+    "lng": 38.7581858
+  },
+  {
+    "name": "Commercial Bank of Ethiopia Enderase Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.017301999999999,
+    "lng": 38.7753902
+  },
+  {
+    "name": "Commercial Bank of Ethiopia - Bulgaria Mazoria Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "Kirkos",
+    "lat": 8.9948112,
+    "lng": 38.7473022
+  },
+  {
+    "name": "World Bank Ethiopia",
+    "amharic": "",
+    "aliases": [],
+    "category": "Economic development agency",
+    "subcity": "Bole",
+    "lat": 8.990265599999999,
+    "lng": 38.7862059
+  },
+  {
+    "name": "የኢትዮጵያ ንግድ ባንክ ኮሜርስ ቅርንጫፍ Comerica bank of Ethiopia Commerce Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.0126125,
+    "lng": 38.7503281
+  },
+  {
+    "name": "Commercial Bank Of Ethiopia",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "Bole",
+    "lat": 8.9903012,
+    "lng": 38.7849147
+  },
+  {
+    "name": "Awash Bank Kazanchis Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.016699599999999,
+    "lng": 38.7657969
+  },
+  {
+    "name": "Commercial Bank of Ethiopia",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 8.9979809,
+    "lng": 38.771879999999996
+  },
+  {
+    "name": "Commercial Bank of Ethiopia - Bole Atlas Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.0014754,
+    "lng": 38.7820226
+  },
+  {
+    "name": "Commercial Bank of Ethiopia - Meskel Flower Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 8.9948783,
+    "lng": 38.7669437
+  },
+  {
+    "name": "Awash Bank Stadium Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.011733399999999,
+    "lng": 38.7597707
+  },
+  {
+    "name": "Wegagen bank HQ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "Kirkos",
+    "lat": 9.0118121,
+    "lng": 38.756047599999995
+  },
+  {
+    "name": "Awash bank Head Quarter",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "Kirkos",
+    "lat": 9.014840399999999,
+    "lng": 38.7513034
+  },
+  {
+    "name": "Enat Bank SC Head Office",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.0111025,
+    "lng": 38.7692562
+  },
+  {
+    "name": "Ahadu Bank - አሃዱ ባንክ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 8.999521699999999,
+    "lng": 38.7402272
+  },
+  {
+    "name": "Ahadu Bank 22 Branch - አሃዱ ባንክ 22ቅርንጫፍ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.014528199999999,
+    "lng": 38.7829536
+  },
+  {
+    "name": "Abay Bank head office project",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.0160434,
+    "lng": 38.745052
+  },
+  {
+    "name": "Zemen Bank - Bole Rwanda Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 8.9910637,
+    "lng": 38.7793031
+  },
+  {
+    "name": "Tsehay Bank (Meskel Flower Branch) - ፀሐይ ባንክ (ምስክር አበባ ቅርንጫፍ)",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "Kirkos",
+    "lat": 8.9924625,
+    "lng": 38.766484399999996
+  },
+  {
+    "name": "Nib International Bank s.c",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "Kirkos",
+    "lat": 9.0046831,
+    "lng": 38.7675129
+  },
+  {
+    "name": "Commercial Bank of Ethiopia, Sengatera Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.0122352,
+    "lng": 38.7467587
+  },
+  {
+    "name": "Comercial Bank of Ethiopia",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 8.998714,
+    "lng": 38.7853743
+  },
+  {
+    "name": "Nib International Bank D'Afrique Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "Lideta",
+    "lat": 9.0149349,
+    "lng": 38.744842399999996
+  },
+  {
+    "name": "Commercial Bank of Ethiopia Filwoha Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.017487599999999,
+    "lng": 38.7578482
+  },
+  {
+    "name": "Dashen Bank Meskel Flower",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 8.9950092,
+    "lng": 38.7664074
+  },
+  {
+    "name": "Zemen bank branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.0048026,
+    "lng": 38.7466171
+  },
+  {
+    "name": "Global bank ethiopia - Wuha limat branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.0118403,
+    "lng": 38.7811412
+  },
+  {
+    "name": "Debub Global Bank",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.0144098,
+    "lng": 38.7736571
+  },
+  {
+    "name": "Commercial Bank of Ethiopia",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.0078564,
+    "lng": 38.784607199999996
+  },
+  {
+    "name": "Dashen Bank",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.0099012,
+    "lng": 38.771053099999996
+  },
+  {
+    "name": "Hibret Bank",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.0073175,
+    "lng": 38.7447152
+  },
+  {
+    "name": "European Investment Bank",
+    "amharic": "",
+    "aliases": [],
+    "category": "Investment bank",
+    "subcity": "",
+    "lat": 9.0005169,
+    "lng": 38.779372599999995
+  },
+  {
+    "name": "Enat Bank Etege Tayitu Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "Kirkos",
+    "lat": 9.0110375,
+    "lng": 38.769280599999995
+  },
+  {
+    "name": "Ahadu Bank (Legehar Branch) - አሃዱ ባንክ (ለገሃር ቅርንጫፍ)",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.0119399,
+    "lng": 38.7507494
+  },
+  {
+    "name": "Commercial Bank of Ethiopia 'Kazanchis' Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.019192,
+    "lng": 38.7694587
+  },
+  {
+    "name": "Anbessa International Bank Kazanchis Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.016954799999999,
+    "lng": 38.7664332
+  },
+  {
+    "name": "Zemen Bank - Meskel Flower Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 8.9945522,
+    "lng": 38.7667333
+  },
+  {
+    "name": "Bank of Abyssinia Tobia branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "Bole",
+    "lat": 8.995281799999999,
+    "lng": 38.7852928
+  },
+  {
+    "name": "ፀሃይ ባንክ (ለገሃር ቅርንጫፍ) - Tsehay Bank ( Lagar Branch)",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.0124178,
+    "lng": 38.751999
+  },
+  {
+    "name": "Amhara Bank Comerce Branch - አማራ ባንክ ኮሜርስ ቅርንጫፍ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.0121462,
+    "lng": 38.7502992
+  },
+  {
+    "name": "Commercial bank of Ethiopia - Misrak dil",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.014606299999999,
+    "lng": 38.783277999999996
+  },
+  {
+    "name": "Zemzem Bank Alif Branch ዘምዘም ባንክ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 8.9931906,
+    "lng": 38.7748327
+  },
+  {
+    "name": "Bunna Bank HQ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 8.9923305,
+    "lng": 38.7782354
+  },
+  {
+    "name": "Zemen Bank - Urael Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.0123069,
+    "lng": 38.7741349
+  },
+  {
+    "name": "አዲስ ብድር እና ቁጠባ ተቋም አ ማ ቦሌ ወረዳ 04 Addis Credit & Saving Institution S.C. Bole W. 04",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.0109163,
+    "lng": 38.7786879
+  },
+  {
+    "name": "Oromia Bank Hayyu Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.0015057,
+    "lng": 38.766334
+  },
+  {
+    "name": "Tsehay bank - Bole atlas branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.003424599999999,
+    "lng": 38.7803221
+  },
+  {
+    "name": "Zemen Bank - Wuha limat branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.010540899999999,
+    "lng": 38.7811619
+  },
+  {
+    "name": "Abyssinia Bank Kasanches Total Branch | አቢሲኒያ ባንክ ካሳንችስ ቶታል ብራንች",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.016748699999999,
+    "lng": 38.773309499999996
+  },
+  {
+    "name": "Commercial bank of Ethiopia - Peackok menafesha branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 8.9985024,
+    "lng": 38.771575999999996
+  },
+  {
+    "name": "Wegagen Bank",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "Kirkos",
+    "lat": 8.9932646,
+    "lng": 38.7662749
+  },
+  {
+    "name": "Awash International Bank - Wuha Limat Area Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "Bole",
+    "lat": 9.0099476,
+    "lng": 38.780639199999996
+  },
+  {
+    "name": "Ahadu Bank - Kazanchis Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.014923699999999,
+    "lng": 38.769703199999995
+  },
+  {
+    "name": "Dashen Bank Africa Street Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 8.9904998,
+    "lng": 38.7820117
+  },
+  {
+    "name": "Anbessa Bank",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 8.9913477,
+    "lng": 38.782388399999995
+  },
+  {
+    "name": "Bank Of Abyssinia",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "Kirkos",
+    "lat": 9.0169958,
+    "lng": 38.766687399999995
+  },
+  {
+    "name": "Debub Global Bank ደቡብ ግሎባል ባንክ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.0042777,
+    "lng": 38.779399399999996
+  },
+  {
+    "name": "Zemen Bank Head Office",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "Lideta",
+    "lat": 9.0144871,
+    "lng": 38.7496296
+  },
+  {
+    "name": "Abay Bank S.C - Bambis Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.008625799999999,
+    "lng": 38.7709811
+  },
+  {
+    "name": "Bank Of Abyssinia Habesha Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "Kirkos",
+    "lat": 8.999457999999999,
+    "lng": 38.77147
+  },
+  {
+    "name": "Nib International Bank",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 8.9995134,
+    "lng": 38.7851667
+  },
+  {
+    "name": "Cooperative Bank Of Oromia",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.0165205,
+    "lng": 38.766104
+  },
+  {
+    "name": "Dashen Bank S.c",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "Kirkos",
+    "lat": 9.011844,
+    "lng": 38.7514365
+  },
+  {
+    "name": "Addis International Bank SC - Kera Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 8.9888047,
+    "lng": 38.748795099999995
+  },
+  {
+    "name": "Hibret (United) bank - Bole 17 branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.0064922,
+    "lng": 38.784928699999995
+  },
+  {
+    "name": "Commercial Bank of Ethiopia",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.015488,
+    "lng": 38.7868791
+  },
+  {
+    "name": "Bunna bank",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.0061922,
+    "lng": 38.7464131
+  },
+  {
+    "name": "Amhara bank - atlas branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.002341,
+    "lng": 38.7796604
+  },
+  {
+    "name": "Dashen Bank Shalla Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.0065031,
+    "lng": 38.784589499999996
+  },
+  {
+    "name": "Commercial Bank of Ethiopia Minase Lema Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.0143344,
+    "lng": 38.7476205
+  },
+  {
+    "name": "Commercial Bank of Ethiopia ATM",
+    "amharic": "",
+    "aliases": [],
+    "category": "ATM",
+    "subcity": "Kirkos",
+    "lat": 9.0168631,
+    "lng": 38.754170099999996
+  },
+  {
+    "name": "Zemen Bank Kazanchis Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.0161625,
+    "lng": 38.7692969
+  },
+  {
+    "name": "Oromia Bank S.C | ኦሮሚያ ባንክ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 8.9945145,
+    "lng": 38.785261
+  },
+  {
+    "name": "Dashen Bank - Bole Airport Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 8.9902641,
+    "lng": 38.7863262
+  },
+  {
+    "name": "Commercial Bank of Ethiopia Ethio-China Road Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "Kirkos",
+    "lat": 8.9852814,
+    "lng": 38.7673632
+  },
+  {
+    "name": "Awash Bank",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 8.993065999999999,
+    "lng": 38.774271299999995
+  },
+  {
+    "name": "Awash Bank SC - Flamingo Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.0094912,
+    "lng": 38.7644179
+  },
+  {
+    "name": "Dashen Bank SC Olompia Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.0029601,
+    "lng": 38.7693577
+  },
+  {
+    "name": "Bank Of Abyssinia",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "Kirkos",
+    "lat": 9.0077243,
+    "lng": 38.747467199999996
+  },
+  {
+    "name": "Awash Bank Urael Nigist Sefer Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "Kirkos",
+    "lat": 9.008597,
+    "lng": 38.7754672
+  },
+  {
+    "name": "Cooperative Bank of Oromia S.c Bole Rwanda Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Credit union",
+    "subcity": "Bole",
+    "lat": 8.9916016,
+    "lng": 38.7804502
+  },
+  {
+    "name": "Zam Zam bank - atlas branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.003737899999999,
+    "lng": 38.7797933
+  },
+  {
+    "name": "ATM commercial bank of ethiopia",
+    "amharic": "",
+    "aliases": [],
+    "category": "ATM",
+    "subcity": "",
+    "lat": 9.0113705,
+    "lng": 38.762077
+  },
+  {
+    "name": "Siinqee Bank | ሲንቄ ባንክ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Financial institution",
+    "subcity": "Kirkos",
+    "lat": 9.0165823,
+    "lng": 38.765925599999996
+  },
+  {
+    "name": "Abay Bank - ዓባይ ባንክ",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.0133759,
+    "lng": 38.750681799999995
+  },
+  {
+    "name": "Awash Bank Legehar Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.0145003,
+    "lng": 38.7522923
+  },
+  {
+    "name": "Awash Bank Meskel Flower Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 8.989812299999999,
+    "lng": 38.7654723
+  },
+  {
+    "name": "Berhan Bank - Kazanchis branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "",
+    "lat": 9.0161591,
+    "lng": 38.7685045
+  },
+  {
+    "name": "Wegagen Bank S.C. - Shala Menafesha Area Branch",
+    "amharic": "",
+    "aliases": [],
+    "category": "Bank",
+    "subcity": "Bole",
+    "lat": 9.005948499999999,
+    "lng": 38.7850532
+  },
+  {
+    "name": "Addis Hiwot Hospital | Haya Hulet |",
+    "amharic": "",
+    "aliases": [],
+    "category": "Private hospital",
+    "subcity": "Bole",
+    "lat": 9.0129068,
+    "lng": 38.7834061
+  },
+  {
+    "name": "Landmark General Hospital",
+    "amharic": "",
+    "aliases": [],
+    "category": "Private hospital",
+    "subcity": "Kirkos",
+    "lat": 9.0059007,
+    "lng": 38.747403399999996
+  }
+]
