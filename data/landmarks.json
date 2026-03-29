@@ -68346,46 +68346,6 @@
       "lng": 38.763693
     },
     {
-      "id": 7723,
-      "name": "Block 36",
-      "amharic": "",
-      "aliases": [],
-      "category": "residential",
-      "subcity": "",
-      "lat": 8.98624,
-      "lng": 38.757727
-    },
-    {
-      "id": 7724,
-      "name": "Block 34",
-      "amharic": "",
-      "aliases": [],
-      "category": "residential",
-      "subcity": "",
-      "lat": 8.985798,
-      "lng": 38.757348
-    },
-    {
-      "id": 7725,
-      "name": "Block 35",
-      "amharic": "",
-      "aliases": [],
-      "category": "residential",
-      "subcity": "",
-      "lat": 8.986038,
-      "lng": 38.757438
-    },
-    {
-      "id": 7726,
-      "name": "Block 65",
-      "amharic": "",
-      "aliases": [],
-      "category": "residential",
-      "subcity": "",
-      "lat": 8.985432,
-      "lng": 38.755602
-    },
-    {
       "id": 7727,
       "name": "Glass",
       "amharic": "",
@@ -68414,26 +68374,6 @@
       "subcity": "",
       "lat": 9.053404,
       "lng": 38.701188
-    },
-    {
-      "id": 7730,
-      "name": "Block73",
-      "amharic": "",
-      "aliases": [],
-      "category": "residential",
-      "subcity": "",
-      "lat": 9.053036,
-      "lng": 38.701646
-    },
-    {
-      "id": 7731,
-      "name": "Block65",
-      "amharic": "",
-      "aliases": [],
-      "category": "residential",
-      "subcity": "",
-      "lat": 9.05144,
-      "lng": 38.700726
     },
     {
       "id": 7732,
@@ -78022,16 +77962,6 @@
       "lng": 38.719435
     },
     {
-      "id": 9821,
-      "name": "Block 63",
-      "amharic": "",
-      "aliases": [],
-      "category": "other",
-      "subcity": "",
-      "lat": 9.05089,
-      "lng": 38.701221
-    },
-    {
       "id": 9822,
       "name": "Terreno Embaixada Rep. Tcheca",
       "amharic": "",
@@ -78272,16 +78202,6 @@
       "subcity": "",
       "lat": 9.070097,
       "lng": 38.87436
-    },
-    {
-      "id": 9846,
-      "name": "Block 580",
-      "amharic": "",
-      "aliases": [],
-      "category": "other",
-      "subcity": "",
-      "lat": 9.070234,
-      "lng": 38.873939
     },
     {
       "id": 9847,
@@ -78898,16 +78818,6 @@
       "subcity": "",
       "lat": 8.994449,
       "lng": 38.809487
-    },
-    {
-      "id": 9908,
-      "name": "Block 64",
-      "amharic": "",
-      "aliases": [],
-      "category": "other",
-      "subcity": "",
-      "lat": 8.933053,
-      "lng": 38.73072
     },
     {
       "id": 9909,
@@ -83124,16 +83034,6 @@
       "subcity": "",
       "lat": 8.649052,
       "lng": 38.981572
-    },
-    {
-      "id": 10325,
-      "name": "Block91",
-      "amharic": "",
-      "aliases": [],
-      "category": "building",
-      "subcity": "",
-      "lat": 8.962584,
-      "lng": 38.744016
     },
     {
       "id": 10326,
