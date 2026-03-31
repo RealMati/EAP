@@ -116,15 +116,16 @@ class EthiopianAddressParser:
             matches = self.landmark_index.match(query, top_k=5, threshold=45.0)
             all_candidates.extend(matches)
 
-        # Penalize semantic matches that score lower than the best fuzzy match
-        # This prevents semantic false positives from overriding correct fuzzy hits
+        # Semantic matches must not override decent fuzzy/exact matches
         best_fuzzy = max(
             (c.score for c in all_candidates if c.method in ("exact", "fuzzy")),
             default=0.0,
         )
-        for c in all_candidates:
-            if c.method == "semantic" and c.score < best_fuzzy:
-                c.score *= 0.8  # Penalize semantic when fuzzy found something better
+        if best_fuzzy >= 60.0:
+            # Good fuzzy match exists — demote all semantic matches below it
+            for c in all_candidates:
+                if c.method == "semantic":
+                    c.score = min(c.score, best_fuzzy - 5.0)
 
         # Boost matches in the correct subcity
         if result.subcity:

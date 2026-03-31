@@ -197,10 +197,13 @@ class LandmarkIndex:
                         matched_form=match_str, method="fuzzy"
                     ))
 
-        # 3. Semantic match (if embeddings loaded)
-        if self._faiss_index is not None:
+        # 3. Semantic match — only for Latin-script queries
+        # Multilingual embeddings return high-confidence garbage for Amharic text
+        if self._faiss_index is not None and script == "LATIN":
             semantic_results = self._semantic_match(query_forms, top_k)
+            # Cap semantic scores at 85 so they can't dominate good fuzzy matches
             for lm, score in semantic_results:
+                score = min(score, 85.0)
                 if lm.name not in seen_landmarks:
                     seen_landmarks.add(lm.name)
                     results.append(MatchResult(
