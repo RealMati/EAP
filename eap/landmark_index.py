@@ -53,65 +53,49 @@ class LandmarkIndex:
         self._faiss_index = None
 
     def load(self):
-        """Load landmarks from all JSON files."""
-        landmark_files = [
-            "addis_landmarks.json",
-            "kilo_landmarks.json",
-        ]
-        seen_names = set()
-        for fname in landmark_files:
-            fpath = self.data_dir / fname
-            if not fpath.exists():
-                continue
-            with open(fpath) as f:
-                raw = json.load(f)
-            for item in raw:
-                name = item.get("name", "").strip()
-                if not name or name.lower() in seen_names:
-                    continue
-                seen_names.add(name.lower())
-                lm = Landmark(
-                    name=name,
-                    amharic=item.get("amharic", ""),
-                    aliases=item.get("aliases", []),
-                    category=item.get("category", ""),
-                    subcity=item.get("subcity", ""),
-                    lat=item.get("lat", 0.0),
-                    lng=item.get("lng", 0.0),
-                )
-                self._build_search_forms(lm)
-                self.landmarks.append(lm)
-                for form in lm.search_forms:
-                    self._form_to_landmark[form] = lm
-                self._name_to_landmark[name.lower()] = lm
-
-        # Also load from data/landmarks.json if it exists
+        """Load landmarks from the main data/landmarks.json file."""
         data_lm = self.data_dir / "data" / "landmarks.json"
-        if data_lm.exists():
-            with open(data_lm) as f:
-                raw = json.load(f)
-            for item in raw.get("landmarks", []):
-                name = item.get("name", "").strip()
-                if not name or name.lower() in seen_names:
-                    continue
-                seen_names.add(name.lower())
-                lm = Landmark(
-                    name=name,
-                    amharic=item.get("amharic", ""),
-                    aliases=item.get("aliases", []),
-                    category=item.get("category", ""),
-                    subcity=item.get("subcity", ""),
-                    lat=item.get("lat", 0.0),
-                    lng=item.get("lng", 0.0),
-                )
-                self._build_search_forms(lm)
-                self.landmarks.append(lm)
-                for form in lm.search_forms:
-                    self._form_to_landmark[form] = lm
-                self._name_to_landmark[name.lower()] = lm
+        if not data_lm.exists():
+            print(f"Warning: Landmark database not found at {data_lm}")
+            return
+
+        seen_names = set()
+        with open(data_lm) as f:
+            raw = json.load(f)
+        
+        # Handle both list format and object format {"landmarks": [...]}
+        landmarks_list = raw.get("landmarks", []) if isinstance(raw, dict) else raw
+        
+        for item in landmarks_list:
+            name = item.get("name", "").strip()
+            if not name:
+                continue
+            
+            # Use name + subcity for deduplication key to allow same name in different areas
+            subcity = item.get("subcity", "")
+            dedup_key = f"{name.lower()}|{subcity.lower()}"
+            
+            if dedup_key in seen_names:
+                continue
+            seen_names.add(dedup_key)
+            
+            lm = Landmark(
+                name=name,
+                amharic=item.get("amharic", ""),
+                aliases=item.get("aliases", []),
+                category=item.get("category", ""),
+                subcity=subcity,
+                lat=item.get("lat", 0.0),
+                lng=item.get("lng", 0.0),
+            )
+            self._build_search_forms(lm)
+            self.landmarks.append(lm)
+            for form in lm.search_forms:
+                self._form_to_landmark[form] = lm
+            self._name_to_landmark[name.lower()] = lm
 
         self._all_search_forms = list(self._form_to_landmark.keys())
-        print(f"Loaded {len(self.landmarks)} landmarks, {len(self._all_search_forms)} search forms")
+        print(f"Loaded {len(self.landmarks)} landmarks from main database")
 
     def _build_search_forms(self, lm: Landmark):
         """Generate all searchable text forms for a landmark."""
