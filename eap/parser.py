@@ -177,7 +177,6 @@ class EthiopianAddressParser:
         queries = []
         
         # Identified subcities to filter out from landmark queries
-        # Use the actual text that matched the subcity to be more precise
         subcity_matches = {ent.text.lower() for ent in ner_result.entities if ent.label == "SUBCITY"}
 
         # 1. NER-extracted landmarks (highest priority)
@@ -199,13 +198,13 @@ class EthiopianAddressParser:
             if start >= 0 and end > start:
                 remaining = remaining[:start] + " " + remaining[end:]
         
-        # Also aggressively remove subcity names that might not have been caught in spans
-        for sc in subcity_matches:
-            remaining = re.sub(rf"\b{re.escape(sc)}\b", "", remaining, flags=re.IGNORECASE)
+        # Soft remove subcity names (only if they aren't potential landmarks)
+        # Instead of aggressive re.sub, we'll just clean noise words
+        # and keep the rest as a candidate.
             
         remaining = " ".join(remaining.split()).strip()
-        # Clean up common noisy separators and words
-        remaining = re.sub(r"[/,|;!\n]+", " ", remaining)
+        # Clean up common noisy separators
+        clean_text = re.sub(r"[/,|;!\n]+", " ", remaining)
         
         # Comprehensive noise word removal pattern
         noise_pattern = (
@@ -215,23 +214,27 @@ class EthiopianAddressParser:
             r"house|bet|ቤት|sefer|ሰፈር|mender|መንደር|area|akababi|አካባቢ|"
             r"street|road|st|rd|መንገድ|ጎዳና|city|ከተማ|addis ababa|addis|አዲስ አበባ)\b"
         )
-        remaining = re.sub(noise_pattern, "", remaining, flags=re.IGNORECASE)
-        remaining = " ".join(remaining.split()).strip()
+        filtered = re.sub(noise_pattern, "", clean_text, flags=re.IGNORECASE)
+        filtered = " ".join(filtered.split()).strip()
 
-        if remaining and len(remaining) >= 3:
-            queries.append(remaining)
+        if filtered and len(filtered) >= 3:
+            queries.append(filtered)
+            
+        # 3. If filtered text is very different from clean text, add clean text too
+        if clean_text != filtered and len(clean_text) >= 3:
+            queries.append(clean_text)
 
-        # 3. Chunks from the remaining text
-        chunks = [c.strip() for c in re.split(r"\s+", remaining) if len(c.strip()) >= 4]
+        # 4. Chunks from the remaining text
+        chunks = [c.strip() for c in re.split(r"\s+", filtered) if len(c.strip()) >= 4]
         if chunks:
             # Add some multi-word chunks if possible
             for i in range(len(chunks) - 1):
                 queries.append(f"{chunks[i]} {chunks[i+1]}")
 
-        # 4. Transliterated form of the cleaned text
-        script = detect_script(remaining)
+        # 5. Transliterated form
+        script = detect_script(filtered)
         if script in ("ETHIOPIC", "MIXED"):
-            queries.append(transliterate_to_latin(remaining))
+            queries.append(transliterate_to_latin(filtered))
 
         # Filter out duplicates and very short queries
         seen = set()

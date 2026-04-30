@@ -12,7 +12,7 @@
       "id": 2,
       "name": "Akaky Kaliti",
       "amharic": "አቃቂ ቃሊቲ",
-      "aliases": ["akaky kaliti", "akaki kaliti", "akaky", "akaki", "kaliti", "kality", "kality"],
+      "aliases": ["akaky kaliti", "akaki kaliti", "akaky", "akaki", "kaliti", "kality"],
       "woredas": 13,
       "area_km2": 118.08
     },
@@ -20,7 +20,7 @@
       "id": 3,
       "name": "Arada",
       "amharic": "አራዳ",
-      "aliases": ["arada", "arat kilo", "sidist kilo", "piassa", "piasa", "4 kilo", "6 kilo"],
+      "aliases": ["arada", "arat kilo", "sidist kilo", "4 kilo", "6 kilo"],
       "woredas": 10,
       "area_km2": 9.91
     },
@@ -28,7 +28,7 @@
       "id": 4,
       "name": "Bole",
       "amharic": "ቦሌ",
-      "aliases": ["bole", "bolle", "bolla", "boly", "bolly", "bole subcity", "bole sub city", "bole sub-city"],
+      "aliases": ["bole", "bolle", "bolla", "boly", "bolly"],
       "woredas": 15,
       "area_km2": 122.08
     },
@@ -44,7 +44,7 @@
       "id": 6,
       "name": "Kirkos",
       "amharic": "ቂርቆስ",
-      "aliases": ["kirkos", "kirkoss", "krkos", "kazanchis", "kazanches", "kazanchiss", "mexico", "meskel square"],
+      "aliases": ["kirkos", "kirkoss", "krkos", "kazanchis", "kazanches", "kazanchiss"],
       "woredas": 11,
       "area_km2": 14.62
     },
@@ -52,7 +52,7 @@
       "id": 7,
       "name": "Kolfe Keranio",
       "amharic": "ኮልፌ ቀራኒዮ",
-      "aliases": ["kolfe keranio", "kolfe", "kolfie", "kolfe keranyo", "keranio", "keranyo", "merkato", "mercato"],
+      "aliases": ["kolfe keranio", "kolfe", "kolfie", "kolfe keranyo", "keranio", "keranyo"],
       "woredas": 15,
       "area_km2": 61.25
     },
@@ -60,7 +60,7 @@
       "id": 8,
       "name": "Lideta",
       "amharic": "ልደታ",
-      "aliases": ["lideta", "lidetta", "ledeta", "lidetta"],
+      "aliases": ["lideta", "lidetta", "ledeta"],
       "woredas": 10,
       "area_km2": 9.18
     },
@@ -76,7 +76,7 @@
       "id": 10,
       "name": "Yeka",
       "amharic": "የካ",
-      "aliases": ["yeka", "yekka", "cmc", "cmcmichael", "ayat", "ayaat", "megenagna", "megenanga", "kotebe", "kottebe"],
+      "aliases": ["yeka", "yekka", "ayat", "ayaat", "megenagna", "megenanga", "kotebe", "kottebe"],
       "woredas": 14,
       "area_km2": 85.46
     },
