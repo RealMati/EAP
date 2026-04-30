@@ -135,7 +135,7 @@ class LandmarkIndex:
             forms.add(words[0])
         lm.search_forms = [f for f in forms if f]
 
-    def match(self, query: str, top_k: int = 5, threshold: float = 55.0) -> list[MatchResult]:
+    def match(self, query: str, top_k: int = 5, threshold: float = 55.0, subcity: Optional[str] = None) -> list[MatchResult]:
         """Match a query against the landmark database using multiple strategies.
 
         Strategy order:
@@ -168,6 +168,9 @@ class LandmarkIndex:
         for qf in query_forms:
             if qf in self._form_to_landmark:
                 lm = self._form_to_landmark[qf]
+                # Filter by subcity if provided
+                if subcity and lm.subcity and lm.subcity.lower() != subcity.lower():
+                    continue
                 if lm.name not in seen_landmarks:
                     seen_landmarks.add(lm.name)
                     results.append(MatchResult(
@@ -184,12 +187,19 @@ class LandmarkIndex:
                 qf,
                 self._all_search_forms,
                 scorer=fuzz.token_sort_ratio,
-                limit=top_k * 2,
+                limit=top_k * 5, # Increase limit to allow for subcity filtering
             )
             for match_str, score, _ in matches:
                 if score < threshold:
                     continue
                 lm = self._form_to_landmark[match_str]
+                
+                # Filter by subcity if provided
+                if subcity and lm.subcity and lm.subcity.lower() != subcity.lower():
+                    # Instead of strict filter, we could apply a penalty, but let's start with strict
+                    # for high-confidence subcity detection
+                    continue
+                    
                 if lm.name not in seen_landmarks:
                     seen_landmarks.add(lm.name)
                     results.append(MatchResult(
@@ -200,10 +210,14 @@ class LandmarkIndex:
         # 3. Semantic match — only for Latin-script queries
         # Multilingual embeddings return high-confidence garbage for Amharic text
         if self._faiss_index is not None and script == "LATIN":
-            semantic_results = self._semantic_match(query_forms, top_k)
+            semantic_results = self._semantic_match(query_forms, top_k * 2)
             # Cap semantic scores at 85 so they can't dominate good fuzzy matches
             for lm, score in semantic_results:
                 score = min(score, 85.0)
+                
+                if subcity and lm.subcity and lm.subcity.lower() != subcity.lower():
+                    continue
+                    
                 if lm.name not in seen_landmarks:
                     seen_landmarks.add(lm.name)
                     results.append(MatchResult(

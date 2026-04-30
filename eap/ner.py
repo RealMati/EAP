@@ -133,6 +133,34 @@ class RuleBasedNER:
                         start=m.start(), end=m.end(),
                     ))
 
+        # Basic Landmark Extraction (Fallback for rule-based)
+        # Split by common delimiters and treat remaining parts as landmark candidates
+        noise_words = {
+            "sub city", "subcity", "sub-city", "kifle ketema", "ክፍለ ከተማ",
+            "woreda", "wereda", "ወረዳ", "ወሬዳ", "ground floor", "ህንፃ", "building",
+            "house", "ቤት", "አካባቢ", "area", "near", "opposite", "behind", "front",
+        }
+        
+        # Remove entities already found (subcity, direction, woreda)
+        clean_text = text
+        for ent in sorted(result.entities, key=lambda x: x.start, reverse=True):
+            clean_text = clean_text[:ent.start] + "|" + clean_text[ent.end:]
+            
+        chunks = re.split(r"[/,|;!\n]+", clean_text)
+        for chunk in chunks:
+            chunk = chunk.strip()
+            if not chunk or len(chunk) < 3:
+                continue
+            
+            # Remove noise words from chunk
+            words = chunk.split()
+            filtered_words = [w for w in words if w.lower() not in noise_words]
+            candidate = " ".join(filtered_words).strip()
+            
+            if candidate and len(candidate) >= 3 and candidate not in result.landmarks:
+                result.landmarks.append(candidate)
+                # We don't add to entities list yet to avoid interfering with spans
+                
         return result
 
 

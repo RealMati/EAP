@@ -1,5 +1,6 @@
 """Main address parser — orchestrates NER, landmark matching, and geocoding."""
 
+import re
 from dataclasses import dataclass, field
 from typing import Optional
 
@@ -110,11 +111,27 @@ class EthiopianAddressParser:
         landmark_queries = self._build_landmark_queries(address, ner_result)
 
         # Step 3: Match against landmark database
-        # Run ALL queries, collect ALL candidates, then pick the best
         all_candidates = []
-        for query in landmark_queries:
-            matches = self.landmark_index.match(query, top_k=5, threshold=45.0)
-            all_candidates.extend(matches)
+        
+        # Strategy A: Subcity-constrained search (High precision)
+        if result.subcity:
+            for query in landmark_queries:
+                matches = self.landmark_index.match(
+                    query, top_k=5, threshold=50.0, subcity=result.subcity
+                )
+                all_candidates.extend(matches)
+                
+        # Strategy B: Global search if no good candidates found yet or no subcity
+        best_so_far = max((c.score for c in all_candidates), default=0.0)
+        if best_so_far < 70.0:
+            for query in landmark_queries:
+                matches = self.landmark_index.match(query, top_k=5, threshold=45.0)
+                # Boost results that happen to be in the correct subcity
+                if result.subcity:
+                    for m in matches:
+                        if m.landmark.subcity and m.landmark.subcity.lower() == result.subcity.lower():
+                            m.score = min(100.0, m.score + 15.0)
+                all_candidates.extend(matches)
 
         # Semantic matches must not override decent fuzzy/exact matches
         best_fuzzy = max(
@@ -127,13 +144,6 @@ class EthiopianAddressParser:
                 if c.method == "semantic":
                     c.score = min(c.score, best_fuzzy - 5.0)
 
-        # Boost matches in the correct subcity
-        if result.subcity:
-            for candidate in all_candidates:
-                if candidate.landmark.subcity and \
-                   candidate.landmark.subcity.lower() == result.subcity.lower():
-                    candidate.score = min(100.0, candidate.score + 10.0)
-
         # Deduplicate — keep highest score per landmark
         seen: dict[str, MatchResult] = {}
         for c in all_candidates:
@@ -144,7 +154,7 @@ class EthiopianAddressParser:
         best_match = unique_candidates[0] if unique_candidates else None
 
         # Step 4: Populate result
-        if best_match and best_match.score >= 50.0:
+        if best_match and best_match.score >= 45.0:
             lm = best_match.landmark
             result.landmark_name = lm.name
             result.landmark_amharic = lm.amharic
@@ -165,9 +175,16 @@ class EthiopianAddressParser:
     def _build_landmark_queries(self, text: str, ner_result: NERResult) -> list[str]:
         """Build a list of strings to search the landmark database with."""
         queries = []
+        
+        # Identified subcities to filter out from landmark queries
+        # Use the actual text that matched the subcity to be more precise
+        subcity_matches = {ent.text.lower() for ent in ner_result.entities if ent.label == "SUBCITY"}
 
         # 1. NER-extracted landmarks (highest priority)
         for lm_text in ner_result.landmarks:
+            # Skip if the extracted landmark IS just a subcity name match
+            if lm_text.lower() in subcity_matches:
+                continue
             queries.append(lm_text)
 
         # 2. Text with subcity/direction/woreda removed
@@ -181,19 +198,45 @@ class EthiopianAddressParser:
         for start, end in entity_spans:
             if start >= 0 and end > start:
                 remaining = remaining[:start] + " " + remaining[end:]
+        
+        # Also aggressively remove subcity names that might not have been caught in spans
+        for sc in subcity_matches:
+            remaining = re.sub(rf"\b{re.escape(sc)}\b", "", remaining, flags=re.IGNORECASE)
+            
         remaining = " ".join(remaining.split()).strip()
-        if remaining and remaining != text:
+        # Clean up common noisy separators and words
+        remaining = re.sub(r"[/,|;!\n]+", " ", remaining)
+        remaining = re.sub(r"\b(subcity|sub city|kifle ketema|ህንፃ|building|ground floor)\b", "", remaining, flags=re.IGNORECASE)
+        remaining = " ".join(remaining.split()).strip()
+
+        if remaining and len(remaining) >= 3:
             queries.append(remaining)
 
-        # 3. Full text (lowest priority)
-        queries.append(text)
+        # 3. Chunks from the remaining text
+        chunks = [c.strip() for c in re.split(r"\s+", remaining) if len(c.strip()) >= 4]
+        if chunks:
+            # Add some multi-word chunks if possible
+            for i in range(len(chunks) - 1):
+                queries.append(f"{chunks[i]} {chunks[i+1]}")
 
-        # 4. Transliterated form if Ethiopic
-        script = detect_script(text)
+        # 4. Transliterated form of the cleaned text
+        script = detect_script(remaining)
         if script in ("ETHIOPIC", "MIXED"):
-            queries.append(transliterate_to_latin(text))
+            queries.append(transliterate_to_latin(remaining))
 
-        return [q for q in queries if q.strip()]
+        # Filter out duplicates and very short queries
+        seen = set()
+        final_queries = []
+        for q in queries:
+            q_clean = q.lower().strip()
+            if q_clean and q_clean not in seen and len(q_clean) >= 3:
+                # Still skip if it's a subcity name
+                if q_clean in subcity_matches:
+                    continue
+                final_queries.append(q)
+                seen.add(q_clean)
+
+        return final_queries
 
     def _calculate_confidence(self, result: ParsedAddress) -> tuple[float, dict]:
         """Calculate overall confidence score (0-100)."""
