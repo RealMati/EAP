@@ -136,9 +136,15 @@ class RuleBasedNER:
         # Basic Landmark Extraction (Fallback for rule-based)
         # Split by common delimiters and treat remaining parts as landmark candidates
         noise_words = {
-            "sub city", "subcity", "sub-city", "kifle ketema", "ክፍለ ከተማ",
-            "woreda", "wereda", "ወረዳ", "ወሬዳ", "ground floor", "ህንፃ", "building",
-            "house", "ቤት", "አካባቢ", "area", "near", "opposite", "behind", "front",
+            "sub city", "subcity", "sub-city", "kifle ketema", "ክፍለ ከተማ", "k/ketema",
+            "woreda", "wereda", "ወረዳ", "ወሬዳ", "w/da", "w/",
+            "kebele", "ቀበሌ", "k/le", "k/",
+            "ground floor", "ህንፃ", "ህንጻ", "building", "bldg", "complex",
+            "house", "ቤት", "bet", "sefer", "ሰፈር", "mender", "መንደር",
+            "area", "አካባቢ", "akababi", "near", "opposite", "behind", "front",
+            "street", "road", "መንገድ", "ጎዳና", "st", "rd",
+            "city", "ከተማ", "addis ababa", "addis", "አዲስ አበባ",
+            "floor", "1st", "2nd", "3rd", "level", "room", "office",
         }
         
         # Remove entities already found (subcity, direction, woreda)

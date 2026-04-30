@@ -206,7 +206,16 @@ class EthiopianAddressParser:
         remaining = " ".join(remaining.split()).strip()
         # Clean up common noisy separators and words
         remaining = re.sub(r"[/,|;!\n]+", " ", remaining)
-        remaining = re.sub(r"\b(subcity|sub city|kifle ketema|ህንፃ|building|ground floor)\b", "", remaining, flags=re.IGNORECASE)
+        
+        # Comprehensive noise word removal pattern
+        noise_pattern = (
+            r"\b(subcity|sub city|sub-city|kifle ketema|k/ketema|ክፍለ ከተማ|"
+            r"woreda|wereda|w/da|w/|ወረዳ|ወሬዳ|kebele|k/le|k/|ቀበሌ|"
+            r"building|bldg|complex|ህንፃ|ህንጻ|ground floor|floor|1st|2nd|3rd|level|"
+            r"house|bet|ቤት|sefer|ሰፈር|mender|መንደር|area|akababi|አካባቢ|"
+            r"street|road|st|rd|መንገድ|ጎዳና|city|ከተማ|addis ababa|addis|አዲስ አበባ)\b"
+        )
+        remaining = re.sub(noise_pattern, "", remaining, flags=re.IGNORECASE)
         remaining = " ".join(remaining.split()).strip()
 
         if remaining and len(remaining) >= 3:
