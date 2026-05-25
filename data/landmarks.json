@@ -13,8 +13,8 @@
       ],
       "category": "commercial",
       "subcity": "Bole",
-      "lat": 9.0054,
-      "lng": 38.7636
+      "lat": 8.9974843,
+      "lng": 38.7869305
     },
     {
       "id": 2,
@@ -108,8 +108,8 @@
       ],
       "category": "commercial",
       "subcity": "Bole",
-      "lat": 9.0145,
-      "lng": 38.7727
+      "lat": 9.004953,
+      "lng": 38.7678519
     },
     {
       "id": 8,
@@ -123,9 +123,9 @@
         "big market"
       ],
       "category": "commercial",
-      "subcity": "Kolfe Keranio",
-      "lat": 9.0354,
-      "lng": 38.735
+      "subcity": "Addis Ketema",
+      "lat": 9.0337594,
+      "lng": 38.7312293
     },
     {
       "id": 9,
@@ -141,8 +141,8 @@
       ],
       "category": "area",
       "subcity": "Yeka",
-      "lat": 9.039,
-      "lng": 38.828
+      "lat": 9.0211208,
+      "lng": 38.872594
     },
     {
       "id": 10,
@@ -157,8 +157,8 @@
       ],
       "category": "area",
       "subcity": "Bole",
-      "lat": 9.0145,
-      "lng": 38.8089
+      "lat": 8.9947353,
+      "lng": 38.8134417
     },
     {
       "id": 11,
@@ -203,8 +203,8 @@
       ],
       "category": "area",
       "subcity": "Arada",
-      "lat": 9.0306,
-      "lng": 38.7512
+      "lat": 9.0345896,
+      "lng": 38.7549398
     },
     {
       "id": 14,
@@ -219,8 +219,8 @@
       ],
       "category": "area",
       "subcity": "Kirkos",
-      "lat": 9.0156,
-      "lng": 38.7678
+      "lat": 9.0159904,
+      "lng": 38.7721637
     },
     {
       "id": 15,
@@ -234,8 +234,8 @@
       ],
       "category": "government",
       "subcity": "Arada",
-      "lat": 9.0267,
-      "lng": 38.7612
+      "lat": 9.028218,
+      "lng": 38.7692736
     },
     {
       "id": 16,
@@ -266,8 +266,8 @@
       ],
       "category": "religious",
       "subcity": "Arada",
-      "lat": 9.0234,
-      "lng": 38.7589
+      "lat": 9.0308015,
+      "lng": 38.7664909
     },
     {
       "id": 18,
@@ -387,8 +387,8 @@
       ],
       "category": "area",
       "subcity": "Bole",
-      "lat": 9.0078,
-      "lng": 38.7745
+      "lat": 9.0103987,
+      "lng": 38.7688049
     },
     {
       "id": 26,
@@ -402,8 +402,8 @@
       ],
       "category": "area",
       "subcity": "Bole",
-      "lat": 8.9923,
-      "lng": 38.7812
+      "lat": 9.0017554,
+      "lng": 38.7672555
     },
     {
       "id": 27,
@@ -418,8 +418,8 @@
       ],
       "category": "area",
       "subcity": "Nifas Silk-Lafto",
-      "lat": 8.9567,
-      "lng": 38.7289
+      "lat": 8.9537651,
+      "lng": 38.6979529
     },
     {
       "id": 28,
@@ -434,8 +434,8 @@
       ],
       "category": "area",
       "subcity": "Yeka",
-      "lat": 9.0512,
-      "lng": 38.8512
+      "lat": 9.0211836,
+      "lng": 38.8717333
     },
     {
       "id": 29,
@@ -560,8 +560,8 @@
       ],
       "category": "medical",
       "subcity": "Gullele",
-      "lat": 9.0467,
-      "lng": 38.7534
+      "lat": 9.0113652,
+      "lng": 38.7229117
     },
     {
       "id": 37,
@@ -590,8 +590,8 @@
       ],
       "category": "area",
       "subcity": "Yeka",
-      "lat": 9.0289,
-      "lng": 38.8123
+      "lat": 9.0253421,
+      "lng": 38.8251916
     },
     {
       "id": 39,
@@ -605,8 +605,8 @@
       ],
       "category": "area",
       "subcity": "Yeka",
-      "lat": 9.0345,
-      "lng": 38.8234
+      "lat": 9.0297042,
+      "lng": 38.836729
     },
     {
       "id": 40,
@@ -621,8 +621,8 @@
       ],
       "category": "area",
       "subcity": "Gullele",
-      "lat": 9.0789,
-      "lng": 38.7623
+      "lat": 9.1080861,
+      "lng": 38.8193556
     },
     {
       "id": 41,
@@ -667,8 +667,8 @@
       ],
       "category": "area",
       "subcity": "Akaky Kaliti",
-      "lat": 8.9123,
-      "lng": 38.7823
+      "lat": 8.9379944,
+      "lng": 38.7630345
     },
     {
       "id": 44,
@@ -683,8 +683,8 @@
       ],
       "category": "area",
       "subcity": "Nifas Silk-Lafto",
-      "lat": 8.9712,
-      "lng": 38.7534
+      "lat": 8.9519783,
+      "lng": 38.7634073
     },
     {
       "id": 45,
@@ -699,8 +699,8 @@
       ],
       "category": "area",
       "subcity": "Nifas Silk-Lafto",
-      "lat": 8.9634,
-      "lng": 38.7378
+      "lat": 8.973874,
+      "lng": 38.7307792
     },
     {
       "id": 46,
@@ -714,8 +714,8 @@
       ],
       "category": "area",
       "subcity": "Lemi Kura",
-      "lat": 9.0489,
-      "lng": 38.8389
+      "lat": 9.004015,
+      "lng": 38.8519977
     },
     {
       "id": 47,
@@ -744,8 +744,8 @@
       ],
       "category": "area",
       "subcity": "Bole",
-      "lat": 9.0234,
-      "lng": 38.8023
+      "lat": 9.0189315,
+      "lng": 38.8201425
     },
     {
       "id": 49,
@@ -759,8 +759,8 @@
       ],
       "category": "area",
       "subcity": "Bole",
-      "lat": 8.9423,
-      "lng": 38.7912
+      "lat": 8.948586,
+      "lng": 38.7853078
     },
     {
       "id": 50,
@@ -774,8 +774,8 @@
       ],
       "category": "area",
       "subcity": "Akaky Kaliti",
-      "lat": 8.9034,
-      "lng": 38.8123
+      "lat": 8.85,
+      "lng": 38.81666
     },
     {
       "id": 51,
@@ -789,8 +789,8 @@
       ],
       "category": "area",
       "subcity": "Bole",
-      "lat": 9.0123,
-      "lng": 38.7734
+      "lat": 8.9946542,
+      "lng": 38.7740953
     },
     {
       "id": 52,
@@ -834,8 +834,8 @@
       ],
       "category": "area",
       "subcity": "Bole",
-      "lat": 9.0156,
-      "lng": 38.7689
+      "lat": 8.9925223,
+      "lng": 38.7394551
     },
     {
       "id": 55,
@@ -23051,8 +23051,8 @@
       ],
       "category": "transport",
       "subcity": "Bole",
-      "lat": 8.953093,
-      "lng": 38.786696
+      "lat": 8.9796529,
+      "lng": 38.7732925
     },
     {
       "id": 2163,
@@ -26511,8 +26511,8 @@
       "aliases": [],
       "category": "hospitality",
       "subcity": "Yeka",
-      "lat": 9.031156,
-      "lng": 38.799987
+      "lat": 9.0385404,
+      "lng": 38.8030878
     },
     {
       "id": 2474,
@@ -50596,8 +50596,8 @@
       "aliases": [],
       "category": "transport",
       "subcity": "Yeka",
-      "lat": 9.022596,
-      "lng": 38.799845
+      "lat": 9.0322793,
+      "lng": 38.7645457
     },
     {
       "id": 5482,
@@ -50636,8 +50636,8 @@
       "aliases": [],
       "category": "transport",
       "subcity": "Kirkos",
-      "lat": 9.011642,
-      "lng": 38.760216
+      "lat": 9.0359075,
+      "lng": 38.762876
     },
     {
       "id": 5486,
@@ -57704,8 +57704,8 @@
       "aliases": [],
       "category": "other",
       "subcity": "Bole",
-      "lat": 8.95172,
-      "lng": 38.786139
+      "lat": 8.9483906,
+      "lng": 38.7823623
     },
     {
       "id": 6137,
@@ -65773,8 +65773,8 @@
       "aliases": [],
       "category": "other",
       "subcity": "Nifas Silk-Lafto",
-      "lat": 8.993259,
-      "lng": 38.727057
+      "lat": 8.9887068,
+      "lng": 38.7231184
     },
     {
       "id": 7411,
@@ -69838,8 +69838,8 @@
       "aliases": [],
       "category": "other",
       "subcity": "Bole",
-      "lat": 9.013603,
-      "lng": 38.833037
+      "lat": 9.0102828,
+      "lng": 38.8473344
     },
     {
       "id": 8149,
@@ -76962,8 +76962,8 @@
       "aliases": [],
       "category": "other",
       "subcity": "Bole",
-      "lat": 9.00756,
-      "lng": 38.818859
+      "lat": 9.0106341,
+      "lng": 38.8210954
     },
     {
       "id": 9467,
