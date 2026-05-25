@@ -148,21 +148,24 @@ class LandmarkIndex:
             if latin:
                 query_forms.append(latin)
 
+        SUBCITY_MISMATCH_PENALTY = 20.0
+
         # 1. Exact match
         for qf in query_forms:
             if qf in self._form_to_landmark:
                 lm = self._form_to_landmark[qf]
-                # Filter by subcity if provided
+                score = 100.0
                 if subcity and lm.subcity and lm.subcity.lower() != subcity.lower():
-                    continue
+                    score -= SUBCITY_MISMATCH_PENALTY
                 if lm.name not in seen_landmarks:
                     seen_landmarks.add(lm.name)
                     results.append(MatchResult(
-                        landmark=lm, score=100.0,
+                        landmark=lm, score=score,
                         matched_form=qf, method="exact"
                     ))
 
-        if len(results) >= top_k:
+        # Only skip fuzzy/semantic if we already have top_k strong same-subcity exact matches
+        if len(results) >= top_k and all(r.score >= 100.0 for r in results):
             return results[:top_k]
 
         # 2. Fuzzy match using rapidfuzz
@@ -171,19 +174,16 @@ class LandmarkIndex:
                 qf,
                 self._all_search_forms,
                 scorer=fuzz.token_sort_ratio,
-                limit=top_k * 5, # Increase limit to allow for subcity filtering
+                limit=top_k * 5,
             )
             for match_str, score, _ in matches:
                 if score < threshold:
                     continue
                 lm = self._form_to_landmark[match_str]
-                
-                # Filter by subcity if provided
                 if subcity and lm.subcity and lm.subcity.lower() != subcity.lower():
-                    # Instead of strict filter, we could apply a penalty, but let's start with strict
-                    # for high-confidence subcity detection
+                    score -= SUBCITY_MISMATCH_PENALTY
+                if score < threshold:
                     continue
-                    
                 if lm.name not in seen_landmarks:
                     seen_landmarks.add(lm.name)
                     results.append(MatchResult(
@@ -198,10 +198,8 @@ class LandmarkIndex:
             # Cap semantic scores at 85 so they can't dominate good fuzzy matches
             for lm, score in semantic_results:
                 score = min(score, 85.0)
-                
                 if subcity and lm.subcity and lm.subcity.lower() != subcity.lower():
-                    continue
-                    
+                    score -= SUBCITY_MISMATCH_PENALTY
                 if lm.name not in seen_landmarks:
                     seen_landmarks.add(lm.name)
                     results.append(MatchResult(
