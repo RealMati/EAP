@@ -24,9 +24,10 @@
         "bole medhanealem",
         "medhanealem",
         "medhane alem",
-        "medhanialem",
+        "medhanealem",
         "bole church",
-        "medhanealem church"
+        "medhanealem church",
+        "ቦሌ መድሃኔዓለም ቤተክርስቲያን"
       ],
       "category": "religious",
       "subcity": "Bole",
@@ -134,10 +135,7 @@
       "aliases": [
         "cmc",
         "c.m.c",
-        "cmc area",
-        "cmc michael",
-        "cmcmichael",
-        "st michael cmc"
+        "cmc area"
       ],
       "category": "area",
       "subcity": "Yeka",
@@ -866,7 +864,7 @@
     },
     {
       "id": 57,
-      "name": "Zemen Bank Bole MedhaneAlem Branch",
+      "name": "Zemen Bank Bole Medhanealem Branch",
       "amharic": "ዘመን ባንክ ቦሌ መድኃኔዓለም ቅ/ፍ",
       "aliases": [],
       "category": "financial",
@@ -2303,7 +2301,7 @@
       "name": "ጎላ ሚካኤል አካባቢ",
       "amharic": "ጎላ ሚካኤል አካባቢ",
       "aliases": [
-        "Golla Mikael"
+        "Golla Michael"
       ],
       "category": "other",
       "subcity": "Lideta",
@@ -2455,7 +2453,7 @@
       "name": "መድሃኒዓለም",
       "amharic": "መድሃኒዓለም",
       "aliases": [
-        "Medhanialem"
+        "Medhanealem"
       ],
       "category": "other",
       "subcity": "Gullele",
@@ -2835,7 +2833,7 @@
       "name": "ቦሌ ሚካኤል አካባቢ",
       "amharic": "ቦሌ ሚካኤል አካባቢ",
       "aliases": [
-        "Bole Mikael"
+        "Bole Michael"
       ],
       "category": "other",
       "subcity": "Bole",
@@ -2868,11 +2866,9 @@
     },
     {
       "id": 234,
-      "name": "ኦሎምፒያ",
+      "name": "Olympia",
       "amharic": "ኦሎምፒያ",
-      "aliases": [
-        "Olympia"
-      ],
+      "aliases": [],
       "category": "other",
       "subcity": "Kirkos",
       "lat": 9.003915,
@@ -3148,7 +3144,7 @@
     },
     {
       "id": 258,
-      "name": "Medhanialem Area Police",
+      "name": "Medhanealem Area Police",
       "amharic": "መድኃኒዓለም አካባቢ ፖሊስ ጣቢያ",
       "aliases": [],
       "category": "government",
@@ -4255,18 +4251,6 @@
       "lng": 38.764021
     },
     {
-      "id": 366,
-      "name": "ካዛንቺስ",
-      "amharic": "ካዛንቺስ",
-      "aliases": [
-        "Kazanchis"
-      ],
-      "category": "other",
-      "subcity": "Kirkos",
-      "lat": 9.015928,
-      "lng": 38.771222
-    },
-    {
       "id": 367,
       "name": "መናሃሪያ ካዛንቺስ Menahereya Kazanchis",
       "amharic": "መናሃሪያ ካዛንቺስ",
@@ -4856,7 +4840,7 @@
     },
     {
       "id": 425,
-      "name": "Addisu Mikael Area Police",
+      "name": "Addisu Michael Area Police",
       "amharic": "አዲሱ ሚካኤል አካባቢ ፖሊስ",
       "aliases": [],
       "category": "government",
@@ -5530,7 +5514,7 @@
     },
     {
       "id": 491,
-      "name": "St.Mickael Church",
+      "name": "St.Michael Church",
       "amharic": "ቅዱስ ሚካኤል ቤተ ክርስቲያን",
       "aliases": [],
       "category": "religious",
@@ -5875,16 +5859,6 @@
       "lng": 38.758508
     },
     {
-      "id": 525,
-      "name": "Cherkos to Mexico Station",
-      "amharic": "ከጨርቆስ ሜክሲኮ ታክሲ ተራ",
-      "aliases": [],
-      "category": "transport",
-      "subcity": "Kirkos",
-      "lat": 9.00417,
-      "lng": 38.753251
-    },
-    {
       "id": 526,
       "name": "Hanna Building Materials Shop",
       "amharic": "ሃና ህንፃ መሳሪያ መደብር",
@@ -5943,16 +5917,6 @@
       "subcity": "Kirkos",
       "lat": 9.003786,
       "lng": 38.754109
-    },
-    {
-      "id": 532,
-      "name": "Cherkos to Merkato Station",
-      "amharic": "ከጨርቆስ መርካቶ ታክሲ ተራ",
-      "aliases": [],
-      "category": "transport",
-      "subcity": "Kirkos",
-      "lat": 9.004269,
-      "lng": 38.753186
     },
     {
       "id": 533,
@@ -8348,7 +8312,7 @@
     },
     {
       "id": 764,
-      "name": "`Alem Gena Mika'El Bete Kristiyan",
+      "name": "`Alem Gena Michael Bete Kristiyan",
       "amharic": "ዓለምገና ሚካኤል ቤተክርስቲያን",
       "aliases": [],
       "category": "religious",
@@ -12664,7 +12628,7 @@
     },
     {
       "id": 1187,
-      "name": "Medhanialem Church - Akaki Kality",
+      "name": "Medhanealem Church - Akaki Kality",
       "amharic": "መድኃኔዓለም ቤተክርስቲያን - አቃቂ ቃሊቲ",
       "aliases": [],
       "category": "religious",
@@ -14633,7 +14597,7 @@
       "name": "ፉሪ ቅዱስ ሚካኤል ቤተ ክርስቲያን",
       "amharic": "ፉሪ ቅዱስ ሚካኤል ቤተ ክርስቲያን",
       "aliases": [
-        "Furi St Mikael Orthodox church"
+        "Furi St Michael Orthodox church"
       ],
       "category": "religious",
       "subcity": "Nifas Silk-Lafto",
@@ -15130,7 +15094,7 @@
     },
     {
       "id": 1430,
-      "name": "Commercial Bank of Ethiopia (Jemo Mikael Branch)",
+      "name": "Commercial Bank of Ethiopia (Jemo Michael Branch)",
       "amharic": "የኢትዮጵያ ንግድ ባንክ (ጀሞ ሚካኤል ቅርንጫፍ)",
       "aliases": [],
       "category": "financial",
@@ -15140,7 +15104,7 @@
     },
     {
       "id": 1431,
-      "name": "Dashen Bank (Mekanisa Mikael Beranch)",
+      "name": "Dashen Bank (Mekanisa Michael Beranch)",
       "amharic": "ዳሽን ባንክ",
       "aliases": [],
       "category": "financial",
@@ -15475,7 +15439,7 @@
       "name": "አቢሲንያ ባንክ - ቦሌ መድኃኔዓለም ቅርንጫፍ",
       "amharic": "አቢሲንያ ባንክ - ቦሌ መድኀኔዓለም ቅርንጫፍ",
       "aliases": [
-        "Bank of Abyssinia - Bole MedhaneAlem Branch"
+        "Bank of Abyssinia - Bole Medhanealem Branch"
       ],
       "category": "financial",
       "subcity": "Bole",
@@ -15578,7 +15542,7 @@
     },
     {
       "id": 1474,
-      "name": "United Bank (Bole Medhanialem Branch)",
+      "name": "United Bank (Bole Medhanealem Branch)",
       "amharic": "ዩናይትድ ባንክ (ቦሌ መድኃኔዓለም ቅርንጫፍ)",
       "aliases": [],
       "category": "financial",
@@ -16989,16 +16953,6 @@
       "lng": 38.747335
     },
     {
-      "id": 1607,
-      "name": "Bole and 4 kilo Taxi Station",
-      "amharic": "የቦሌና አራት ኪሎ ታክሲ ተራ",
-      "aliases": [],
-      "category": "transport",
-      "subcity": "Kirkos",
-      "lat": 9.010431,
-      "lng": 38.747858
-    },
-    {
       "id": 1608,
       "name": "Ethio Telecom Office",
       "amharic": "የኢትዮ ቴሌኮም ቢሮ",
@@ -17100,7 +17054,7 @@
     },
     {
       "id": 1618,
-      "name": "St. Medhanialem Church",
+      "name": "St. Medhanealem Church",
       "amharic": "ቅዱስ መድኃኔዓለም ቤተክርስቲያን",
       "aliases": [],
       "category": "religious",
@@ -17983,18 +17937,6 @@
       "lng": 38.794072
     },
     {
-      "id": 1702,
-      "name": "ታክሲ መሳፈሪያ",
-      "amharic": "ታክሲ መሳፈሪያ",
-      "aliases": [
-        "Medhanialem Taxi stop"
-      ],
-      "category": "other",
-      "subcity": "Bole",
-      "lat": 8.997409,
-      "lng": 38.787191
-    },
-    {
       "id": 1703,
       "name": "ኢትዮ ቴሌ ኮሙኒኬሽን",
       "amharic": "ኢትዮ ቴሌ ኮሙኒኬሽን",
@@ -18017,18 +17959,6 @@
       "subcity": "Bole",
       "lat": 9.004502,
       "lng": 38.789462
-    },
-    {
-      "id": 1705,
-      "name": "ታክሲ መጫኛ",
-      "amharic": "ታክሲ መጫኛ",
-      "aliases": [
-        "Taxi"
-      ],
-      "category": "other",
-      "subcity": "Bole",
-      "lat": 8.998635,
-      "lng": 38.785997
     },
     {
       "id": 1706,
@@ -18417,7 +18347,7 @@
       "name": "መዳኒያለም ኮንዶሚንየም",
       "amharic": "መዳኒያለም ኮንዶሚንየም",
       "aliases": [
-        "Medhanialem condominium"
+        "Medhanealem condominium"
       ],
       "category": "hospitality",
       "subcity": "Gullele",
@@ -19077,18 +19007,6 @@
       "subcity": "Bole",
       "lat": 8.99995,
       "lng": 38.787812
-    },
-    {
-      "id": 1801,
-      "name": "ቦሌ ታክሲ",
-      "amharic": "ካዛንቺስ",
-      "aliases": [
-        "Taxi to Bole"
-      ],
-      "category": "other",
-      "subcity": "Kirkos",
-      "lat": 9.015392,
-      "lng": 38.771221
     },
     {
       "id": 1802,
@@ -23362,7 +23280,7 @@
     },
     {
       "id": 2191,
-      "name": "medhanialem church",
+      "name": "medhanealem church",
       "amharic": "መድኃኔዓለም ቤተክርስቲያን",
       "aliases": [],
       "category": "other",
@@ -23685,18 +23603,6 @@
       "subcity": "Yeka",
       "lat": 9.026991,
       "lng": 38.775032
-    },
-    {
-      "id": 2221,
-      "name": "ኣዋሬ ታክሲ",
-      "amharic": "አዋሬ ታክሲ",
-      "aliases": [
-        "Taxi to Aware"
-      ],
-      "category": "other",
-      "subcity": "Kirkos",
-      "lat": 9.015915,
-      "lng": 38.772372
     },
     {
       "id": 2222,
@@ -26095,7 +26001,7 @@
       "name": "ሽንቁር ሚካኤል ቤ/ክርሥቲያን",
       "amharic": "ሽንቁር ሚካኤል ቤ/ክርሥቲያን",
       "aliases": [
-        "Shinkuru Micheal"
+        "Shinkuru Michael"
       ],
       "category": "religious",
       "subcity": "",
@@ -26572,7 +26478,7 @@
     },
     {
       "id": 2479,
-      "name": "Commercial Bank of Ethiopia (Bole Medhanialem Branch)",
+      "name": "Commercial Bank of Ethiopia (Bole Medhanealem Branch)",
       "amharic": "የኢትዮጵያ ንግድ ባንክ (ቦሌ መድኃኔዓለም ቅርንጫፍ)",
       "aliases": [
         "comercial bank of ethiopia bole branch"
@@ -26733,7 +26639,7 @@
       "name": "ጀሞ መድኀኔዓለም  ጥምቀተ ባህር",
       "amharic": "ጀሞ መድኀኔዓለም  ጥምቀተ ባህር",
       "aliases": [
-        "Lebu Medhanialem Timket bahir"
+        "Lebu Medhanealem Timket bahir"
       ],
       "category": "religious",
       "subcity": "Nifas Silk-Lafto",
@@ -33878,7 +33784,7 @@
     },
     {
       "id": 3871,
-      "name": "Abay Bank (Bole Medhanialem Branch)",
+      "name": "Abay Bank (Bole Medhanealem Branch)",
       "amharic": "ዓባይ ባንክ (ቦሌ መድኃኔዓለም ቅርንጫፍ)",
       "aliases": [],
       "category": "financial",
@@ -33898,7 +33804,7 @@
     },
     {
       "id": 3873,
-      "name": "Bunna International Bank (Bole Medhanialem Branch)",
+      "name": "Bunna International Bank (Bole Medhanealem Branch)",
       "amharic": "ቡና ኢንተርናሽናል ባንክ (ቦሌ መድኃኔዓለም ቅርንጫፍ)",
       "aliases": [],
       "category": "financial",
@@ -33908,7 +33814,7 @@
     },
     {
       "id": 3874,
-      "name": "Bunna International Bank (Tele Medhanialem Branch)",
+      "name": "Bunna International Bank (Tele Medhanealem Branch)",
       "amharic": "ቡና ኢንተርናሽናል ባንክ (ቴሌ መድኃኔዓለም ቅርንጫፍ)",
       "aliases": [],
       "category": "financial",
@@ -33948,7 +33854,7 @@
     },
     {
       "id": 3878,
-      "name": "Oromia International Bank (Tele Medhanialem Branch)",
+      "name": "Oromia International Bank (Tele Medhanealem Branch)",
       "amharic": "ኦሮሚያ ኢንተርናሽናል ባንክ (ቴሌ መድኃኔዓለም ቅርንጫፍ)",
       "aliases": [],
       "category": "financial",
@@ -33958,7 +33864,7 @@
     },
     {
       "id": 3879,
-      "name": "Nib International Bank (Bole Medhanialem Branch)",
+      "name": "Nib International Bank (Bole Medhanealem Branch)",
       "amharic": "ንብ ኢንተርናሽናል ባንክ (ቦሌ መድኃኔዓለም ቅርንጫፍ)",
       "aliases": [],
       "category": "financial",
@@ -33968,7 +33874,7 @@
     },
     {
       "id": 3880,
-      "name": "Wegagen Bank (Bole Medhanialem Branch)",
+      "name": "Wegagen Bank (Bole Medhanealem Branch)",
       "amharic": "ወጋገን ባንክ (ቦሌ መድኃኔዓለም ቅርንጫፍ)",
       "aliases": [],
       "category": "financial",
@@ -34018,7 +33924,7 @@
     },
     {
       "id": 3885,
-      "name": "Dashen Bank (Tele Medhanialem Branch)",
+      "name": "Dashen Bank (Tele Medhanealem Branch)",
       "amharic": "ዳሽን ባንክ (ቴሌ መድኃኔዓለም ቅርንጫፍ)",
       "aliases": [],
       "category": "financial",
@@ -34048,7 +33954,7 @@
     },
     {
       "id": 3888,
-      "name": "Dashen Bank (Bole Medhanialem Branch)",
+      "name": "Dashen Bank (Bole Medhanealem Branch)",
       "amharic": "ዳሽን ባንክ (ቦሌ መድኃኔዓለም ቅርንጫፍ)",
       "aliases": [],
       "category": "financial",
@@ -34188,7 +34094,7 @@
     },
     {
       "id": 3902,
-      "name": "Commercial Bank of Ethiopia (Tele Medhanialem Branch)",
+      "name": "Commercial Bank of Ethiopia (Tele Medhanealem Branch)",
       "amharic": "የኢትዮጵያ ንግድ ባንክ (ቴሌ መድኃኔዓለም ቅርንጫፍ)",
       "aliases": [],
       "category": "financial",
@@ -34690,7 +34596,7 @@
     },
     {
       "id": 3950,
-      "name": "Medhanialem Pharmacy",
+      "name": "Medhanealem Pharmacy",
       "amharic": "መድኃኔዓለም ፋርማሲ",
       "aliases": [],
       "category": "healthcare",
@@ -38087,56 +37993,6 @@
       "lng": 38.752062
     },
     {
-      "id": 4278,
-      "name": "taxi stop",
-      "amharic": "የታክሲ መቆሚያ",
-      "aliases": [],
-      "category": "transport",
-      "subcity": "Arada",
-      "lat": 9.035252,
-      "lng": 38.752658
-    },
-    {
-      "id": 4279,
-      "name": "Shola/Ketechene mini bus taxi",
-      "amharic": "ወደ ሾላ/ቀጨኔ ሚኒባስ ታክሲ",
-      "aliases": [],
-      "category": "other",
-      "subcity": "Arada",
-      "lat": 9.038809,
-      "lng": 38.751704
-    },
-    {
-      "id": 4280,
-      "name": "Addisu Gebeya mini bus Taxi",
-      "amharic": "አዲሱ ገበያ ሚኒባስ ታክሲ",
-      "aliases": [],
-      "category": "other",
-      "subcity": "Arada",
-      "lat": 9.038988,
-      "lng": 38.751613
-    },
-    {
-      "id": 4281,
-      "name": "Piassa to Saris taxi",
-      "amharic": "ከፒያሳ ወደ ሳሪስ ታክሲ",
-      "aliases": [],
-      "category": "transport",
-      "subcity": "Arada",
-      "lat": 9.0352,
-      "lng": 38.75221
-    },
-    {
-      "id": 4282,
-      "name": "Piassa to kaliti taxi",
-      "amharic": "ከፒያሳ ወደ ቃሊቲ ታክሲ",
-      "aliases": [],
-      "category": "transport",
-      "subcity": "Arada",
-      "lat": 9.035046,
-      "lng": 38.752146
-    },
-    {
       "id": 4283,
       "name": "Mexico, kera Taxi stop",
       "amharic": "መክሲኮ፣ ቄራ የታክሲ መቆሚያ",
@@ -38155,16 +38011,6 @@
       "subcity": "Nifas Silk-Lafto",
       "lat": 8.986262,
       "lng": 38.724613
-    },
-    {
-      "id": 4285,
-      "name": "Piassa to Bole Taxi",
-      "amharic": "ከፒያሳ ወደ ቦሌ ታክሲ",
-      "aliases": [],
-      "category": "transport",
-      "subcity": "Arada",
-      "lat": 9.03512,
-      "lng": 38.752168
     },
     {
       "id": 4286,
@@ -38860,7 +38706,7 @@
     },
     {
       "id": 4351,
-      "name": "Bole Medhanialem",
+      "name": "Bole Medhanealem",
       "amharic": "ቦሌ መድኃኔዓለም",
       "aliases": [],
       "category": "other",
@@ -39122,7 +38968,7 @@
     },
     {
       "id": 4378,
-      "name": "St. Micheal Church",
+      "name": "St. Michael Church",
       "amharic": "ቅዱስ ሚካኤል ቤተክርስቲያን",
       "aliases": [],
       "category": "other",
@@ -39364,7 +39210,7 @@
     },
     {
       "id": 4402,
-      "name": "Nebu Mikael",
+      "name": "Nebu Michael",
       "amharic": "ነቡ ሚካኤል",
       "aliases": [],
       "category": "other",
@@ -39814,7 +39660,7 @@
     },
     {
       "id": 4448,
-      "name": "Mickael Bridge",
+      "name": "Michael Bridge",
       "amharic": "ሚካኤል ድልድይ",
       "aliases": [],
       "category": "other",
@@ -39874,7 +39720,7 @@
     },
     {
       "id": 4454,
-      "name": "Bole Mickael",
+      "name": "Bole Michael",
       "amharic": "ቦሌ ሚካኤል",
       "aliases": [],
       "category": "other",
@@ -40034,7 +39880,7 @@
     },
     {
       "id": 4470,
-      "name": "AU (Mikael) Rounrdabout",
+      "name": "AU (Michael) Rounrdabout",
       "amharic": "አፍሪካ ህብረት (ሚካኤል) አደባባይ",
       "aliases": [],
       "category": "other",
@@ -40464,7 +40310,7 @@
     },
     {
       "id": 4513,
-      "name": "Medhanialem",
+      "name": "Medhanealem",
       "amharic": "መድኃኔዓለም",
       "aliases": [],
       "category": "other",
@@ -41026,7 +40872,7 @@
     },
     {
       "id": 4569,
-      "name": "Medhanialem (TOTAL)",
+      "name": "Medhanealem (TOTAL)",
       "amharic": "መድኃኔዓለም",
       "aliases": [],
       "category": "other",
@@ -41156,7 +41002,7 @@
     },
     {
       "id": 4582,
-      "name": "Meksaye Hizunan Medhanialem",
+      "name": "Meksaye Hizunan Medhanealem",
       "amharic": "መክሳይ ህዙናን መድኃኔዓለም",
       "aliases": [],
       "category": "other",
@@ -43412,7 +43258,7 @@
     },
     {
       "id": 4804,
-      "name": "Lafto (Mickael)",
+      "name": "Lafto (Michael)",
       "amharic": "ላፍቶ ሚካኤል",
       "aliases": [],
       "category": "other",
@@ -43642,7 +43488,7 @@
     },
     {
       "id": 4826,
-      "name": "Bole Mickael (2)",
+      "name": "Bole Michael (2)",
       "amharic": "ቦሌ ሚካኤል (2)",
       "aliases": [],
       "category": "other",
@@ -43912,7 +43758,7 @@
     },
     {
       "id": 4853,
-      "name": "Ras Hailu (Medhanialem)",
+      "name": "Ras Hailu (Medhanealem)",
       "amharic": "ራስ ኃይሉ (መድኃኔዓለም)",
       "aliases": [],
       "category": "other",
@@ -45574,7 +45420,7 @@
     },
     {
       "id": 5018,
-      "name": "MedhaneAlem Church",
+      "name": "Medhanealem Church",
       "amharic": "መድኃኔዓለም ቤተክርስቲያን",
       "aliases": [],
       "category": "religious",
@@ -49181,7 +49027,7 @@
       "name": "ደብረ ቀራንዮ መድኃኔዓለም ቤተ ክርስቲያን በ፲፰፻፳፯ ዓ.ም ተመሠረተ",
       "amharic": "ደብረ ቀራንዮ መድኃኔዓለም ቤተ ክርስቲያን በ፲፰፻፳፯ ዓ.ም ተመሠረተ",
       "aliases": [
-        "Keranio Medhanialem Orthodox Church"
+        "Keranio Medhanealem Orthodox Church"
       ],
       "category": "religious",
       "subcity": "Kolfe Keranio",
@@ -49287,7 +49133,7 @@
       "name": "መካኒሳ ደብረ ገነት ቅዱስ ሚካኤል ቤተ ክርስቲያን በ፲፱፻፹፬ ዓ.ም ተመሠረተ",
       "amharic": "መካኒሳ ደብረ ገነት ቅዱስ ሚካኤል ቤተ ክርስቲያን በ፲፱፻፹፬ ዓ.ም ተመሠረተ",
       "aliases": [
-        "St. Mikael church (Mekanisa)"
+        "St. Michael church (Mekanisa)"
       ],
       "category": "religious",
       "subcity": "Nifas Silk-Lafto",
@@ -49361,7 +49207,7 @@
       "name": "ቦሌ ደብረ ምሕረት ቅዱስ ሚካኤል ቤተ ክርስቲያን በ፲፱፻፷፰ ዓ.ም ተመሠረተ",
       "amharic": "ቦሌ ደብረ ምሕረት ቅዱስ ሚካኤል ቤተ ክርስቲያን በ፲፱፻፷፰ ዓ.ም ተመሠረተ",
       "aliases": [
-        "Bole Mikael Orthodox church"
+        "Bole Michael Orthodox church"
       ],
       "category": "religious",
       "subcity": "Bole",
@@ -49545,7 +49391,7 @@
       "name": "ቀጨኔ ደብረ ሰላም መድኃኔ ዓለም ቤተ ክርስቲያን በ፲፱፻፫ ዓ.ም ተመሠረተ",
       "amharic": "ቀጨኔ ደብረ ሰላም መድኃኔ ዓለም ቤተ ክርስቲያን በ፲፱፻፫ ዓ.ም ተመሠረተ",
       "aliases": [
-        "Kechene Medhanialem Orthodox church"
+        "Kechene Medhanealem Orthodox church"
       ],
       "category": "religious",
       "subcity": "Gullele",
@@ -49675,7 +49521,7 @@
       "name": "የጽርሐ ጽዮን ሐዋርያትና ጎላ ቅዱስ ሚካኤል ቤተ ክርስቲያን በ፲፱፻፴፬ ዓ.ም ተመሠረተ",
       "amharic": "የጽርሐ ጽዮን ሐዋርያትና ጎላ ቅዱስ ሚካኤል ቤተ ክርስቲያን በ፲፱፻፴፬ ዓ.ም ተመሠረተ",
       "aliases": [
-        "Gola Mikael church"
+        "Gola Michael church"
       ],
       "category": "religious",
       "subcity": "Lideta",
@@ -49719,7 +49565,7 @@
       "name": "አፍሪካ ኅብረት ደብረ ምሕረት ቅዱስ ሚካኤል ቤተ ክርስቲያን በ፲፱፻፷፱ ዓ.ም ተመሠረተ",
       "amharic": "አፍሪካ ኅብረት ደብረ ምሕረት ቅዱስ ሚካኤል ቤተ ክርስቲያን በ፲፱፻፷፱ ዓ.ም ተመሠረተ",
       "aliases": [
-        "Bulgaria Mikael"
+        "Bulgaria Michael"
       ],
       "category": "religious",
       "subcity": "Kirkos",
@@ -50392,7 +50238,7 @@
       "name": "ቀበና ምስራቀ ፀሐይ መድኃኔዓለም ቤተ ክርስቲያን",
       "amharic": "ቀበና ምስራቀ ፀሐይ መድኃኔዓለም ቤተ ክርስቲያን",
       "aliases": [
-        "Kebena Medhanialem Church"
+        "Kebena Medhanealem Church"
       ],
       "category": "religious",
       "subcity": "Arada",
@@ -51224,7 +51070,7 @@
       "name": "ንቡ ቅዱስ ሚካኤል ቤተ ክርስቲያን",
       "amharic": "ንቡ ቅዱስ ሚካኤል ቤተ ክርስቲያን",
       "aliases": [
-        "Nebu Mikael Orthodox church"
+        "Nebu Michael Orthodox church"
       ],
       "category": "religious",
       "subcity": "Bole",
@@ -51428,7 +51274,7 @@
       "name": "ቅሊንጦ ቅዱስ ሚካኤል ቤተ ክርስቲያን",
       "amharic": "ቅሊንጦ ቅዱስ ሚካኤል ቤተ ክርስቲያን",
       "aliases": [
-        "Kilinto St Mikael Orthodox church"
+        "Kilinto St Michael Orthodox church"
       ],
       "category": "religious",
       "subcity": "Akaky Kaliti",
@@ -54770,16 +54616,6 @@
       "lng": 38.774319
     },
     {
-      "id": 5858,
-      "name": "Taxi to Ambassador",
-      "amharic": "ታክሲ ወደ አምባሳደር",
-      "aliases": [],
-      "category": "transport",
-      "subcity": "Arada",
-      "lat": 9.033309,
-      "lng": 38.761959
-    },
-    {
       "id": 5859,
       "name": "Olive and Bread",
       "amharic": "ኦሊቭ ኤንድ ብሬድ",
@@ -55888,16 +55724,6 @@
       "subcity": "Kolfe Keranio",
       "lat": 9.052696,
       "lng": 38.71717
-    },
-    {
-      "id": 5963,
-      "name": "Taxi station to menharya",
-      "amharic": "ወደ መነሃሪያ ታክሲ ተራ",
-      "aliases": [],
-      "category": "landmark",
-      "subcity": "Kolfe Keranio",
-      "lat": 8.976006,
-      "lng": 38.706061
     },
     {
       "id": 5964,
@@ -57171,7 +56997,7 @@
     },
     {
       "id": 6084,
-      "name": "Bole Mikael",
+      "name": "Bole Michael",
       "amharic": "ቦሌ ሚካኤል",
       "aliases": [],
       "category": "other",
@@ -58561,7 +58387,7 @@
     },
     {
       "id": 6218,
-      "name": "Jemmo Medhanialem",
+      "name": "Jemmo Medhanealem",
       "amharic": "ጀሞ መድኃኒዓለም",
       "aliases": [],
       "category": "other",
@@ -58581,7 +58407,7 @@
     },
     {
       "id": 6220,
-      "name": "Jemmo Mickael",
+      "name": "Jemmo Michael",
       "amharic": "ጀሞ ሚካኤል",
       "aliases": [],
       "category": "other",
@@ -59062,16 +58888,6 @@
       "subcity": "Yeka",
       "lat": 9.033931,
       "lng": 38.82347
-    },
-    {
-      "id": 6268,
-      "name": "Taxi Tera",
-      "amharic": "የታክሲ ተራ",
-      "aliases": [],
-      "category": "other",
-      "subcity": "Bole",
-      "lat": 8.994811,
-      "lng": 38.809217
     },
     {
       "id": 6269,
@@ -60335,7 +60151,7 @@
     },
     {
       "id": 6388,
-      "name": "Kechenie Medhanialem",
+      "name": "Kechenie Medhanealem",
       "amharic": "ቀጨኔ መድኃኒዓለም",
       "aliases": [],
       "category": "other",
@@ -60941,7 +60757,7 @@
     },
     {
       "id": 6448,
-      "name": "Keta Medhanialem",
+      "name": "Keta Medhanealem",
       "amharic": "ኬታ መድኃኒዓለም",
       "aliases": [],
       "category": "other",
@@ -64703,7 +64519,7 @@
     },
     {
       "id": 7123,
-      "name": "Medhanialem Preparatory School",
+      "name": "Medhanealem Preparatory School",
       "amharic": "መድኃኒዓለም የመሰናዶ ት/ቤት",
       "aliases": [],
       "category": "education",
@@ -64713,7 +64529,7 @@
     },
     {
       "id": 7124,
-      "name": "Medhanialem Primary School መድኃኒዓለም የመጀመሪያ ደረጃ ት/ቤት",
+      "name": "Medhanealem Primary School መድኃኒዓለም የመጀመሪያ ደረጃ ት/ቤት",
       "amharic": "መድኃኒዓለም የመጀመሪያ ደረጃ ት/ቤት",
       "aliases": [],
       "category": "education",
@@ -65484,7 +65300,7 @@
     },
     {
       "id": 7364,
-      "name": "St. Mikael Church grave yard",
+      "name": "St. Michael Church grave yard",
       "amharic": "ቅዱስ ዮሴፍ ቤተ ክርስቲያን መቃብር ቦታ",
       "aliases": [
         "St. Joseph Church grave yard"
@@ -67130,7 +66946,7 @@
     {
       "id": 7550,
       "name": "Hilton Addis Ababa",
-      "amharic": "",
+      "amharic": "ሂልተን አዲስ አበባ",
       "aliases": [],
       "category": "hospitality",
       "subcity": "Kirkos",
@@ -67798,7 +67614,7 @@
     {
       "id": 7635,
       "name": "Addis Cardiac Hospital",
-      "amharic": "",
+      "amharic": "አዲስ የልብ ሆስፒታል",
       "aliases": [],
       "category": "healthcare",
       "subcity": "Bole",
@@ -68041,7 +67857,7 @@
     },
     {
       "id": 7678,
-      "name": "Yeka Mikael",
+      "name": "Yeka Michael",
       "amharic": "",
       "aliases": [],
       "category": "religious",
@@ -68439,8 +68255,8 @@
     },
     {
       "id": 7748,
-      "name": "Bole Medhanialem Church",
-      "amharic": "",
+      "name": "Bole Medhanealem Church",
+      "amharic": "ቦሌ መድኃኒዓለም ቤተክርስቲያን",
       "aliases": [],
       "category": "religious",
       "subcity": "Bole",
@@ -71113,7 +70929,7 @@
     },
     {
       "id": 8327,
-      "name": "St.Mikael",
+      "name": "St.Michael",
       "amharic": "ቅዱስ ሚካኤል ቤተ ክርስቲያን",
       "aliases": [],
       "category": "religious",
@@ -72007,7 +71823,7 @@
     },
     {
       "id": 8447,
-      "name": "Medhanialem Building",
+      "name": "Medhanealem Building",
       "amharic": "",
       "aliases": [],
       "category": "other",
@@ -73465,7 +73281,7 @@
     },
     {
       "id": 8631,
-      "name": "St.Mikael BLDG | ቅዱስ ሚካኤል ሕንፃ",
+      "name": "St.Michael BLDG | ቅዱስ ሚካኤል ሕንፃ",
       "amharic": "ቅዱስ ሚካኤል ሕንፃ",
       "aliases": [],
       "category": "other",
@@ -74506,7 +74322,7 @@
     {
       "id": 8742,
       "name": "Dashen Bank HQ",
-      "amharic": "",
+      "amharic": "ዳሽን ባንክ, ዋና መስሪያ ቤት",
       "aliases": [],
       "category": "other",
       "subcity": "Kirkos",
@@ -74770,7 +74586,7 @@
     {
       "id": 8784,
       "name": "St. Marry University",
-      "amharic": "",
+      "amharic": "ቅድስተ ማርያም ዩኒቨርሲቲ",
       "aliases": [],
       "category": "other",
       "subcity": "Lideta",
@@ -75510,7 +75326,7 @@
     {
       "id": 8969,
       "name": "Elily International Hotel",
-      "amharic": "",
+      "amharic": "ኢሊሌ ሆቴል",
       "aliases": [],
       "category": "other",
       "subcity": "Kirkos",
@@ -76324,7 +76140,7 @@
     {
       "id": 9059,
       "name": "Nordic Medical Centre",
-      "amharic": "",
+      "amharic": "ኖርዲክ ሜዲካል ሴንተር",
       "aliases": [],
       "category": "healthcare",
       "subcity": "Bole",
@@ -76384,7 +76200,7 @@
     {
       "id": 9066,
       "name": "Sheraton Addis",
-      "amharic": "",
+      "amharic": "ሸራተን አዲስ ሆቴል",
       "aliases": [],
       "category": "hospitality",
       "subcity": "Kirkos",
@@ -76636,7 +76452,7 @@
     {
       "id": 9418,
       "name": "Embassy of Rwanda",
-      "amharic": "",
+      "amharic": "የሩዋንዳ ኤምባሲ",
       "aliases": [],
       "category": "other",
       "subcity": "Bole",
@@ -80411,7 +80227,7 @@
     },
     {
       "id": 10064,
-      "name": "Kechene Medhanialem higher clinic",
+      "name": "Kechene Medhanealem higher clinic",
       "amharic": "ቀጨኔ መድኃኒዓለም ከፍተኛ ክሊኒክ",
       "aliases": [],
       "category": "healthcare",
@@ -82114,7 +81930,7 @@
     {
       "id": 10234,
       "name": "St. Paulos Hospital",
-      "amharic": "",
+      "amharic": "ቅዱስ ጳውሎስ ሆስፒታል",
       "aliases": [],
       "category": "other",
       "subcity": "Gullele",
@@ -83054,6 +82870,21 @@
       "subcity": "Bole",
       "lat": 9.016224,
       "lng": 38.813751
+    },
+    {
+      "id": 99001,
+      "name": "Kirkos St. Giorgis Church",
+      "amharic": "ቂርቆስ ቅዱስ ጊዮርጊስ ቤተ ክርስቲያን",
+      "aliases": [
+        "kirkos giorgis",
+        "st giorgis kirkos",
+        "giorgis church kirkos",
+        "ቅዱስ ጊዮርጊስ ቤተክርስቲያን"
+      ],
+      "category": "religious",
+      "subcity": "Kirkos",
+      "lat": 9.014127,
+      "lng": 38.752119
     }
   ]
 }

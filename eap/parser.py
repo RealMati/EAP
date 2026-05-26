@@ -6,7 +6,7 @@ from typing import Optional
 
 from .landmark_index import LandmarkIndex, MatchResult
 from .ner import CombinedNER, NERResult
-from .normalizer import detect_script, normalize_text, transliterate_to_latin
+from .normalizer import detect_script, normalize_text, strip_amharic_genitive, transliterate_to_latin
 
 
 @dataclass
@@ -58,7 +58,7 @@ class EthiopianAddressParser:
     def __init__(
         self,
         data_dir: str = ".",
-        use_transformer_ner: bool = True,
+        use_transformer_ner: bool = False,
         use_semantic_search: bool = False,
         transformer_model: str = "mbeukman/xlm-roberta-base-finetuned-ner-amharic",
         embedding_model: str = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
@@ -206,6 +206,9 @@ class EthiopianAddressParser:
         # Clean up common noisy separators
         clean_text = re.sub(r"[/,|;!\n]+", " ", remaining)
         
+        # Strip Amharic genitive prefix (የ) — "የስታድየም" → "ስታድየም"
+        clean_text = strip_amharic_genitive(clean_text)
+
         # Comprehensive noise word removal pattern
         noise_pattern = (
             r"\b(subcity|sub city|sub-city|kifle ketema|k/ketema|ክፍለ ከተማ|"

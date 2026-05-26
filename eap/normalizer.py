@@ -77,6 +77,54 @@ def transliterate_to_latin(text: str) -> str:
     return "".join(result)
 
 
+def strip_amharic_genitive(text: str) -> str:
+    """Strip common Amharic morphological prefixes from words in an address string.
+
+    Prefixes stripped (all require ≥2 Ethiopic chars to follow, preventing accidental roots):
+      የ  (yä-)  — genitive/possessive:  የስታድየም  → ስታድየም
+      ከ  (kä-)  — ablative/from:        ከቤቱ      → ቤቱ
+      በ  (bä-)  — locative/in/by:       በቦሌ      → ቦሌ
+      ወደ (wädä-)— directional/toward:   ወደሆቴሉ   → ሆቴሉ
+      እስከ (ïskä-)— until/up to:         እስከቦሌ    → ቦሌ
+
+    Also strips the Amharic definite article suffix -ው/-ኑ/-ቱ/-ዋ when attached to ≥3-char stems,
+    since "ሆቴሉ" (the hotel) should match "ሆቴል".
+    """
+    # Multi-char prefixes first (order matters)
+    text = re.sub(r"\bእስከ(?=[ሀ-፿]{2})", "", text)
+    text = re.sub(r"\bወደ(?=[ሀ-፿]{2})", "", text)
+    # Single-char prefixes
+    text = re.sub(r"\b[የከበ](?=[ሀ-፿]{2})", "", text)
+    # Definite suffix: -ው, -ኑ, -ቱ, -ዋ attached to Ethiopic stem of ≥3 chars
+    # Strip only when the suffix character itself is Ethiopic and word is ≥4 chars total
+    text = re.sub(r"([ሀ-፿]{3,})[ውኑቱዋ]\b", r"\1", text)
+    return text
+
+
+def normalize_latin_phonetic(text: str) -> str:
+    """Collapse phonetically equivalent Latin spellings used in Ethiopian address transliteration.
+
+    Handles the three most common c/k/q, ph/f variants so that
+    "mercato" == "merkato" == "meqato" after normalization.
+    Rules (applied in order, left-to-right):
+      ph  → f          (phone → fone)
+      c+h stays ch     (protected before the c→k rule)
+      qu  → k          (queue → k, rare but exists)
+      q   → k          (qirqos → kirkos)
+      c   → k          (mercato → merkato, circa → kirka)
+    All comparisons are case-insensitive; output is lowercase.
+    """
+    t = text.lower()
+    t = t.replace("ph", "f")
+    # Protect digraph 'ch' by temporarily substituting it
+    t = t.replace("ch", "\x00")
+    t = t.replace("qu", "k")
+    t = t.replace("q", "k")
+    t = t.replace("c", "k")
+    t = t.replace("\x00", "ch")  # restore 'ch'
+    return t
+
+
 def normalize_text(text: str) -> str:
     """Full normalization pipeline for any input text."""
     # Unicode normalize

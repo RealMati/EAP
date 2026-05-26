@@ -16,6 +16,7 @@ from .normalizer import (
     detect_script,
     normalize_amharic,
     normalize_text,
+    strip_amharic_genitive,
     transliterate_to_latin,
 )
 
@@ -158,7 +159,8 @@ class RuleBasedNER:
             if not chunk or len(chunk) < 3:
                 continue
             
-            # Remove noise words from chunk
+            # Strip Amharic genitive prefix and remove noise words
+            chunk = strip_amharic_genitive(chunk)
             words = chunk.split()
             filtered_words = [w for w in words if w.lower() not in noise_words]
             candidate = " ".join(filtered_words).strip()

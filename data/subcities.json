@@ -44,7 +44,7 @@
       "id": 6,
       "name": "Kirkos",
       "amharic": "ቂርቆስ",
-      "aliases": ["kirkos", "kirkoss", "krkos", "kazanchis", "kazanches", "kazanchiss", "qirqos", "qirkos", "qirqos subcity", "kirqos"],
+      "aliases": ["kirkos", "kirkoss", "krkos", "kazanchis", "kazanches", "kazanchiss", "qirqos", "qirkos", "qirqos subcity", "kirqos", "ኪርቆስ"],
       "woredas": 11,
       "area_km2": 14.62
     },
@@ -52,7 +52,7 @@
       "id": 7,
       "name": "Kolfe Keranio",
       "amharic": "ኮልፌ ቀራኒዮ",
-      "aliases": ["kolfe keranio", "kolfe", "kolfie", "kolfe keranyo", "keranio", "keranyo"],
+      "aliases": ["kolfe keranio", "kolfe", "kolfie", "kolfe keranyo", "keranio", "keranyo", "ኮልፌ"],
       "woredas": 15,
       "area_km2": 61.25
     },
@@ -60,7 +60,7 @@
       "id": 8,
       "name": "Lideta",
       "amharic": "ልደታ",
-      "aliases": ["lideta", "lidetta", "ledeta"],
+      "aliases": ["lideta", "lidetta", "ledeta", "ሊዴታ"],
       "woredas": 10,
       "area_km2": 9.18
     },

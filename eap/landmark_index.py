@@ -12,6 +12,7 @@ from rapidfuzz import fuzz, process
 from .normalizer import (
     detect_script,
     normalize_amharic,
+    normalize_latin_phonetic,
     normalize_text,
     transliterate_to_latin,
 )
@@ -28,6 +29,8 @@ class Landmark:
     lng: float
     # All searchable forms (populated at load time)
     search_forms: list[str] = field(default_factory=list)
+    # Phonetic-only forms (c/k/q→k, ph→f) — exact matching only, excluded from fuzzy pool
+    phonetic_forms: list[str] = field(default_factory=list)
 
 
 @dataclass
@@ -47,6 +50,9 @@ class LandmarkIndex:
         self._name_to_landmark: dict[str, Landmark] = {}
         self._all_search_forms: list[str] = []
         self._form_to_landmark: dict[str, Landmark] = {}
+        # Phonetic-only lookup (c/k/q, ph/f variants) — used for exact matching only,
+        # kept out of the fuzzy pool to avoid spurious cross-word collisions.
+        self._phonetic_to_landmark: dict[str, Landmark] = {}
         # Embedding-based index (loaded lazily)
         self._embeddings: Optional[np.ndarray] = None
         self._embedding_model = None
@@ -59,26 +65,38 @@ class LandmarkIndex:
             print(f"Warning: Landmark database not found at {data_lm}")
             return
 
-        seen_names = set()
         with open(data_lm) as f:
             raw = json.load(f)
-        
+
         # Handle both list format and object format {"landmarks": [...]}
         landmarks_list = raw.get("landmarks", []) if isinstance(raw, dict) else raw
-        
+
+        # Pass 1: collect all SINGLE-WORD landmark names (lowercased).
+        # Used in pass 2 to gate first-word shortcuts — prevents "Merkato Market"
+        # from stealing the "merkato" slot away from the canonical "Merkato" entry.
+        # Only single-word names qualify: "Bole" would block "bole" from "Bole Airport"
+        # but "Bole Medhanealem" would not block anything.
+        single_word_names: set[str] = set()
+        seen_dedup: set[str] = set()
+        valid_items = []
         for item in landmarks_list:
             name = item.get("name", "").strip()
             if not name:
                 continue
-            
-            # Use name + subcity for deduplication key to allow same name in different areas
             subcity = item.get("subcity", "")
             dedup_key = f"{name.lower()}|{subcity.lower()}"
-            
-            if dedup_key in seen_names:
+            if dedup_key in seen_dedup:
                 continue
-            seen_names.add(dedup_key)
-            
+            seen_dedup.add(dedup_key)
+            name_lower = name.lower()
+            if " " not in name_lower:
+                single_word_names.add(name_lower)
+            valid_items.append(item)
+
+        # Pass 2: build landmarks and search forms
+        for item in valid_items:
+            name = item.get("name", "").strip()
+            subcity = item.get("subcity", "")
             lm = Landmark(
                 name=name,
                 amharic=item.get("amharic", ""),
@@ -88,20 +106,27 @@ class LandmarkIndex:
                 lat=item.get("lat", 0.0),
                 lng=item.get("lng", 0.0),
             )
-            self._build_search_forms(lm)
+            self._build_search_forms(lm, single_word_names)
             self.landmarks.append(lm)
             for form in lm.search_forms:
                 self._form_to_landmark[form] = lm
+            for pform in lm.phonetic_forms:
+                self._phonetic_to_landmark[pform] = lm
             self._name_to_landmark[name.lower()] = lm
 
         self._all_search_forms = list(self._form_to_landmark.keys())
         print(f"Loaded {len(self.landmarks)} landmarks from main database")
 
-    def _build_search_forms(self, lm: Landmark):
+    def _build_search_forms(self, lm: Landmark, single_word_names: set[str] | None = None):
         """Generate all searchable text forms for a landmark."""
         forms = set()
+        phonetic_forms = set()  # kept out of fuzzy pool — exact match only
         # English name and lowercase
-        forms.add(lm.name.lower())
+        name_lower = lm.name.lower()
+        forms.add(name_lower)
+        p = normalize_latin_phonetic(name_lower)
+        if p != name_lower:
+            phonetic_forms.add(p)
         # Amharic name (both raw and normalized)
         if lm.amharic:
             forms.add(lm.amharic)
@@ -110,14 +135,28 @@ class LandmarkIndex:
             latin = transliterate_to_latin(lm.amharic).strip()
             if latin:
                 forms.add(latin)
+                p = normalize_latin_phonetic(latin)
+                if p != latin:
+                    phonetic_forms.add(p)
         # All aliases
         for alias in lm.aliases:
-            forms.add(alias.lower().strip())
-        # Short forms (first word if multi-word)
+            a = alias.lower().strip()
+            forms.add(a)
+            p = normalize_latin_phonetic(a)
+            if p != a:
+                phonetic_forms.add(p)
+        # Short form: first word of multi-word names, but ONLY for Latin/ASCII names.
+        # Skipping Amharic first-words prevents exact-match slot conflicts (e.g. "ፒያሳ"
+        # from "ፒያሳ ቀበሌ 10 ኮንደሚኒየም" overwriting the canonical "Piassa" amharic form).
+        # Also skip if the first word is itself a single-word landmark ("Merkato Market"
+        # must not steal the "merkato" slot from the canonical "Merkato" landmark).
         words = lm.name.lower().split()
-        if len(words) > 1:
-            forms.add(words[0])
+        if len(words) > 1 and words[0].isascii():
+            first_word = words[0]
+            if single_word_names is None or first_word not in single_word_names:
+                forms.add(first_word)
         lm.search_forms = [f for f in forms if f]
+        lm.phonetic_forms = [f for f in phonetic_forms if f and f not in forms]
 
     def match(self, query: str, top_k: int = 5, threshold: float = 55.0, subcity: Optional[str] = None) -> list[MatchResult]:
         """Match a query against the landmark database using multiple strategies.
@@ -135,7 +174,8 @@ class LandmarkIndex:
         seen_landmarks = set()
 
         # Prepare query forms based on script
-        query_forms = [query.lower()]
+        query_lower = query.lower()
+        query_forms = [query_lower]
         script = detect_script(query)
         if script == "ETHIOPIC":
             query_forms.append(normalize_amharic(query))
@@ -148,9 +188,16 @@ class LandmarkIndex:
             if latin:
                 query_forms.append(latin)
 
+        # Also build phonetic query forms for checking _phonetic_to_landmark
+        phonetic_query_forms = []
+        for qf in query_forms:
+            pq = normalize_latin_phonetic(qf)
+            if pq != qf:
+                phonetic_query_forms.append(pq)
+
         SUBCITY_MISMATCH_PENALTY = 20.0
 
-        # 1. Exact match
+        # 1. Exact match (direct forms + phonetic-only forms)
         for qf in query_forms:
             if qf in self._form_to_landmark:
                 lm = self._form_to_landmark[qf]
@@ -162,6 +209,19 @@ class LandmarkIndex:
                     results.append(MatchResult(
                         landmark=lm, score=score,
                         matched_form=qf, method="exact"
+                    ))
+        # Phonetic exact match (e.g. "mercato" query → "merkato" phonetic slot → Merkato)
+        for pqf in phonetic_query_forms:
+            if pqf in self._phonetic_to_landmark:
+                lm = self._phonetic_to_landmark[pqf]
+                score = 95.0  # slightly below exact to prefer direct spelling matches
+                if subcity and lm.subcity and lm.subcity.lower() != subcity.lower():
+                    score -= SUBCITY_MISMATCH_PENALTY
+                if lm.name not in seen_landmarks:
+                    seen_landmarks.add(lm.name)
+                    results.append(MatchResult(
+                        landmark=lm, score=score,
+                        matched_form=pqf, method="exact"
                     ))
 
         # Only skip fuzzy/semantic if we already have top_k strong same-subcity exact matches
