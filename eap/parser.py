@@ -1,7 +1,9 @@
 """Main address parser — orchestrates NER, landmark matching, and geocoding."""
 
+import json
 import re
 from dataclasses import dataclass, field
+from pathlib import Path
 from typing import Optional
 
 from .landmark_index import LandmarkIndex, MatchResult
@@ -43,6 +45,10 @@ class ParsedAddress:
     # NER details
     ner_result: Optional[NERResult] = None
 
+    # Point-in-polygon subcity derived from landmark GPS (may differ from NER subcity)
+    polygon_subcity: Optional[str] = None
+    subcity_geo_match: Optional[bool] = None  # True/False/None(no coords)
+
 
 class EthiopianAddressParser:
     """Parse Ethiopian landmark-based addresses to structured data + GPS coordinates.
@@ -73,14 +79,56 @@ class EthiopianAddressParser:
         self._use_semantic = use_semantic_search
         self._embedding_model = embedding_model
         self._initialized = False
+        # Subcity boundary polygons: list of (name, ring) where ring = [(lng, lat), ...]
+        self._subcity_polygons: list[tuple[str, list[tuple[float, float]]]] = []
 
     def load(self):
         """Load all data and models."""
         self.ner.load()
         self.landmark_index.load()
+        self._load_subcity_polygons()
         if self._use_semantic:
             self.landmark_index.build_embedding_index(self._embedding_model)
         self._initialized = True
+
+    def _load_subcity_polygons(self):
+        """Load GeoJSON subcity boundary polygons for point-in-polygon checks."""
+        path = Path(self.data_dir) / "data" / "addis_subcities.json"
+        if not path.exists():
+            return
+        with open(path) as f:
+            geojson = json.load(f)
+        for feature in geojson.get("features", []):
+            name = feature.get("properties", {}).get("name", "")
+            geom = feature.get("geometry", {})
+            if geom.get("type") == "Polygon":
+                # Outer ring only (index 0); coords are [lng, lat] per GeoJSON spec
+                ring = [(pt[0], pt[1]) for pt in geom["coordinates"][0]]
+                self._subcity_polygons.append((name, ring))
+        print(f"Loaded {len(self._subcity_polygons)} subcity boundary polygons")
+
+    def _point_in_polygon(self, lat: float, lng: float) -> Optional[str]:
+        """Return the subcity name whose boundary polygon contains (lat, lng).
+
+        Uses the ray casting algorithm: fire a horizontal ray east from the point
+        and count edge crossings. Odd = inside, even = outside.
+        GeoJSON rings store coordinates as (longitude, latitude).
+        """
+        for name, ring in self._subcity_polygons:
+            inside = False
+            n = len(ring)
+            j = n - 1
+            for i in range(n):
+                xi, yi = ring[i]   # xi=lng, yi=lat
+                xj, yj = ring[j]
+                # Does edge (j→i) cross the horizontal ray from (lng, lat) going east?
+                if ((yi > lat) != (yj > lat)) and \
+                   (lng < (xj - xi) * (lat - yi) / (yj - yi) + xi):
+                    inside = not inside
+                j = i
+            if inside:
+                return name
+        return None
 
     def parse(self, address: str) -> ParsedAddress:
         """Parse an address string into structured components + coordinates."""
@@ -166,6 +214,21 @@ class EthiopianAddressParser:
             # If landmark has subcity info but NER didn't find one, use it
             if not result.subcity and lm.subcity:
                 result.subcity = lm.subcity
+
+        # Step 4b: Point-in-polygon subcity validation
+        # Use the landmark's GPS coordinates to check which subcity polygon actually
+        # contains that point. Compare against the NER-detected subcity.
+        if result.latitude and result.longitude and self._subcity_polygons:
+            pip_subcity = self._point_in_polygon(result.latitude, result.longitude)
+            result.polygon_subcity = pip_subcity
+            if pip_subcity and result.subcity:
+                result.subcity_geo_match = (
+                    pip_subcity.lower() == result.subcity.lower()
+                )
+            elif pip_subcity and not result.subcity:
+                # NER found nothing — trust the polygon
+                result.subcity = pip_subcity
+                result.subcity_geo_match = True
 
         # Step 5: Confidence
         result.confidence, result.confidence_breakdown = self._calculate_confidence(result)
