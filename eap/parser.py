@@ -107,13 +107,21 @@ class EthiopianAddressParser:
                 self._subcity_polygons.append((name, ring))
         print(f"Loaded {len(self._subcity_polygons)} subcity boundary polygons")
 
-    def _point_in_polygon(self, lat: float, lng: float) -> Optional[str]:
-        """Return the subcity name whose boundary polygon contains (lat, lng).
+    def _point_in_polygon(self, lat: float, lng: float, tolerance_km: float = 1.5) -> Optional[str]:
+        """Return the subcity name for (lat, lng).
 
-        Uses the ray casting algorithm: fire a horizontal ray east from the point
-        and count edge crossings. Odd = inside, even = outside.
+        First tries strict containment via ray casting. If the point falls outside
+        all polygons, finds the nearest polygon boundary — if within tolerance_km,
+        returns that subcity (handles landmarks just over the city edge or on a
+        boundary line). Returns None only if further than tolerance_km from every polygon.
+
         GeoJSON rings store coordinates as (longitude, latitude).
+        Addis Ababa latitude ~9°N: 1° lat ≈ 111.0km, 1° lng ≈ 110.0km.
         """
+        LAT_KM = 111.0
+        LNG_KM = 110.0  # at ~9°N: 111 * cos(9°) ≈ 109.7, rounded up
+
+        # Pass 1 — strict containment (ray casting)
         for name, ring in self._subcity_polygons:
             inside = False
             n = len(ring)
@@ -121,13 +129,44 @@ class EthiopianAddressParser:
             for i in range(n):
                 xi, yi = ring[i]   # xi=lng, yi=lat
                 xj, yj = ring[j]
-                # Does edge (j→i) cross the horizontal ray from (lng, lat) going east?
                 if ((yi > lat) != (yj > lat)) and \
                    (lng < (xj - xi) * (lat - yi) / (yj - yi) + xi):
                     inside = not inside
                 j = i
             if inside:
                 return name
+
+        # Pass 2 — nearest boundary within tolerance
+        best_name: Optional[str] = None
+        best_dist = float("inf")
+
+        for name, ring in self._subcity_polygons:
+            n = len(ring)
+            for i in range(n):
+                x1, y1 = ring[i]       # lng, lat of edge start
+                x2, y2 = ring[(i + 1) % n]  # lng, lat of edge end
+                # Vector from edge start to end
+                ex = (x2 - x1) * LNG_KM
+                ey = (y2 - y1) * LAT_KM
+                # Vector from edge start to point
+                px = (lng - x1) * LNG_KM
+                py = (lat - y1) * LAT_KM
+                seg_len_sq = ex * ex + ey * ey
+                if seg_len_sq == 0:
+                    # Degenerate edge — distance to the point itself
+                    dist = (px * px + py * py) ** 0.5
+                else:
+                    # Project point onto segment, clamp t to [0, 1]
+                    t = max(0.0, min(1.0, (px * ex + py * ey) / seg_len_sq))
+                    dx = px - t * ex
+                    dy = py - t * ey
+                    dist = (dx * dx + dy * dy) ** 0.5
+                if dist < best_dist:
+                    best_dist = dist
+                    best_name = name
+
+        if best_dist <= tolerance_km:
+            return best_name
         return None
 
     def parse(self, address: str) -> ParsedAddress:
